@@ -1,0 +1,233 @@
+{
+    "id": "677bb239-42eb-43bd-b19b-094b17934dc7",
+    "name": "MITRE ATT&CK",
+    "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.\n\nhttps://attack.mitre.org",
+    "created": "2018-01-17T12:56:55.080000+00:00",
+    "modified": "2021-04-29T14:49:39.188000+00:00",
+    "collections": [
+        {
+            "id": "x-mitre-collection--23320f4-22ad-8467-3b73-ed0c869a12838",
+            "created": "2018-01-17T12:56:55.080Z",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-1.0.json",
+                    "modified": "2018-01-17T12:56:55.080Z"
+                },
+                {
+                    "version": "2.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-2.0.json",
+                    "modified": "2018-04-18T17:59:24.739Z"
+                },
+                {
+                    "version": "3.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-3.0.json",
+                    "modified": "2018-10-23T00:14:20.652Z"
+                },
+                {
+                    "version": "4.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-4.0.json",
+                    "modified": "2019-04-30T13:45:13.024Z"
+                },
+                {
+                    "version": "5.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-5.0.json",
+                    "modified": "2019-07-19T17:44:53.176Z"
+                },
+                {
+                    "version": "5.1.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-5.1.json",
+                    "modified": "2019-07-27T00:09:36.949Z"
+                },
+                {
+                    "version": "5.2.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-5.2.json",
+                    "modified": "2019-07-27T00:09:37.061Z"
+                },
+                {
+                    "version": "6.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-6.0.json",
+                    "modified": "2019-10-23T14:19:37.289Z"
+                },
+                {
+                    "version": "6.1.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-6.1.json",
+                    "modified": "2019-11-21T14:49:39.188Z"
+                },
+                {
+                    "version": "6.2.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-6.2.json",
+                    "modified": "2019-12-02T14:49:39.188Z"
+                },
+                {
+                    "version": "6.3.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-6.3.json",
+                    "modified": "2020-03-09T14:49:39.188Z"
+                },
+                {
+                    "version": "7.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-7.0.json",
+                    "modified": "2020-03-31T14:49:39.188Z"
+                },
+                {
+                    "version": "7.1.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-7.1.json",
+                    "modified": "2020-07-13T14:49:39.188Z"
+                },
+                {
+                    "version": "7.2.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-7.2.json",
+                    "modified": "2020-07-15T14:49:39.188Z"
+                },
+                {
+                    "version": "8.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-8.0.json",
+                    "modified": "2020-10-27T14:49:39.188Z"
+                },
+                {
+                    "version": "8.1.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-8.1.json",
+                    "modified": "2020-11-12T14:49:39.188Z"
+                },
+                {
+                    "version": "8.2.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-8.2.json",
+                    "modified": "2021-01-27T14:49:39.188Z"
+                },
+                {
+                    "version": "9.0.0",
+                    "url": "http://localhost:8082/collection-bundles/enterprise-attack-9.0.json",
+                    "modified": "2021-04-29T14:49:39.188Z"
+                }
+            ],
+            "name": "Enterprise ATT&CK",
+            "description": "ATT&CK for Enterprise provides a knowledge base of real-world adversary behavior targeting traditional enterprise networks. ATT&CK for Enterprise covers the following platforms: Windows, macOS, Linux, PRE, Office 365, Google Workspace, IaaS, Network, and Containers."
+        },
+        {
+            "id": "x-mitre-collection--90c00720-636b-4485-b342-8751d232bf09",
+            "created": "2020-10-27T14:49:39.188Z",
+            "versions": [
+                {
+                    "version": "8.0.0",
+                    "url": "http://localhost:8082/collection-bundles/ics-attack-8.0.json",
+                    "modified": "2020-10-27T14:49:39.188Z"
+                },
+                {
+                    "version": "8.1.0",
+                    "url": "http://localhost:8082/collection-bundles/ics-attack-8.1.json",
+                    "modified": "2020-11-12T14:49:39.188Z"
+                },
+                {
+                    "version": "8.2.0",
+                    "url": "http://localhost:8082/collection-bundles/ics-attack-8.2.json",
+                    "modified": "2021-01-27T14:49:39.188Z"
+                },
+                {
+                    "version": "9.0.0",
+                    "url": "http://localhost:8082/collection-bundles/ics-attack-9.0.json",
+                    "modified": "2021-04-29T14:49:39.188Z"
+                }
+            ],
+            "name": "ICS ATT&CK",
+            "description": " The ATT&CK for Industrial Control Systems (ICS) knowledge base categorizes the unique set of tactics, techniques, and procedures (TTPs) used by threat actors in the ICS technology domain. ATT&CK for ICS outlines the portions of an ICS attack that are out of scope of Enterprise and reflects the various phases of an adversary’s attack life cycle and the assets and systems they are known to target."
+        },
+        {
+            "id": "x-mitre-collection--dac0d2d7-8653-445c-9bff-82f934c1e858",
+            "created": "2018-01-17T12:56:55.080Z",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-1.0.json",
+                    "modified": "2018-01-17T12:56:55.080Z"
+                },
+                {
+                    "version": "2.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-2.0.json",
+                    "modified": "2018-04-18T17:59:24.739Z"
+                },
+                {
+                    "version": "3.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-3.0.json",
+                    "modified": "2018-10-23T00:14:20.652Z"
+                },
+                {
+                    "version": "4.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-4.0.json",
+                    "modified": "2019-04-30T13:45:13.024Z"
+                },
+                {
+                    "version": "5.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-5.0.json",
+                    "modified": "2019-07-19T17:44:53.176Z"
+                },
+                {
+                    "version": "5.1.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-5.1.json",
+                    "modified": "2019-07-27T00:09:36.949Z"
+                },
+                {
+                    "version": "5.2.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-5.2.json",
+                    "modified": "2019-07-27T00:09:37.061Z"
+                },
+                {
+                    "version": "6.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-6.0.json",
+                    "modified": "2019-10-23T14:19:37.289Z"
+                },
+                {
+                    "version": "6.1.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-6.1.json",
+                    "modified": "2019-11-21T14:49:39.188Z"
+                },
+                {
+                    "version": "6.2.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-6.2.json",
+                    "modified": "2019-12-02T14:49:39.188Z"
+                },
+                {
+                    "version": "6.3.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-6.3.json",
+                    "modified": "2020-03-09T14:49:39.188Z"
+                },
+                {
+                    "version": "7.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-7.0.json",
+                    "modified": "2020-03-31T14:49:39.188Z"
+                },
+                {
+                    "version": "7.1.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-7.1.json",
+                    "modified": "2020-07-13T14:49:39.188Z"
+                },
+                {
+                    "version": "7.2.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-7.2.json",
+                    "modified": "2020-07-15T14:49:39.188Z"
+                },
+                {
+                    "version": "8.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-8.0.json",
+                    "modified": "2020-10-27T14:49:39.188Z"
+                },
+                {
+                    "version": "8.1.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-8.1.json",
+                    "modified": "2020-11-12T14:49:39.188Z"
+                },
+                {
+                    "version": "8.2.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-8.2.json",
+                    "modified": "2021-01-27T14:49:39.188Z"
+                },
+                {
+                    "version": "9.0.0",
+                    "url": "http://localhost:8082/collection-bundles/mobile-attack-9.0.json",
+                    "modified": "2021-04-29T14:49:39.188Z"
+                }
+            ],
+            "name": "Mobile ATT&CK",
+            "description": "ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smartphones and tablets running the Android or iOS/iPadOS operating systems). ATT&CK for Mobile builds upon NIST's Mobile Threat Catalogue and also contains a separate matrix of network-based effects, which are techniques that an adversary can employ without access to the mobile device itself."
+        }
+    ]
+}

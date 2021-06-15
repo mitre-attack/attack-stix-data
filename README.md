@@ -4,6 +4,8 @@ This repository contains the [MITRE ATT&CK](https://attack.mitre.org) dataset re
 
 See the [USAGE](/USAGE.md) document for information on using this content with [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2).
 
+The full contents of this repository is listed in [index.md](/index.md).
+
 ## MITRE ATT&CK
 
 MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.

@@ -25,3 +25,13 @@ This script is intended to transform a machine readable collection index JSON fi
 ```
 python3 util/index-to-md.py
 ```
+
+## [bundle-to-filesystem.py](bundle-to-filesystem.py)
+
+This script generates a [FileSystemSource](https://stix2.readthedocs.io/en/latest/guide/filesystem.html) from the input STIX bundles or collection folders.
+
+### Usage:
+```
+python3 util/bundle-to-filesystem.py -folders enterprise-attack mobile-attack ics-attack
+```
+

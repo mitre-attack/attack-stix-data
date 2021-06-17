@@ -52,7 +52,7 @@ def generate_index(name, description, root_url, files=None, folders=None):
                     "description": collection_version["description"], # this will be deleted later in the code
                 })
                 # ensure the versions are ordered
-                collection["versions"].sort(key=lambda version: isoparse(version["modified"]))
+                collection["versions"].sort(key=lambda version: isoparse(version["modified"]), reverse=True)
 
     for collection in collections.values():
         # set collection name and description from most recently modified version

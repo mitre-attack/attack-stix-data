@@ -10,7 +10,7 @@ This repository contains the MITRE ATT&CK dataset represented in STIX 2.1 JSON c
 .
 ├─ enterprise-attack ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [1] Collection folder for Enterprise
 │   ├─ enterprise-attack.json ∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [2] Most recent Enterprise release
-│   ├─ enterprise-attack-9.0 ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [3] Enterprise ATT&CK v9.0 collection
+│   ├─ enterprise-attack-9.0.json∙∙∙∙∙∙∙∙∙∙∙ [3] Enterprise ATT&CK v9.0 collection
 │   └─ [other releases of Enterprise ATT&CK]
 ├─ mobile-attack
 │   └─ [Mobile ATT&CK releases]

@@ -20,15 +20,15 @@ This repository contains the MITRE ATT&CK dataset represented in STIX 2.1 JSON c
 └─ index.md ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [5] Collection Index markdown
 ```
 
-**[1]** Each domain of ATT&CK (Enterprise, Mobile and ICS) is represented as a series of STIX 2.1 [collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections) representing the individual releases of the dataset, organized within the collection folders.
+**[1]** Each domain of ATT&CK (Enterprise, Mobile and ICS) is represented as a series of  STIX 2.1 [collection](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections) bundles representing the individual releases of the dataset, organized within the collection folders.
 
-**[2]** Each domain includes an collection file without version markings which will always match the most recent release of the dataset. Use this if you want to retrieve the current release and not a specific release of the dataset. 
+**[2]** Each domain includes a STIX 2.1 collection bundle without version markings which will always match the most recent release of the dataset.
 
-**[3]** Each STIX bundle in the collection folders is a represents a specific release of the collection. Learn more in our [collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections) document.
+**[3]** Each STIX bundle in the collection folders represents a specific release of the collection. Learn more in our [collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections) document.
 
 **[4]** The [collection index JSON](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json) lists the contents of this repository in a machine-readable format. Learn more in our [collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collection-indexes) document.
 
-**[5]** The [collection index markdown](/index.md) lists the contents of the collection index in a human-readable format.
+**[5]** The [collection index markdown](/index.md) lists the contents of this repository in a human-readable format.
 
 ## Supporting Documentation
 
@@ -40,13 +40,13 @@ STIX enables organizations to share CTI with one another in a consistent and mac
 
 STIX is designed to improve many different capabilities, such as collaborative threat analysis, automated threat exchange, automated detection and response, and more.
 
-### [Collections](/docs/collections.md#collections)
+### [Collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections)
 
 Collections are sets of related ATT&CK objects, and may be used to represent specific releases of a dataset such as “Enterprise ATT&CK v9.0” or any other set of objects one may want to share with someone else. 
 
 Each ATT&CK release on this repository is itself a collection. A full list of collections on this repository can be found in [index.md](index.md).
 
-### [Collection Indexes](/docs/collections.md#collection-indexes)
+### [Collection Indexes](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collection-indexes)
 
 Collection indexes are organized lists of collections intended to ease their distribution to data consumers. Collection indexes track individual releases of given collections (e.g Enterprise v7, Enterprise v8, Enterprise v9) and allow applications such as the [ATT&CK Workbench](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend) to check if new releases have been published. Collection indexes are represented as JSON objects.
   

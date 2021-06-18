@@ -2,27 +2,25 @@
 
 This folder contains utilities for the maintenance of the data in this repository. They are provided for maintainers within the ATT&CK team and to enable the ATT&CK community to release their own extensions of this dataset on similarly formatted repositories. 
 
-The intention and use of the scripts is described below.
+## Requirements
+- [python3](https://www.python.org/)
+
+## Installation
+
+1. Create virtual environment:
+    - macOS and Linux: `python3 -m venv env`
+    - Windows: `py -m venv env`
+2. Activate the virtual environment:
+    - macOS and Linux: `source env/bin/activate`
+    - Windows: `env/Scripts/activate.bat`
+3. Install requirements into the virtual environment: `pip3 install -r util/requirements.txt`
 
 ## [generate-collection-index.py](generate-collection-index.py)
 
-This script is intended to regenerate the collection index which references the collections in this repository. 
+This script generates a collection index from a set of collections. Run `python3 util/generate-collection-index.py -h` for usage instructions.
 
-### Usage:
-```
-python3 util/generate-collection-index.py \
-    "MITRE ATT&CK" \
-    "[MITRE ATT&CK](https://attack.mitre.org) is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community." \
-    "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/" \
-    -folders enterprise-attack mobile-attack ics-attack
-```
+The [ATT&CK Workbench](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend) tool can create collections to serve as input to this script.
 
 ## [index-to-md.py](index-to-md.py)
 
-This script is intended to transform a machine readable collection index JSON file into a human readable Markdown file. 
-
-### Usage: 
-```
-python3 util/index-to-md.py
-```
-
+This script transforms a machine readable collection index JSON file into a human readable Markdown file, providing a listing of the full contents of the collection index. Run `python3 util/index-to-md.py -h` for usage instructions.

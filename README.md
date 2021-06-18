@@ -1,18 +1,38 @@
 # ATT&CK® STIX Data
 
-This repository contains the [MITRE ATT&CK](https://attack.mitre.org) dataset represented in STIX 2.1 JSON. If you are looking for STIX 2.0 JSON representing ATT&CK, please see our [MITRE/CTI](https://github.com/mitre/cti) GitHub repository which contains the same dataset but in STIX 2.0 and without the [collections](#collections) features provided on this repository.
+[MITRE ATT&CK](https://attack.mitre.org) is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community. 
 
-See the [USAGE](/USAGE.md) document for information on using this content with [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2).
+This repository contains the MITRE ATT&CK dataset represented in STIX 2.1 JSON collections. If you are looking for STIX 2.0 JSON representing ATT&CK, please see our [MITRE/CTI](https://github.com/mitre/cti) GitHub repository which contains the same dataset but in STIX 2.0 and without the collections features provided on this repository.
 
-The full contents of this repository is listed in [index.md](/index.md).
+## Repository Structure
 
-## MITRE ATT&CK
+```
+.
+├─ enterprise-attack ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [1] Collection folder for Enterprise
+│   ├─ enterprise-attack.json ∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [2] Most recent Enterprise release
+│   ├─ enterprise-attack-9.0 ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [3] Enterprise ATT&CK v9.0 collection
+│   └─ [other releases of Enterprise ATT&CK]
+├─ mobile-attack
+│   └─ [Mobile ATT&CK releases]
+├─ ics-attack
+│   └─ [ATT&CK for ICS releases]
+├─ index.json ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [4] Collection index JSON
+└─ index.md ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [5] Collection Index markdown
+```
 
-MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
+**[1]** Each domain of ATT&CK (Enterprise, Mobile and ICS) is represented as a series of STIX 2.1 [collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections) representing the individual releases of the dataset, organized within the collection folders.
 
-https://attack.mitre.org
+**[2]** Each domain includes an collection file without version markings which will always match the most recent release of the dataset. Use this if you want to retrieve the current release and not a specific release of the dataset. 
 
-## STIX
+**[3]** Each STIX bundle in the collection folders is a represents a specific release of the collection. Learn more in our [collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections) document.
+
+**[4]** The [collection index JSON](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json) lists the contents of this repository in a machine-readable format. Learn more in our [collections](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collection-indexes) document.
+
+**[5]** The [collection index markdown](/index.md) lists the contents of the collection index in a human-readable format.
+
+## Supporting Documentation
+
+### [STIX](https://oasis-open.github.io/cti-documentation/)
 
 Structured Threat Information Expression (STIX™) is a language and serialization format used to exchange cyber threat intelligence (CTI).
 
@@ -20,46 +40,32 @@ STIX enables organizations to share CTI with one another in a consistent and mac
 
 STIX is designed to improve many different capabilities, such as collaborative threat analysis, automated threat exchange, automated detection and response, and more.
 
-https://oasis-open.github.io/cti-documentation/
+### [Collections](/docs/collections.md#collections)
 
+Collections are sets of related ATT&CK objects, and may be used to represent specific releases of a dataset such as “Enterprise ATT&CK v9.0” or any other set of objects one may want to share with someone else. 
 
-## Collections
+Each ATT&CK release on this repository is itself a collection. A full list of collections on this repository can be found in [index.md](index.md).
 
-The data in this repository includes Collections and a Collection Index for use with the [ATT&CK Workbench](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend) project. These data formats also enable record keeping of ATT&CK versions and extensions. 
+### [Collection Indexes](/docs/collections.md#collection-indexes)
 
-- [Collections](/docs/collections.md#collections)
-
-  Collections are sets of related ATT&CK objects, and may be used to represent specific releases of a dataset such as “Enterprise ATT&CK v9.0” or any other set of objects one may want to share with someone else. 
-
-  Each ATT&CK release on this repository is itself a collection. A full list of collections on this repository can be found in [index.md](index.md).
-
-- [Collection Indexes](/docs/collections.md#collection-indexes)
-
-  Collection indexes are organized lists of collections intended to ease their distribution to data consumers. Collection indexes track individual releases of given collections (e.g Enterprise v7, Enterprise v8, Enterprise v9) and allow applications such as the Workbench to check if new releases have been published. Collection Indexes are represented as JSON objects.
+Collection indexes are organized lists of collections intended to ease their distribution to data consumers. Collection indexes track individual releases of given collections (e.g Enterprise v7, Enterprise v8, Enterprise v9) and allow applications such as the [ATT&CK Workbench](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend) to check if new releases have been published. Collection indexes are represented as JSON objects.
   
-  The ATT&CK collection index for the contents of this repository is [index.json](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json), with a human-readable representation available in [index.md](index.md).
+The ATT&CK collection index for the contents of this repository is [index.json](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json), with a human-readable representation available in [index.md](index.md).
 
-More information about collections and collection indexes can be found in the ATT&CK Workbench's [collections document](docs/collections.md).
+### [Usage](/USAGE.md)
 
-## Repository Structure
+The Usage document includes documentation of the ATT&CK data model as well as code examples for accessing and querying this content with [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2).
 
-```
-.
-├─ enterprise-attack ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [1] Collection folder 
-│   ├─ enterprise-attack.json ∙∙∙∙∙∙∙∙∙∙∙ [2] Most recent version of the collection
-│   ├─ enterprise-attack-9.0 ∙∙∙∙∙∙∙∙∙∙∙∙ [3] Collection version folder
-│   │   ├─ enterprise-attack-9.0.json ∙∙∙ [4] Collection version bundle
-│   │   ├─ attack-pattern ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [5] attack-patterns in that version
-│   │   ├─ course-of-action ∙∙∙∙∙∙∙∙∙∙∙∙∙     course-of-actions in that version
-│   │   └─ [other object types]
-│   └─ [other releases of Enterprise ATT&CK]
-└─ [other collections]
-```
-1. Each Collection folder represents a domain of ATT&CK
-2. The STIX bundle in the root of the collection folder will always be the most recent version of the collection. Use this if you want to reference the domain _in-general_ and not a specific release of the dataset.
-3. The collection version folder contains a specific release of ATT&CK.
-4. The collection version bundle represents the data of that specific version. It also contains a [collection object](#collections) to allow it to be imported into the [ATT&CK Workbench](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend).
-5. Each collection version folder is a [FileSystemSource](https://stix2.readthedocs.io/en/latest/guide/filesystem.html), with sub-folders of each object type. The FileSystemSource has the same content as the collection version bundle, but unlike the collection version bundle it cannot be imported into the ATT&CK Workbench.
+## Notice 
 
-The full list of collections and versions stored within this repository can be found in [index.md](/index.md).
+Copyright 2020-2021 The MITRE Corporation. Approved for public release. Case number 19-3504.
 
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at 
+
+http://www.apache.org/licenses/LICENSE-2.0 
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. 
+
+This project makes use of ATT&CK®
+
+[ATT&CK Terms of Use](https://attack.mitre.org/resources/terms-of-use/)

@@ -17,7 +17,7 @@ This repository contains the MITRE ATT&CK dataset represented in STIX 2.1 JSON c
 ├─ ics-attack
 │   └─ [ATT&CK for ICS releases]
 ├─ index.json ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [4] Collection index JSON
-└─ index.md ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [5] Collection Index markdown
+└─ index.md ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ [5] Collection index markdown
 ```
 
 **[1]** Each domain of ATT&CK (Enterprise, Mobile and ICS) is represented as a series of  STIX 2.1 [collection](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collections) bundles representing the individual releases of the dataset, organized within the collection folders.
@@ -54,17 +54,11 @@ The ATT&CK collection index for the contents of this repository is [index.json](
 
 ### [Usage](/USAGE.md)
 
-The Usage document includes documentation of the ATT&CK data model as well as code examples for accessing and querying this content with [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2).
+The Usage document includes documentation of the ATT&CK data model as well as code examples for accessing and querying this content with [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2). Additional information and tooling for maintaining the data in this repository is available in the [util](/util) folder.
 
 ## Notice 
 
 Copyright 2020-2021 The MITRE Corporation. Approved for public release. Case number 19-3504.
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at 
-
-http://www.apache.org/licenses/LICENSE-2.0 
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. 
 
 This project makes use of ATT&CK®
 

@@ -52,9 +52,10 @@ Collection indexes are organized lists of collections intended to ease their dis
   
 The ATT&CK collection index for the contents of this repository is [index.json](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/index.json), with a human-readable representation available in [index.md](index.md).
 
-### [Usage](/USAGE.md)
+<!-- TODO re-add this document -->
+<!-- ### [Usage](/USAGE.md) -->
 
-The Usage document includes documentation of the ATT&CK data model as well as code examples for accessing and querying this content with [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2). Additional information and tooling for maintaining the data in this repository is available in the [util](/util) folder.
+<!-- The Usage document includes documentation of the ATT&CK data model as well as code examples for accessing and querying this content with [cti-python-stix2](https://github.com/oasis-open/cti-python-stix2). Additional information and tooling for maintaining the data in this repository is available in the [util](/util) folder. -->
 
 ## Notice 
 

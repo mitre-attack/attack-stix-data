@@ -109,6 +109,7 @@ There are three general ways that ATT&CK extends the STIX 2.1 format:
     | `x_mitre_version` | string | The version of the object in format `major.minor` where `major` and `minor` are integers. ATT&CK increments this version number when the object content is updated. not found on `relationship` objects. |
     | `x_mitre_contributors` | string[] | People and organizations who have contributed to the object. Not found on `relationship` objects. |
     | `x_mitre_modified_by_ref`<sup>1</sup> | string | the STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.  |
+    | `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the object is found in. See [domains](#domains) for more information. Not found on `relationship` objects. |
 
     <sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
@@ -170,22 +171,16 @@ Matrices extend the generic SDO format with the following field:
 | Field | Type | Description |
 |:------|:-----|-------------|
 | `tactic_refs` | string[] | The `tactic_refs` array of the matrix contains an ordered list of `x-mitre-tactic` STIX IDs corresponding to the tactics of the matrix. The order of `tactic_refs` determines the order the tactics should appear within the matrix. |
-| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the matrix is found in. See [domains](#domains) for more information. |
-
-<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ### Tactics
 
 A Tactic in ATT&CK is defined by an `x-mitre-tactic` object. As a custom STIX type they follow only the generic [STIX Domain Object pattern](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230920).
 
-Tactics extend the generic SDO format with the following fields:
+Tactics extend the generic SDO format with the following field:
 
 | Field | Type | Description |
 |:------|:-----|-------------|
 | `x_mitre_shortname` | string | The `x_mitre_shortname` of the tactic is used for mapping techniques into the tactic. It corresponds to `kill_chain_phases.phase_name` of the techniques in the tactic. |
-| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the tactic is found in. See [domains](#domains) for more information. |
-
-<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ### Techniques
 
@@ -195,7 +190,6 @@ Techniques depart from the attack-pattern format with the following fields. Doma
 
 | Field | Type | Applies to | Description | 
 |:------|:-----|:--------|:------------|
-| `x_mitre_domains`<sup>1</sup> | string[] | All techniques | Identifies the domains the technique is found in. See [domains](#domains) for more information. |
 | `x_mitre_detection` | string | All techniques | Strategies for identifying if a technique has been used by an adversary. |
 | `x_mitre_platforms` | string[] | All techniques | List of platforms that apply to the technique. |
 | `x_mitre_data_sources` | string[] | Enterprise and ICS domains | Sources of information that may be used to identify the action or result of the action being performed. |
@@ -205,8 +199,6 @@ Techniques depart from the attack-pattern format with the following fields. Doma
 | `x_mitre_permissions_required` | string[] | Enterprise domain in the _Privilege Escalation_ tactic | The lowest level of permissions the adversary is required to be operating within to perform the technique on a system. |
 | `x_mitre_defense_bypassed` | string[] | Enterprise domain in the _Defense Evasion_ tactic | List of defensive tools, methodologies, or processes the technique can bypass. |
 | `x_mitre_remote_support` | boolean | Enterprise domain in the _Execution_ tactic | If true, the technique can be used to execute something on a remote system. |
-
-<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 Techniques map into tactics by use of their `kill_chain_phases` property. Where the `kill_chain_name` is `mitre-attack`, `mitre-mobile-attack`, or `mitre-ics-attack` (for enterprise, mobile, and ics domains respectively), the `phase_name` corresponds to the `x_mitre_shortname` property of an `x-mitre-tactic` object.
 
@@ -227,15 +219,8 @@ ATT&CK does not represent procedures under their own STIX type. Instead, procedu
 
 ### Mitigations
 
-A Mitigation in ATT&CK is defined as a [course-of-action](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230929) object.
+A Mitigation in ATT&CK is defined as a [course-of-action](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230929) object. ATT&CK Mitigations do not depart from the STIX `course-of-action` spec.
 
-Tactics extend the `course-of-action` format with the following field:
-
-| Field | Type | Description |
-|:------|:-----|-------------|
-| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the mitigation is found in. See [domains](#domains) for more information. |
-
-<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 #### Collisions with technique ATT&CK IDs
 
@@ -243,15 +228,7 @@ In ATT&CK versions prior to v5 (released in July of 2019), mitigations had 1:1 r
 
 ### Groups
 
-A Group in ATT&CK is defined as an [intrusion-set](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230941) object. 
-
-Groups extend the `intrusion-set` format with the following field:
-
-| Field | Type | Description |
-|:------|:-----|-------------|
-| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the group is found in. See [domains](#domains) for more information. |
-
-<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
+A Group in ATT&CK is defined as an [intrusion-set](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230941) object. ATT&CK Groups do not depart from the STIX `intrusion-set` spec.
 
 ### Software
 
@@ -263,9 +240,6 @@ Both `malware` and `tool` type software depart from the STIX format with the fol
 |:------|:-----|-------------|
 | `x_mitre_platforms` | string[] | List of platforms that apply to the software. |
 | `x_mitre_aliases` | string[] | List of aliases for the given software |
-| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the software is found in. See [domains](#domains) for more information. |
-
-<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ### Relationships
 

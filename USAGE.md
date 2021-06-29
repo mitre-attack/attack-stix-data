@@ -40,11 +40,11 @@ We also recommend reading the [ATT&CK Design and Philosophy Paper](https://attac
     + [stix2](#stix2)
     + [taxii2client](#taxii2client)
   * [Access local content](#access-local-content)
-    + [Access most recent version via MemoryStore](#access-most-recent-version-via-memorystore)
+    + [Access the most recent version via MemoryStore](#access-the-most-recent-version-via-memorystore)
     + [Access a specific version via MemoryStore](#access-a-specific-version-via-memorystore)
   * [Access live content](#access-live-content)
     + [Access from the ATT&CK TAXII server](#access-from-the-attck-taxii-server)
-    + [Access most recent version from GitHub via requests](#access-most-recent-version-from-github-via-requests)
+    + [Access the most recent version from GitHub via requests](#access-the-most-recent-version-from-github-via-requests)
     + [Access a specific version from GitHub via requests](#access-a-specific-version-from-github-via-requests)
   * [Getting a list of versions](#getting-a-list-of-versions)
   * [Access multiple domains simultaneously](#access-multiple-domains-simultaneously)
@@ -86,7 +86,9 @@ ATT&CK uses a mix of predefined and custom STIX objects to implement ATT&CK conc
 | [Mitigation](#mitigations)       | [course-of-action](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230929) | no |
 | [Group](#groups)                 | [intrusion-set](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230941)  | no |
 | [Software](#software)            | [malware](http://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230945) or [tool](http://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230961) | no |
-| [Collection](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md) | `x-mitre-collection` | yes |
+| [Collection](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md)<sup>1</sup> | `x-mitre-collection` | yes |
+
+<sup>1</sup> This type was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 Two additional object types are found in the ATT&CK catalog:
  
@@ -106,7 +108,9 @@ There are three general ways that ATT&CK extends the STIX 2.1 format:
     |:------|:-----|:------------|
     | `x_mitre_version` | string | The version of the object in format `major.minor` where `major` and `minor` are integers. ATT&CK increments this version number when the object content is updated. not found on `relationship` objects. |
     | `x_mitre_contributors` | string[] | People and organizations who have contributed to the object. Not found on `relationship` objects. |
-    | `x_mitre_modified_by_ref` | string | the STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.  |
+    | `x_mitre_modified_by_ref`<sup>1</sup> | string | the STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.  |
+
+    <sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 - New relationship types. Unlike custom object types and extended fields, custom relationship types are **not** prefixed with `x_mitre_`. You can find a full list of relationship types in the [Relationships](#Relationships) section, which also mentions whether the type is a default STIX type.
 
@@ -133,7 +137,7 @@ The most commonly used ID format is what is referred to as the ATT&CK ID or simp
 
 | ATT&CK concept | ID format |
 |:------------|:----------|
-| [Matrix](#matrices)              | `MAxxxx` |
+| [Matrix](#matrices)              | [domain identifier](#domains) |
 | [Tactic](#tactics)               | `TAxxxx` |
 | [Technique](#techniques)         | `Txxxx` |
 | [Sub-Technique](#sub-techniques) | `Txxxx.yyy` |
@@ -141,7 +145,7 @@ The most commonly used ID format is what is referred to as the ATT&CK ID or simp
 | [Group](#groups)                 | `Gxxxx`  |
 | [Software](#software)            | `Sxxxx` |
 
-ATT&CK IDs are typically, but not always, unique. See [Collisions with Technique ATT&CK IDs](#collisions-with-technique-attck-ids) for an edge case involving ID collisions between mitigations and techniques.
+ATT&CK IDs are typically, but not always, unique. See [Collisions with Technique ATT&CK IDs](#collisions-with-technique-attck-ids) for an edge case involving ID collisions between mitigations and techniques. Matrices that exist within the same domain will have the same ATT&CK ID.
 
 ATT&CK IDs can be found in the first external reference of all objects except for relationships (which don't have ATT&CK IDs). The first external reference also includes a `url` field linking to the page describing that object on the [ATT&CK Website](https://attack.mitre.org/).
 
@@ -166,7 +170,9 @@ Matrices extend the generic SDO format with the following field:
 | Field | Type | Description |
 |:------|:-----|-------------|
 | `tactic_refs` | string[] | The `tactic_refs` array of the matrix contains an ordered list of `x-mitre-tactic` STIX IDs corresponding to the tactics of the matrix. The order of `tactic_refs` determines the order the tactics should appear within the matrix. |
-| `x_mitre_domains` | string[] | Identifies the domains the matrix is found in. See [domains](#domains) for more information. |
+| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the matrix is found in. See [domains](#domains) for more information. |
+
+<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ### Tactics
 
@@ -177,7 +183,9 @@ Tactics extend the generic SDO format with the following fields:
 | Field | Type | Description |
 |:------|:-----|-------------|
 | `x_mitre_shortname` | string | The `x_mitre_shortname` of the tactic is used for mapping techniques into the tactic. It corresponds to `kill_chain_phases.phase_name` of the techniques in the tactic. |
-| `x_mitre_domains` | string[] | Identifies the domains the tactic is found in. See [domains](#domains) for more information. |
+| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the tactic is found in. See [domains](#domains) for more information. |
+
+<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ### Techniques
 
@@ -187,7 +195,7 @@ Techniques depart from the attack-pattern format with the following fields. Doma
 
 | Field | Type | Applies to | Description | 
 |:------|:-----|:--------|:------------|
-| `x_mitre_domains` | string[] | All techniques | Identifies the domains the technique is found in. See [domains](#domains) for more information. |
+| `x_mitre_domains`<sup>1</sup> | string[] | All techniques | Identifies the domains the technique is found in. See [domains](#domains) for more information. |
 | `x_mitre_detection` | string | All techniques | Strategies for identifying if a technique has been used by an adversary. |
 | `x_mitre_platforms` | string[] | All techniques | List of platforms that apply to the technique. |
 | `x_mitre_data_sources` | string[] | Enterprise and ICS domains | Sources of information that may be used to identify the action or result of the action being performed. |
@@ -197,6 +205,8 @@ Techniques depart from the attack-pattern format with the following fields. Doma
 | `x_mitre_permissions_required` | string[] | Enterprise domain in the _Privilege Escalation_ tactic | The lowest level of permissions the adversary is required to be operating within to perform the technique on a system. |
 | `x_mitre_defense_bypassed` | string[] | Enterprise domain in the _Defense Evasion_ tactic | List of defensive tools, methodologies, or processes the technique can bypass. |
 | `x_mitre_remote_support` | boolean | Enterprise domain in the _Execution_ tactic | If true, the technique can be used to execute something on a remote system. |
+
+<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 Techniques map into tactics by use of their `kill_chain_phases` property. Where the `kill_chain_name` is `mitre-attack`, `mitre-mobile-attack`, or `mitre-ics-attack` (for enterprise, mobile, and ics domains respectively), the `phase_name` corresponds to the `x_mitre_shortname` property of an `x-mitre-tactic` object.
 
@@ -223,7 +233,9 @@ Tactics extend the `course-of-action` format with the following field:
 
 | Field | Type | Description |
 |:------|:-----|-------------|
-| `x_mitre_domains` | string[] | Identifies the domains the mitigation is found in. See [domains](#domains) for more information. |
+| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the mitigation is found in. See [domains](#domains) for more information. |
+
+<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 #### Collisions with technique ATT&CK IDs
 
@@ -237,7 +249,9 @@ Groups extend the `intrusion-set` format with the following field:
 
 | Field | Type | Description |
 |:------|:-----|-------------|
-| `x_mitre_domains` | string[] | Identifies the domains the group is found in. See [domains](#domains) for more information. |
+| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the group is found in. See [domains](#domains) for more information. |
+
+<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ### Software
 
@@ -249,8 +263,9 @@ Both `malware` and `tool` type software depart from the STIX format with the fol
 |:------|:-----|-------------|
 | `x_mitre_platforms` | string[] | List of platforms that apply to the software. |
 | `x_mitre_aliases` | string[] | List of aliases for the given software |
-| `x_mitre_domains` | string[] | Identifies the domains the software is found in. See [domains](#domains) for more information. |
+| `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the software is found in. See [domains](#domains) for more information. |
 
+<sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ### Relationships
 
@@ -310,15 +325,17 @@ Many users may opt to access the ATT&CK content via a local copy of the STIX dat
 - Downloaded copy is static, so updates to the ATT&CK catalog won't cause bugs in automated workflows. User can still manually update by cloning a fresh version of the data
 
 
-### Access most recent version via MemoryStore
+### Access the most recent version via MemoryStore
 
-To access the most recent version of a domain, you can simply load it into a MemoryStore:
+The collection bundle without a version marking will always match the most recent release of the dataset. To access the content of the release you can simply load it into a MemoryStore:
+
 ```python
 from stix2 import MemoryStore
 
 src = MemoryStore()
 src.load_from_file("enterprise-attack/enterprise-attack.json")
 ```
+
 
 ### Access a specific version via MemoryStore
 
@@ -346,7 +363,7 @@ Some users may instead prefer to access "live" ATT&CK content over the internet.
 
 At present there is no TAXII 2.1/STIX 2.1 server for the content of this repository. If you wish to access ATT&CK via TAXII you will need to use our TAXII 2.0/STIX 2.0 server instead. Please see our [MITRE/CTI GitHub repository](https://github.com/mitre/cti), and [the accompanying docs for our TAXII 2.0 server](https://github.com/mitre/cti/blob/master/USAGE.md#access-from-the-attck-taxii-server), for information about using that version of the dataset.
 
-### Access most recent version from GitHub via requests
+### Access the most recent version from GitHub via requests
 Users can alternatively access the data from MITRE/CTI using HTTP requests, and load the resulting content into a MemoryStore. 
 While typically the TAXII method is more desirable for "live" access, this method can be useful if you want to 
 access data on a branch of the MITRE/CTI repo (the TAXII server only holds the master branch) or in the case of a TAXII server outage.
@@ -380,7 +397,9 @@ src = get_data_from_version("enterprise-attack", "6.2")
 
 ## Getting a list of versions
 
-The [index.json](/index.json) file contains a full list of versions for each domain of ATT&CK. See our [collections document](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collection-indexes) for more information about the format of collection indexes. You can also find a human-readable version of that file in [index.md](/index.md).
+The [collection index](/index.json) on this repository contains a full list of versions for each domain of ATT&CK. See our [collections document](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collection-indexes) for more information about the format of collection indexes. You can also find a human-readable version of that file in [index.md](/index.md).
+
+The collection index was added in the upgrade to STIX 2.1 and is not available for [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 ## Access multiple domains simultaneously
 Because ATT&CK is stored in multiple domains (as of this writing, enterprise-attack, mobile-attack and ics-attack), the above methodologies will only allow you to work

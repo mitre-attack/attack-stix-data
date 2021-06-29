@@ -35,6 +35,7 @@ We also recommend reading the [ATT&CK Design and Philosophy Paper](https://attac
     + [Groups](#groups)
     + [Software](#software)
     + [Relationships](#relationships)
+    + [Collections](#collections)
 - [Accessing ATT&CK data in python](#accessing-attck-data-in-python)
   * [Requirements and imports](#requirements-and-imports)
     + [stix2](#stix2)
@@ -111,7 +112,7 @@ There are three general ways that ATT&CK extends the STIX 2.1 format:
     | `x_mitre_modified_by_ref`<sup>1</sup> | string | The STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.  |
     | `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the object is found in. See [domains](#domains) for more information. Not found on `relationship` objects. |
 
-    <sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
+    <sup>1</sup> these fields were added in the upgrade to STIX 2.1 and are not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
 - New relationship types. Unlike custom object types and extended fields, custom relationship types are **not** prefixed with `x_mitre_`. You can find a full list of relationship types in the [Relationships](#Relationships) section, which also mentions whether the type is a default STIX type.
 
@@ -119,7 +120,7 @@ Please see also the STIX documentation on [customizing STIX](https://docs.oasis-
 
 ## Domains
 
-Most objects in ATT&CK belong in a single technology domain, but on rare occasion an object can be included in multiple domains. The `x_mitre_domains` field present on most object types identifies the domain of the object. The values of `x_mitre_domains` is as follows:
+Most objects in ATT&CK belong in a single technology domain, but on rare occasion an object can be included in multiple domains. The `x_mitre_domains` string[] field present on most object types identifies the domains of the object. The values of `x_mitre_domains` is as follows:
 
 | identifier | domain | 
 |:------|:-----|
@@ -257,6 +258,10 @@ Relationships oftentimes have descriptions which contextualize the relationship 
 | any type    | `revoked-by`      | any type | Yes | The target object is a replacement for the source object. Only occurs where the objects are of the same type, and the source object will have the property `revoked = true`. See [Working with deprecated and revoked objects](#Working-with-deprecated-and-revoked-objects) for more information on revoked objects. |
 
 Note that because groups use software and software uses techniques, groups can be considered indirect users of techniques used by their software. See [Getting techniques used by a group's software](#Getting-techniques-used-by-a-groups-software).
+
+### Collections
+
+See our [collections document](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md) for more information about the design and intention of collection objects.
 
 # Accessing ATT&CK data in python
 There are several ways to acquire the ATT&CK data in Python. All of them will provide an object 

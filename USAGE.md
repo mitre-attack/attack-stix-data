@@ -102,13 +102,13 @@ Two additional object types are found in the ATT&CK catalog:
 There are three general ways that ATT&CK extends the STIX 2.1 format:
 - Custom object types. Object types prefixed with `x-mitre-`, e.g `x-mitre-matrix`, are custom STIX types extending the STIX 2.1 spec. They follow the general [STIX Domain Object pattern](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230920) but describe concepts not covered by types defined in STIX 2.1.
 
-- Extensions of existing object types. Fields extending the STIX 2.1 spec are prefixed with `x_mitre_`, e.g `x_mitre_platforms` in `attack-patterns`. 
+- Extensions of existing object types. Fields extending the STIX 2.1 spec are prefixed with `x_mitre_`, e.g `x_mitre_platforms` in `attack-patterns`. The following extended fields are common across ATT&CK types except where otherwise noted:
 
     | Field | Type | Description |
     |:------|:-----|:------------|
     | `x_mitre_version` | string | The version of the object in format `major.minor` where `major` and `minor` are integers. ATT&CK increments this version number when the object content is updated. not found on `relationship` objects. |
     | `x_mitre_contributors` | string[] | People and organizations who have contributed to the object. Not found on `relationship` objects. |
-    | `x_mitre_modified_by_ref`<sup>1</sup> | string | the STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.  |
+    | `x_mitre_modified_by_ref`<sup>1</sup> | string | The STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.  |
     | `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the object is found in. See [domains](#domains) for more information. Not found on `relationship` objects. |
 
     <sup>1</sup> This field was added in the upgrade to STIX 2.1 and is not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).

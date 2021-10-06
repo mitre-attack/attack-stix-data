@@ -7,6 +7,7 @@
             "type": "x-mitre-collection",
             "id": "x-mitre-collection--dac0d2d7-8653-445c-9bff-82f934c1e858",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "name": "Mobile ATT&CK",
             "x_mitre_version": "5.2",
             "description": "ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smartphones and tablets running the Android or iOS/iPadOS operating systems). ATT&CK for Mobile builds upon NIST's Mobile Threat Catalogue and also contains a separate matrix of network-based effects, which are techniques that an adversary can employ without access to the mobile device itself.",

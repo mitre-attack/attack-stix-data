@@ -7,6 +7,7 @@
             "type": "x-mitre-collection",
             "id": "x-mitre-collection--90c00720-636b-4485-b342-8751d232bf09",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "name": "ICS ATT&CK",
             "x_mitre_version": "8.0",
             "description": "The ATT&CK for Industrial Control Systems (ICS) knowledge base categorizes the unique set of tactics, techniques, and procedures (TTPs) used by threat actors in the ICS technology domain. ATT&CK for ICS outlines the portions of an ICS attack that are out of scope of Enterprise and reflects the various phases of an adversary\u2019s attack life cycle and the assets and systems they are known to target.",

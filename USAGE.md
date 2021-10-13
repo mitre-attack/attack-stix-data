@@ -79,6 +79,7 @@ The data in this repository is STIX 2.1 and divided into folders, one for each d
 Tools consuming ATT&CK-formatted data may support multiple versions of the ATT&CK spec. The ATT&CK Spec version number is used to document the current version of the spec used by a given object in the knowledge base, and is tracked by the `x_mitre_attack_spec_version` field on the objects of the knowledge base.
 
 | Current ATT&CK Spec Version | Link to Changelog |
+|:--------|:--------------------------|
 | `2.1.0` | [changelog](CHANGELOG.md) |
 
 ATT&CK uses a mix of predefined and custom STIX objects to implement ATT&CK concepts. The following table is a mapping of ATT&CK concepts to STIX 2.1 objects:

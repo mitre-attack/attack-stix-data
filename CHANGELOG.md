@@ -6,7 +6,7 @@ Changes to ATT&CK in STIX for October 2021 ATT&CK Content Release (ATT&CK v10)
 | Feature | [Available in STIX 2.0](https://github.com/mitre/cti) | [Available in STIX 2.1](https://github.com/mitre-attack/attack-stix-data) |
 |:--------|:-----------------------------------------------------:|:-------------------------------------------------------------------------:|
 | Added full objects for data sources and data components. See [the data sources section of the USAGE document](https://github.com/mitre-attack/attack-stix-data/blob/master/USAGE.md#data-sources-and-data-components) for more information about data sources, data components, and their relationships with techniques. | :white_check_mark: | :white_check_mark: |
-| Added `x_mitre_attack_spec_version` field to all object types. This field tracks the version of the ATT&CK Spec used by the object. Consuming software can use this field to determine if the data format is supported; if the field is absent data will be assumed to be ATT&CK Spec version `2.0.0`. | :x: | :white_check_mark: |
+| Added `x_mitre_attack_spec_version` field to all object types. This field tracks the version of the ATT&CK Spec used by the object. Consuming software can use this field to determine if the data format is supported; if the field is absent the object will be assumed to use ATT&CK Spec version `2.0.0`. | :x: | :white_check_mark: |
 
 ## 21 June 2021 - ATT&CK Spec v2.0.0
 Initial release of ATT&CK in STIX 2.1.

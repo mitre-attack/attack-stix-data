@@ -17,7 +17,7 @@ We also recommend reading the [ATT&CK Design and Philosophy Paper](https://attac
 <!-- generated with https://ecotrust-canada.github.io/markdown-toc/ -->
 <!-- note: generator turns ATT&CK into att-ck, but GitHub section links for that substring are attck (no hyphen). -->
 
-- [The ATT&CK data model](#the-attck-data-model)
+- [The ATT&CK Spec](#the-attck-spec)
   * [Extensions of the STIX spec](#extensions-of-the-stix-spec)
   * [Domains](#domains)
   * [IDs in ATT&CK](#ids-in-attck)
@@ -72,9 +72,14 @@ We also recommend reading the [ATT&CK Design and Philosophy Paper](https://attac
     + [Removing revoked and deprecated objects](#removing-revoked-and-deprecated-objects)
     + [Getting a revoking object](#getting-a-revoking-object)
 
-# The ATT&CK data model
+# The ATT&CK spec
 
 The data in this repository is STIX 2.1 and divided into folders, one for each domain of ATT&CK. These domains generally follow the same format with a few departures. Domain differences will be noted in the relevant sections of this document. 
+
+Tools consuming ATT&CK-formatted data may support multiple versions of the ATT&CK spec. The ATT&CK Spec version number is used to document the current version of the spec used by a given object in the knowledge base, and is tracked by the `x_mitre_attack_spec_version` field on the objects of the knowledge base.
+
+| Current ATT&CK Spec Version | Link to Changelog |
+| `2.1.0` | [changelog](CHANGELOG.md) |
 
 ATT&CK uses a mix of predefined and custom STIX objects to implement ATT&CK concepts. The following table is a mapping of ATT&CK concepts to STIX 2.1 objects:
 
@@ -114,6 +119,7 @@ There are three general ways that ATT&CK extends the STIX 2.1 format:
     | `x_mitre_contributors` | string[] | People and organizations who have contributed to the object. Not found on `relationship` objects. |
     | `x_mitre_modified_by_ref`<sup>1</sup> | string | The STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.  |
     | `x_mitre_domains`<sup>1</sup> | string[] | Identifies the domains the object is found in. See [domains](#domains) for more information. Not found on `relationship` objects. |
+    | `x_mitre_attack_spec_version`<sup>1</sup> | string | The version of the ATT&CK spec used by the object. Consuming software can use this field to determine if the data format is supported. If the field is not present on an object the spec version will be assumed to be `2.0.0`. See [the ATT&CK Spec](#the-attck-spec) for the current spec version number. | 
 
     <sup>1</sup> these fields were added in the upgrade to STIX 2.1 and are not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
 

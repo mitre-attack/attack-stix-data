@@ -1,7 +1,6 @@
 {
     "type": "bundle",
     "id": "bundle--02c3ef24-9cd4-48f3-a99f-b74ce24f1d34",
-    "spec_version": "2.1",
     "objects": [
         {
             "type": "x-mitre-collection",
@@ -2782,6 +2781,7 @@
             "modified": "2020-11-12T14:49:39.188Z",
             "id": "attack-pattern--19a71d1e-6334-4233-8260-b749cae37953",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -2837,6 +2837,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -2878,6 +2879,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--3de230d4-3e42-4041-b089-17e1128feded",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -2927,6 +2929,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--008b8f56-6107-48be-aa9f-746f927dbb61",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -2978,6 +2981,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--3f1f4ccb-9be2-4ff8-8f69-dd972221169b",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3019,6 +3023,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3062,6 +3067,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3106,6 +3112,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--a8cfd474-9358-464f-a169-9c6f099a8e8a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3151,6 +3158,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3193,6 +3201,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3244,6 +3253,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--d67adac8-e3b9-44f9-9e6d-6c2a7d69dbe4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3283,6 +3293,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--abb0a255-eb9c-48d0-8f5c-874bb84c0e45",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3342,6 +3353,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--83ebd22f-b401-4d59-8219-2294172cf916",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3392,6 +3404,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--493832d9-cea6-4b63-abe7-9a65a6473675",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3437,6 +3450,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--50d3222f-7550-4a3c-94e1-78cb6c81d064",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3481,6 +3495,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--3405891b-16aa-4bd7-bd7c-733501f9b20f",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3531,6 +3546,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--8bb4538f-f16f-49f0-a431-70b5444c7349",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3579,6 +3595,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--e33c7ecc-5a38-497f-beb2-a9a2049a4c20",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3647,6 +3664,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--1b22b676-9347-4c55-9a35-ef0dc653db5b",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3695,6 +3713,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--56ddc820-6cfb-407f-850b-52c035d123ac",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3734,6 +3753,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3773,6 +3793,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--94f042ae-3033-4a8d-9ec3-26396533a541",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3824,6 +3845,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3871,6 +3893,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--7830cfcf-b268-4ac0-a69e-73c6affbae9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3914,6 +3937,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--d614a9cf-18eb-4800-81e4-ab8ddf0baa73",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3954,6 +3978,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -3999,6 +4024,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--32632a95-6856-47b9-9ab7-fea5cd7dce00",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4039,6 +4065,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--9f947a1c-3860-48a8-8af0-a2dfa3efde03",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4091,6 +4118,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--85a45294-08f1-4539-bf00-7da08aa7b0ee",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4159,6 +4187,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--8d2f3bab-507c-4424-b58b-edc977bd215c",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4205,6 +4234,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--b0628bfc-5376-4a38-9182-f324501cb4cf",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4255,6 +4285,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4298,6 +4329,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--53a48c74-0025-45f4-b04a-baa853df8204",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4339,6 +4371,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--e2994b6a-122b-4043-b654-7411c5198ec0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4382,6 +4415,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--53a26eee-1080-4d17-9762-2027d5a1b805",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4434,6 +4468,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--f8df6b57-14bc-425f-9a91-6f59f6799307",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4478,6 +4513,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--7374ab87-0782-41f8-b415-678c0950bb2a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4526,6 +4562,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--b5b9bacb-97f2-4249-b804-47fd44de1f95",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4577,6 +4614,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--a81696ef-c106-482c-8f80-59c30f2569fb",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4611,6 +4649,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--63b6942d-8359-4506-bfb3-cf87aa8120ee",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4679,6 +4718,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--5fa00fdd-4a55-4191-94a0-564181d7fec2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4729,6 +4769,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--138979ba-0430-4de6-a128-2fc0b056ba36",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4784,6 +4825,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--9a505987-ab05-4f46-a9a6-6441442eec3b",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4828,6 +4870,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--36e9f5bc-ac13-4da4-a2f4-01f4877d9004",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4862,6 +4905,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--1af9e3fd-2bcc-414d-adbd-fe3b95c02ca1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4912,6 +4956,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--4c2e1408-9d68-4187-8e6b-a77bc52700ec",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -4957,6 +5002,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5011,6 +5057,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--e5de767e-f513-41cd-aa15-33f6ce5fbf92",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5067,6 +5114,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--e0d74479-86d2-465d-bf36-903ebecef43e",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5116,6 +5164,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--097924ce-a9a9-4039-8591-e0deedfb8722",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5170,6 +5219,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5219,6 +5269,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--2d0d40ad-22fa-4cc8-b264-072557e1364b",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5263,6 +5314,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--ea0c980c-5cf0-43a7-a049-59c4c207566e",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5302,6 +5354,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--539d0484-fe95-485a-b654-86991c0d0d00",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5348,6 +5401,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--38213338-1aab-479d-949b-c81b66ccca5c",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5398,6 +5452,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5451,6 +5506,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5506,6 +5562,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--ae62fe1a-ea1a-479b-8dc0-65d250bd8bc7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5548,6 +5605,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5607,6 +5665,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5657,6 +5716,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--ead7bd34-186e-4c79-9a4d-b65bcce6ed9d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5707,6 +5767,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--d5a69cfb-fc2a-46cb-99eb-74b236db5061",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5798,6 +5859,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--c267bbee-bb59-47fe-85e0-3ed210337c21",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5853,6 +5915,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--b14395bd-5419-4ef4-9bd8-696936f509bb",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5895,6 +5958,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--23270e54-1d68-4c3b-b763-b25607bcef80",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5942,6 +6006,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--3b6b9246-43f8-4c69-ad7a-2b11cfe0a0d9",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -5987,6 +6052,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--c5e3cdbc-0387-4be9-8f83-ff5c0865f377",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6027,6 +6093,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--2dc2b567-8821-49f9-9045-8740f3d0b958",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6067,6 +6134,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--5f3da2f3-91c8-4d8b-a02f-bf43a11def55",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6116,6 +6184,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--063b5b92-5361-481a-9c3f-95492ed9a2d8",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6167,6 +6236,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--648f995e-9c3a-41e4-aeee-98bb41037426",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6221,6 +6291,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--8535b71e-3c12-4258-a4ab-40257a1becc4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6266,6 +6337,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6316,6 +6388,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--5e0f75da-e108-4688-a6de-a4f07cc2cbe3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6373,6 +6446,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6417,6 +6491,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--b7e13ee8-182c-4f19-92a4-a88d7d855d54",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6474,6 +6549,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--40b300ba-f553-48bf-862e-9471b220d455",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6525,6 +6601,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--2736b752-4ec5-4421-a230-8977dea7649c",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6571,6 +6648,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6630,6 +6708,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--cd2c76a4-5e23-4ca5-9c40-d5e0604f7101",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6702,6 +6781,7 @@
             "modified": "2020-05-21T17:43:26.506Z",
             "id": "attack-pattern--2877063e-1851-48d2-bcc6-bc1d2733157e",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6738,6 +6818,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Access Management",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6763,6 +6844,7 @@
             "modified": "2019-06-13T16:07:21.233Z",
             "name": "Account Use Policies",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6788,6 +6870,7 @@
             "modified": "2020-05-29T16:34:40.344Z",
             "name": "Active Directory Configuration",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6813,6 +6896,7 @@
             "modified": "2020-03-31T13:07:15.684Z",
             "name": "Antivirus/Antimalware",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6839,6 +6923,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "modified": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6864,6 +6949,7 @@
             "modified": "2020-03-31T13:08:03.851Z",
             "name": "Application Isolation and Sandboxing",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6889,6 +6975,7 @@
             "modified": "2020-03-31T13:08:45.966Z",
             "name": "Audit",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6924,6 +7011,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Authorization Enforcement",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6949,6 +7037,7 @@
             "modified": "2020-05-19T12:28:50.603Z",
             "name": "Boot Integrity",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6974,6 +7063,7 @@
             "modified": "2020-05-20T13:12:02.881Z",
             "name": "Code Signing",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -6999,6 +7089,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Communication Authenticity",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7024,6 +7115,7 @@
             "modified": "2020-03-31T13:11:28.201Z",
             "name": "Data Backup",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7049,6 +7141,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Data Loss Prevention",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7074,6 +7167,7 @@
             "modified": "2020-03-31T13:12:04.776Z",
             "name": "Disable or Remove Feature or Program",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7099,6 +7193,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Encrypt Network Traffic",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7124,6 +7219,7 @@
             "modified": "2019-06-11T16:43:44.834Z",
             "name": "Encrypt Sensitive Information",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7149,6 +7245,7 @@
             "modified": "2020-06-20T20:11:42.195Z",
             "name": "Execution Prevention",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7174,6 +7271,7 @@
             "modified": "2020-06-20T20:22:55.938Z",
             "name": "Exploit Protection",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7199,6 +7297,7 @@
             "modified": "2020-06-20T20:46:36.342Z",
             "name": "Filter Network Traffic",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7224,6 +7323,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Human User Authentication",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7249,6 +7349,7 @@
             "modified": "2020-06-09T20:51:00.027Z",
             "name": "Limit Access to Resource Over Network",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7274,6 +7375,7 @@
             "modified": "2020-06-09T20:48:12.326Z",
             "name": "Limit Hardware Installation",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7304,6 +7406,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Mechanical Protection Layers",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7339,6 +7442,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Minimize Wireless Signal Propagation",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7364,6 +7468,7 @@
             "modified": "2020-09-17T13:55:21.233Z",
             "name": "Mitigation Limited or Not Effective",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7389,6 +7494,7 @@
             "modified": "2019-06-10T20:53:36.319Z",
             "name": "Multi-factor Authentication",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7414,6 +7520,7 @@
             "modified": "2020-09-22T20:53:36.319Z",
             "name": "Network Allowlists",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7439,6 +7546,7 @@
             "modified": "2019-06-10T20:46:02.263Z",
             "name": "Network Intrusion Prevention",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7464,6 +7572,7 @@
             "modified": "2020-05-14T13:05:39.500Z",
             "name": "Network Segmentation",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7489,6 +7598,7 @@
             "modified": "2020-06-19T16:50:45.681Z",
             "name": "Operating System Configuration",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7514,6 +7624,7 @@
             "modified": "2020-09-22T16:50:45.681Z",
             "name": "Operational Information Confidentiality",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7549,6 +7660,7 @@
             "modified": "2020-09-22T16:50:45.681Z",
             "name": "Out-of-Band Communications Channel",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7574,6 +7686,7 @@
             "modified": "2019-06-06T21:10:35.792Z",
             "name": "Password Policies",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7599,6 +7712,7 @@
             "modified": "2020-03-31T13:08:36.655Z",
             "name": "Privileged Account Management",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7624,6 +7738,7 @@
             "modified": "2020-09-22T16:50:45.681Z",
             "name": "Redundancy of Service",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7649,6 +7764,7 @@
             "modified": "2020-05-20T15:12:39.136Z",
             "name": "Restrict File and Directory Permissions",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7674,6 +7790,7 @@
             "modified": "2019-06-11T17:00:01.740Z",
             "name": "Restrict Library Loading",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7699,6 +7816,7 @@
             "modified": "2019-06-06T20:58:59.577Z",
             "name": "Restrict Registry Permissions",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7724,6 +7842,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "x_mitre_version": "1.0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7749,6 +7868,7 @@
             "modified": "2019-06-06T20:15:34.146Z",
             "name": "SSL/TLS Inspection",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7774,6 +7894,7 @@
             "modified": "2020-09-22T16:50:45.681Z",
             "name": "Safety Instrumented Systems",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7799,6 +7920,7 @@
             "modified": "2020-03-31T13:11:09.471Z",
             "name": "Software Configuration",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7824,6 +7946,7 @@
             "modified": "2020-09-22T16:50:45.681Z",
             "name": "Software Process and Device Authentication",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7849,6 +7972,7 @@
             "modified": "2020-09-22T16:50:45.681Z",
             "name": "Static Network Configuration",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7874,6 +7998,7 @@
             "modified": "2019-06-06T19:55:50.927Z",
             "name": "Threat Intelligence Program",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7899,6 +8024,7 @@
             "modified": "2020-07-07T12:42:39.005Z",
             "name": "Update Software",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7924,6 +8050,7 @@
             "modified": "2020-05-20T13:49:12.270Z",
             "name": "User Account Management",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7949,6 +8076,7 @@
             "modified": "2020-08-26T14:19:20.173Z",
             "name": "User Training",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7974,6 +8102,7 @@
             "modified": "2020-07-14T22:22:06.356Z",
             "name": "Vulnerability Scanning",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -7999,6 +8128,7 @@
             "modified": "2020-09-22T16:50:45.681Z",
             "name": "Watchdog Timers",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8030,6 +8160,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8057,6 +8188,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8084,6 +8216,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8111,6 +8244,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8143,6 +8277,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8175,6 +8310,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8207,6 +8343,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8234,6 +8371,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8261,6 +8399,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8288,6 +8427,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8315,6 +8455,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8342,6 +8483,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8384,6 +8526,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8411,6 +8554,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8438,6 +8582,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8465,6 +8610,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8492,6 +8638,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8519,6 +8666,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8546,6 +8694,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8573,6 +8722,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8605,6 +8755,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8637,6 +8788,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8664,6 +8816,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8691,6 +8844,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8718,6 +8872,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8745,6 +8900,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8772,6 +8928,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8804,6 +8961,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8836,6 +8994,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8863,6 +9022,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8890,6 +9050,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8917,6 +9078,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8944,6 +9106,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8964,6 +9127,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -8984,6 +9148,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9016,6 +9181,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9048,6 +9214,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9075,6 +9242,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9107,6 +9275,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9134,6 +9303,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9161,6 +9331,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9188,6 +9359,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9215,6 +9387,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9247,6 +9420,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9274,6 +9448,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9293,6 +9468,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9320,6 +9496,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9347,6 +9524,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9374,6 +9552,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9401,6 +9580,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9428,6 +9608,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9455,6 +9636,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9482,6 +9664,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9509,6 +9692,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9536,6 +9720,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9563,6 +9748,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9595,6 +9781,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9622,6 +9809,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9649,6 +9837,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9676,6 +9865,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9703,6 +9893,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9730,6 +9921,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9757,6 +9949,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9784,6 +9977,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9811,6 +10005,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9838,6 +10033,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9865,6 +10061,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9892,6 +10089,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9919,6 +10117,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9946,6 +10145,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -9978,6 +10178,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10005,6 +10206,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10037,6 +10239,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10064,6 +10267,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10091,6 +10295,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10118,6 +10323,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10145,6 +10351,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10172,6 +10379,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10199,6 +10407,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10226,6 +10435,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10253,6 +10463,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10280,6 +10491,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10307,6 +10519,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10334,6 +10547,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10361,6 +10575,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10388,6 +10603,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10415,6 +10631,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10442,6 +10659,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10461,6 +10679,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10488,6 +10707,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10515,6 +10735,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10542,6 +10763,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10569,6 +10791,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10601,6 +10824,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10633,6 +10857,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10665,6 +10890,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10692,6 +10918,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10719,6 +10946,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10746,6 +10974,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10773,6 +11002,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10792,6 +11022,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10819,6 +11050,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10846,6 +11078,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10873,6 +11106,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10900,6 +11134,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10927,6 +11162,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10954,6 +11190,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -10981,6 +11218,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11008,6 +11246,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11035,6 +11274,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11062,6 +11302,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11089,6 +11330,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11116,6 +11358,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11143,6 +11386,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11170,6 +11414,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11197,6 +11442,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11224,6 +11470,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11244,6 +11491,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11271,6 +11519,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11298,6 +11547,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11325,6 +11575,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11352,6 +11603,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11379,6 +11631,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11406,6 +11659,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11433,6 +11687,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11460,6 +11715,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11487,6 +11743,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11514,6 +11771,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11541,6 +11799,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11573,6 +11832,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11593,6 +11853,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11620,6 +11881,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11652,6 +11914,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11679,6 +11942,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11706,6 +11970,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11733,6 +11998,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11760,6 +12026,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11787,6 +12054,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11814,6 +12082,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11841,6 +12110,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11868,6 +12138,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11895,6 +12166,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11922,6 +12194,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -11974,6 +12247,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12001,6 +12275,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12028,6 +12303,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12055,6 +12331,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12082,6 +12359,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12109,6 +12387,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12136,6 +12415,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12163,6 +12443,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12190,6 +12471,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12217,6 +12499,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12244,6 +12527,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12263,6 +12547,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12295,6 +12580,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12327,6 +12613,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12354,6 +12641,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12381,6 +12669,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12408,6 +12697,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12427,6 +12717,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12447,6 +12738,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12467,6 +12759,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12487,6 +12780,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12507,6 +12801,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12527,6 +12822,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12547,6 +12843,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12567,6 +12864,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12587,6 +12885,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12607,6 +12906,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12627,6 +12927,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12647,6 +12948,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12667,6 +12969,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12687,6 +12990,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12707,6 +13011,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12727,6 +13032,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12747,6 +13053,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12767,6 +13074,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12787,6 +13095,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12807,6 +13116,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12827,6 +13137,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12847,6 +13158,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12867,6 +13179,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12887,6 +13200,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12907,6 +13221,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12927,6 +13242,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12947,6 +13263,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12967,6 +13284,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -12987,6 +13305,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13007,6 +13326,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13027,6 +13347,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13047,6 +13368,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13067,6 +13389,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13087,6 +13410,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13107,6 +13431,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13127,6 +13452,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13147,6 +13473,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13167,6 +13494,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13187,6 +13515,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13207,6 +13536,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13227,6 +13557,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13247,6 +13578,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13267,6 +13599,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13287,6 +13620,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13307,6 +13641,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13327,6 +13662,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13347,6 +13683,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13367,6 +13704,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13387,6 +13725,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13407,6 +13746,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13427,6 +13767,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13447,6 +13788,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13467,6 +13809,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13487,6 +13830,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13507,6 +13851,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13527,6 +13872,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13547,6 +13893,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13567,6 +13914,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13587,6 +13935,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13607,6 +13956,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13627,6 +13977,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13647,6 +13998,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13667,6 +14019,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13687,6 +14040,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13707,6 +14061,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13727,6 +14082,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13747,6 +14103,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13767,6 +14124,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13787,6 +14145,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13807,6 +14166,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13827,6 +14187,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13847,6 +14208,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13867,6 +14229,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13887,6 +14250,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13907,6 +14271,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13927,6 +14292,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13947,6 +14313,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13967,6 +14334,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -13987,6 +14355,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14007,6 +14376,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14027,6 +14397,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14047,6 +14418,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14067,6 +14439,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14087,6 +14460,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14107,6 +14481,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14127,6 +14502,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14147,6 +14523,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14167,6 +14544,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14187,6 +14565,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14207,6 +14586,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14227,6 +14607,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14247,6 +14628,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14267,6 +14649,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14287,6 +14670,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14307,6 +14691,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14327,6 +14712,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14347,6 +14733,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14367,6 +14754,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14387,6 +14775,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14407,6 +14796,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14427,6 +14817,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14447,6 +14838,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14467,6 +14859,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14487,6 +14880,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14507,6 +14901,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14527,6 +14922,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14547,6 +14943,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14567,6 +14964,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14587,6 +14985,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14607,6 +15006,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14627,6 +15027,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14647,6 +15048,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14667,6 +15069,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14687,6 +15090,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14707,6 +15111,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14727,6 +15132,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14747,6 +15153,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14767,6 +15174,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14787,6 +15195,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14807,6 +15216,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14827,6 +15237,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14847,6 +15258,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14867,6 +15279,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14887,6 +15300,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14907,6 +15321,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14927,6 +15342,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14947,6 +15363,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14967,6 +15384,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -14987,6 +15405,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15007,6 +15426,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15027,6 +15447,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15047,6 +15468,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15067,6 +15489,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15087,6 +15510,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15107,6 +15531,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15127,6 +15552,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15147,6 +15573,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15167,6 +15594,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15187,6 +15615,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15207,6 +15636,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15227,6 +15657,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15247,6 +15678,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15267,6 +15699,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15287,6 +15720,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15307,6 +15741,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15327,6 +15762,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15347,6 +15783,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15367,6 +15804,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15387,6 +15825,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15407,6 +15846,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15427,6 +15867,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15447,6 +15888,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15467,6 +15909,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15487,6 +15930,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15507,6 +15951,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15527,6 +15972,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15547,6 +15993,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15567,6 +16014,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15587,6 +16035,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15607,6 +16056,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15627,6 +16077,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15647,6 +16098,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15667,6 +16119,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15687,6 +16140,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15707,6 +16161,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15727,6 +16182,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15747,6 +16203,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15767,6 +16224,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15787,6 +16245,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15807,6 +16266,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15827,6 +16287,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15847,6 +16308,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15867,6 +16329,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15887,6 +16350,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15907,6 +16371,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15927,6 +16392,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15947,6 +16413,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15967,6 +16434,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -15987,6 +16455,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16007,6 +16476,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16027,6 +16497,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16047,6 +16518,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16067,6 +16539,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16087,6 +16560,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16107,6 +16581,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16127,6 +16602,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16147,6 +16623,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16167,6 +16644,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16187,6 +16665,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16207,6 +16686,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16227,6 +16707,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16247,6 +16728,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16267,6 +16749,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16287,6 +16770,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16307,6 +16791,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16327,6 +16812,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16347,6 +16833,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16367,6 +16854,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16387,6 +16875,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16407,6 +16896,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16427,6 +16917,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16447,6 +16938,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16467,6 +16959,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16487,6 +16980,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16507,6 +17001,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16527,6 +17022,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16547,6 +17043,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16567,6 +17064,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16587,6 +17085,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16607,6 +17106,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16627,6 +17127,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16647,6 +17148,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16667,6 +17169,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16687,6 +17190,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16707,6 +17211,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16727,6 +17232,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16747,6 +17253,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16767,6 +17274,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16787,6 +17295,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16807,6 +17316,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16827,6 +17337,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16847,6 +17358,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16867,6 +17379,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16887,6 +17400,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16907,6 +17421,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16927,6 +17442,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16947,6 +17463,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16967,6 +17484,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -16987,6 +17505,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17007,6 +17526,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17027,6 +17547,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17047,6 +17568,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17067,6 +17589,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17087,6 +17610,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17107,6 +17631,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17127,6 +17652,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17147,6 +17673,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17167,6 +17694,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17187,6 +17715,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17207,6 +17736,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17227,6 +17757,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17247,6 +17778,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17267,6 +17799,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17287,6 +17820,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17307,6 +17841,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17327,6 +17862,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17347,6 +17883,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17367,6 +17904,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17387,6 +17925,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17407,6 +17946,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17427,6 +17967,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17447,6 +17988,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17467,6 +18009,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17487,6 +18030,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17507,6 +18051,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17527,6 +18072,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17547,6 +18093,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17567,6 +18114,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17587,6 +18135,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17607,6 +18156,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17627,6 +18177,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17647,6 +18198,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17667,6 +18219,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17687,6 +18240,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17707,6 +18261,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17727,6 +18282,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17747,6 +18303,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17767,6 +18324,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17787,6 +18345,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17807,6 +18366,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17827,6 +18387,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17847,6 +18408,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17867,6 +18429,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17887,6 +18450,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17907,6 +18471,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17927,6 +18492,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17947,6 +18513,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17967,6 +18534,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -17987,6 +18555,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18007,6 +18576,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18027,6 +18597,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18047,6 +18618,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18067,6 +18639,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18087,6 +18660,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18107,6 +18681,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18127,6 +18702,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18147,6 +18723,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18167,6 +18744,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18187,6 +18765,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18207,6 +18786,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18227,6 +18807,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18247,6 +18828,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18267,6 +18849,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18287,6 +18870,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18307,6 +18891,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18327,6 +18912,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18347,6 +18933,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18367,6 +18954,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18387,6 +18975,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18407,6 +18996,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18427,6 +19017,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18447,6 +19038,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18467,6 +19059,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18487,6 +19080,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18507,6 +19101,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18527,6 +19122,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18547,6 +19143,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18567,6 +19164,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18587,6 +19185,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18607,6 +19206,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18627,6 +19227,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18647,6 +19248,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18667,6 +19269,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18687,6 +19290,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18707,6 +19311,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18727,6 +19332,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18747,6 +19353,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18767,6 +19374,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18787,6 +19395,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18807,6 +19416,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18827,6 +19437,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18847,6 +19458,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18867,6 +19479,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18887,6 +19500,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18907,6 +19521,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18927,6 +19542,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18947,6 +19563,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18967,6 +19584,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -18987,6 +19605,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19007,6 +19626,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19027,6 +19647,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19047,6 +19668,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19067,6 +19689,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19087,6 +19710,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19107,6 +19731,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19127,6 +19752,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19147,6 +19773,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19167,6 +19794,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19187,6 +19815,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19207,6 +19836,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19227,6 +19857,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19247,6 +19878,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19267,6 +19899,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19287,6 +19920,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19307,6 +19941,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19327,6 +19962,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19347,6 +19983,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19367,6 +20004,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19387,6 +20025,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19426,6 +20065,7 @@
             ],
             "x_mitre_version": "1.0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19488,6 +20128,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "modified": "2020-07-01T15:48:20.759Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19575,6 +20216,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "name": "Dragonfly",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19652,6 +20294,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "name": "Dragonfly 2.0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19699,6 +20342,7 @@
             ],
             "x_mitre_version": "1.1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19786,6 +20430,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "name": "Lazarus Group",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19833,6 +20478,7 @@
             ],
             "x_mitre_version": "1.0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -19924,6 +20570,7 @@
             ],
             "name": "OilRig",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20026,6 +20673,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "modified": "2020-07-04T01:56:59.493Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20093,6 +20741,7 @@
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "name": "TEMP.Veles",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20125,6 +20774,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20163,6 +20813,7 @@
             ],
             "modified": "2020-03-30T02:49:50.902Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20211,6 +20862,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20248,6 +20900,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20292,6 +20945,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20329,6 +20983,7 @@
             ],
             "name": "Duqu",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20390,6 +21045,7 @@
             ],
             "name": "Flame",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20448,6 +21104,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20490,6 +21147,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20532,6 +21190,7 @@
             ],
             "name": "LockerGoga",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20604,6 +21263,7 @@
             ],
             "name": "NotPetya",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20646,6 +21306,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20688,6 +21349,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20745,6 +21407,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20839,6 +21502,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20881,6 +21545,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20961,6 +21626,7 @@
             ],
             "name": "WannaCry",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -20987,6 +21653,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21013,6 +21680,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21039,6 +21707,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21065,6 +21734,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21091,6 +21761,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21117,6 +21788,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21143,6 +21815,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21169,6 +21842,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21195,6 +21869,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21221,6 +21896,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21247,6 +21923,7 @@
                 }
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21285,6 +21962,7 @@
                 "x-mitre-tactic--77542f83-70d0-40c2-8a9d-ad2eb8b00279"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21302,6 +21980,7 @@
             "modified": "2017-06-01T00:00:00.000Z",
             "created": "2017-06-01T00:00:00.000Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],
@@ -21317,6 +21996,7 @@
                 "statement": "Copyright 2015-2020, The MITRE Corporation. MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation."
             },
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ]
@@ -21342,6 +22022,7 @@
             ],
             "relationship_type": "uses",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "ics-attack"
             ],

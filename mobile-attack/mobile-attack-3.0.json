@@ -1,7 +1,6 @@
 {
     "type": "bundle",
     "id": "bundle--c268a49d-b461-4471-81fb-8db3485c68ea",
-    "spec_version": "2.1",
     "objects": [
         {
             "type": "x-mitre-collection",
@@ -2042,6 +2041,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:08.613Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2086,6 +2086,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:29.774Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2107,6 +2108,7 @@
             "modified": "2018-10-17T01:05:10.701Z",
             "created": "2017-10-25T14:48:16.288Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2152,6 +2154,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:20.727Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2197,6 +2200,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:11.116Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2242,6 +2246,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:11.535Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2294,6 +2299,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:17.176Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2342,6 +2348,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:15.402Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2390,6 +2397,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:27.307Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2433,6 +2441,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:32.008Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2476,6 +2485,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:30.127Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2497,6 +2507,7 @@
             "modified": "2018-10-17T01:05:10.699Z",
             "created": "2017-10-25T14:48:10.699Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2518,6 +2529,7 @@
             "modified": "2018-10-17T01:05:10.699Z",
             "created": "2017-10-25T14:48:11.861Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2571,6 +2583,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:28.067Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2624,6 +2637,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:13.625Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2645,6 +2659,7 @@
             "modified": "2018-10-17T01:05:10.703Z",
             "created": "2017-10-25T14:48:24.069Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2693,6 +2708,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:19.996Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2736,6 +2752,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:15.920Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2779,6 +2796,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:16.650Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2879,6 +2897,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2934,6 +2953,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2955,6 +2975,7 @@
             "modified": "2018-10-17T01:05:10.700Z",
             "created": "2017-10-25T14:48:26.473Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2998,6 +3019,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:28.456Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3019,6 +3041,7 @@
             "modified": "2018-10-17T01:05:10.703Z",
             "created": "2017-10-25T14:48:23.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3078,6 +3101,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:14.003Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3127,6 +3151,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:21.667Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3191,6 +3216,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:14.460Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3240,6 +3266,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:06.822Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3294,6 +3321,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:26.104Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3337,6 +3365,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:10.285Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3358,6 +3387,7 @@
             "modified": "2018-10-17T01:05:10.702Z",
             "created": "2017-10-25T14:48:07.149Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3402,6 +3432,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:13.259Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3446,6 +3477,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:29.405Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3516,6 +3548,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:06.524Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3590,6 +3623,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:09.864Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3657,6 +3691,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:22.716Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3726,6 +3761,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:23.233Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3785,6 +3821,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3806,6 +3843,7 @@
             "modified": "2018-10-17T01:05:10.701Z",
             "created": "2017-10-25T14:48:28.786Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3844,6 +3882,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:21.965Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3883,6 +3922,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:18.937Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3904,6 +3944,7 @@
             "modified": "2018-10-17T01:05:10.699Z",
             "created": "2017-10-25T14:48:30.462Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3963,6 +4004,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4027,6 +4069,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:25.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4075,6 +4118,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:32.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4118,6 +4162,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:33.574Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4163,6 +4208,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:12.267Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4212,6 +4258,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:17.886Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4281,6 +4328,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:24.488Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4302,6 +4350,7 @@
             "modified": "2018-10-17T01:05:10.703Z",
             "created": "2017-10-25T14:48:19.682Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4323,6 +4372,7 @@
             "modified": "2018-10-17T01:05:10.702Z",
             "created": "2017-10-25T14:48:08.155Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4344,6 +4394,7 @@
             "modified": "2018-10-17T01:05:10.704Z",
             "created": "2017-10-25T14:48:24.905Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4392,6 +4443,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:27.660Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4413,6 +4465,7 @@
             "modified": "2018-10-17T01:05:10.704Z",
             "created": "2017-10-25T14:48:09.446Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4452,6 +4505,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:07.460Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4501,6 +4555,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:25.322Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4546,6 +4601,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:12.913Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4610,6 +4666,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:31.294Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4669,6 +4726,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:30.890Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4727,6 +4785,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:18.583Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4770,6 +4829,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:29.092Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4809,6 +4869,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:26.890Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4858,6 +4919,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:14.982Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4922,6 +4984,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:32.328Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4982,6 +5045,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:18.237Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5031,6 +5095,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:09.082Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5074,6 +5139,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:33.926Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5095,6 +5161,7 @@
             "modified": "2018-10-17T01:05:10.701Z",
             "created": "2017-10-25T14:48:34.830Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5145,6 +5212,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:21.023Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5200,6 +5268,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:07.827Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5250,6 +5319,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:35.247Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5299,6 +5369,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:22.296Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5353,6 +5424,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:21.354Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5422,6 +5494,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:20.329Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5475,6 +5548,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:33.158Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5496,6 +5570,7 @@
             "modified": "2018-10-17T01:05:10.700Z",
             "created": "2017-10-25T14:48:05.928Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5556,6 +5631,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5605,6 +5681,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:19.265Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5668,6 +5745,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:17.533Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5736,6 +5814,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:34.407Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5774,6 +5853,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:31.694Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5800,6 +5880,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.745Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5820,6 +5901,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.736Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5839,6 +5921,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.739Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5859,6 +5942,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5878,6 +5962,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5898,6 +5983,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.739Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5918,6 +6004,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5937,6 +6024,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.733Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5956,6 +6044,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.745Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5975,6 +6064,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.742Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5995,6 +6085,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.742Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6014,6 +6105,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6034,6 +6126,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.747Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6053,6 +6146,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6073,6 +6167,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6092,6 +6187,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6111,6 +6207,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6131,6 +6228,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6158,6 +6256,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.735Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6178,6 +6277,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.747Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6197,6 +6297,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.747Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6216,6 +6317,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6235,6 +6337,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6254,6 +6357,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6281,6 +6385,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6313,6 +6418,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6340,6 +6446,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.745Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6360,6 +6467,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.736Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6380,6 +6488,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.739Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6412,6 +6521,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6432,6 +6542,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6452,6 +6563,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6471,6 +6583,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6490,6 +6603,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6517,6 +6631,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6544,6 +6659,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6571,6 +6687,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6598,6 +6715,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6625,6 +6743,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6652,6 +6771,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6679,6 +6799,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6706,6 +6827,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6733,6 +6855,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6760,6 +6883,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6787,6 +6911,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6814,6 +6939,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6841,6 +6967,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6868,6 +6995,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6895,6 +7023,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6922,6 +7051,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6949,6 +7079,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6976,6 +7107,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7003,6 +7135,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7030,6 +7163,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7057,6 +7191,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7084,6 +7219,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7111,6 +7247,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7138,6 +7275,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7165,6 +7303,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.733Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7184,6 +7323,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.742Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7204,6 +7344,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.742Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7236,6 +7377,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7256,6 +7398,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7275,6 +7418,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.743Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7302,6 +7446,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.743Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7321,6 +7466,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7340,6 +7486,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7359,6 +7506,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7379,6 +7527,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.747Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7398,6 +7547,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7417,6 +7567,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.747Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7436,6 +7587,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7455,6 +7607,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7474,6 +7627,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7501,6 +7655,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7528,6 +7683,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7555,6 +7711,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7582,6 +7739,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7609,6 +7767,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7636,6 +7795,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7663,6 +7823,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7690,6 +7851,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7717,6 +7879,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7744,6 +7907,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7771,6 +7935,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7798,6 +7963,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7825,6 +7991,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7852,6 +8019,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7879,6 +8047,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7906,6 +8075,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7933,6 +8103,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7960,6 +8131,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7987,6 +8159,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8014,6 +8187,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8041,6 +8215,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8068,6 +8243,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8095,6 +8271,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8122,6 +8299,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8149,6 +8327,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8176,6 +8355,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8203,6 +8383,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8230,6 +8411,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8257,6 +8439,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8284,6 +8467,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8311,6 +8495,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8338,6 +8523,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8365,6 +8551,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8392,6 +8579,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8419,6 +8607,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8446,6 +8635,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8473,6 +8663,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8500,6 +8691,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8527,6 +8719,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8554,6 +8747,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8581,6 +8775,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8608,6 +8803,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8635,6 +8831,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8662,6 +8859,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8689,6 +8887,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8716,6 +8915,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8735,6 +8935,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.745Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8755,6 +8956,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.736Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8775,6 +8977,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8795,6 +8998,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.745Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8814,6 +9018,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8834,6 +9039,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8854,6 +9060,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8881,6 +9088,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.735Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8900,6 +9108,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.733Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8919,6 +9128,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.742Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8938,6 +9148,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8958,6 +9169,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8985,6 +9197,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.739Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9004,6 +9217,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.743Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9031,6 +9245,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.743Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9050,6 +9265,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.745Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9069,6 +9285,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9089,6 +9306,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9109,6 +9327,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.747Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9129,6 +9348,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9148,6 +9368,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9167,6 +9388,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9186,6 +9408,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9205,6 +9428,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9232,6 +9456,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9259,6 +9484,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9286,6 +9512,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9313,6 +9540,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9340,6 +9568,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9367,6 +9596,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9394,6 +9624,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9421,6 +9652,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9448,6 +9680,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9475,6 +9708,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9502,6 +9736,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9529,6 +9764,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9556,6 +9792,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9583,6 +9820,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9610,6 +9848,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9637,6 +9876,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9664,6 +9904,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9691,6 +9932,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9718,6 +9960,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9745,6 +9988,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9772,6 +10016,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9799,6 +10044,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9819,6 +10065,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.734Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9846,6 +10093,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9866,6 +10114,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9893,6 +10142,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9920,6 +10170,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.739Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9947,6 +10198,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9966,6 +10218,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9993,6 +10246,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10013,6 +10267,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10040,6 +10295,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10059,6 +10315,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10086,6 +10343,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10106,6 +10364,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10133,6 +10392,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10153,6 +10413,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10180,6 +10441,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10199,6 +10461,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10218,6 +10481,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.735Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10237,6 +10501,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.742Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10256,6 +10521,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10283,6 +10549,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10302,6 +10569,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10329,6 +10597,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10349,6 +10618,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10368,6 +10638,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10387,6 +10658,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10407,6 +10679,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10427,6 +10700,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10447,6 +10721,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10466,6 +10741,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10485,6 +10761,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10504,6 +10781,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10523,6 +10801,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10550,6 +10829,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10577,6 +10857,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10604,6 +10885,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10631,6 +10913,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10658,6 +10941,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10685,6 +10969,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10712,6 +10997,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10739,6 +11025,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10766,6 +11053,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10793,6 +11081,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10820,6 +11109,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10847,6 +11137,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10874,6 +11165,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10901,6 +11193,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10928,6 +11221,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10955,6 +11249,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10982,6 +11277,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11009,6 +11305,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11036,6 +11333,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11063,6 +11361,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11090,6 +11389,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11117,6 +11417,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11144,6 +11445,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11171,6 +11473,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11198,6 +11501,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11225,6 +11529,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11252,6 +11557,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11279,6 +11585,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11306,6 +11613,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11333,6 +11641,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11360,6 +11669,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11387,6 +11697,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11414,6 +11725,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11441,6 +11753,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11468,6 +11781,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11495,6 +11809,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11522,6 +11837,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11549,6 +11865,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11576,6 +11893,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11608,6 +11926,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11628,6 +11947,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.734Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11648,6 +11968,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.736Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11667,6 +11988,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.739Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11687,6 +12009,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11706,6 +12029,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11725,6 +12049,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.738Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11745,6 +12070,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11764,6 +12090,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.733Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11784,6 +12111,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.745Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11803,6 +12131,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11830,6 +12159,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.742Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11850,6 +12180,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.741Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11870,6 +12201,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.747Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11889,6 +12221,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.740Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11909,6 +12242,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.744Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11928,6 +12262,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11947,6 +12282,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.746Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11967,6 +12303,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.737Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11986,6 +12323,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.735Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12006,6 +12344,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.734Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12038,6 +12377,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.739Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12057,6 +12397,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12076,6 +12417,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12095,6 +12437,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12114,6 +12457,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12141,6 +12485,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12168,6 +12513,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12195,6 +12541,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12222,6 +12569,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12249,6 +12597,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12276,6 +12625,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12303,6 +12653,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12330,6 +12681,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12357,6 +12709,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12384,6 +12737,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12411,6 +12765,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12438,6 +12793,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12465,6 +12821,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12492,6 +12849,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12519,6 +12877,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12546,6 +12905,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12573,6 +12933,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12600,6 +12961,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12627,6 +12989,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12654,6 +13017,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12681,6 +13045,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12708,6 +13073,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12735,6 +13101,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12762,6 +13129,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12789,6 +13157,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12816,6 +13185,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12843,6 +13213,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12870,6 +13241,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12897,6 +13269,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12924,6 +13297,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12951,6 +13325,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12978,6 +13353,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13005,6 +13381,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13032,6 +13409,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13059,6 +13437,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13086,6 +13465,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.732Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13112,6 +13492,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:51.942Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13138,6 +13519,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:52.933Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13164,6 +13546,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:51.365Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13190,6 +13573,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:52.601Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13226,6 +13610,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:50.769Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13252,6 +13637,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:53.318Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13283,6 +13669,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:50.181Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13309,6 +13696,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:49.554Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13335,6 +13723,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:50.493Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13361,6 +13750,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:52.270Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13387,6 +13777,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:51.053Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13413,6 +13804,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:51.657Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13439,6 +13831,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:49.838Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13455,6 +13848,7 @@
             "modified": "2017-06-01T00:00:00.000Z",
             "created": "2017-06-01T00:00:00.000Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13590,6 +13984,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-05-31T21:31:48.664Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13628,6 +14023,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:47.965Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13672,6 +14068,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:47.038Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13711,6 +14108,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13750,6 +14148,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:47.363Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13789,6 +14188,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:39.945Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13828,6 +14228,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:45.482Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13872,6 +14273,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:47.674Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13911,6 +14313,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:39.631Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13950,6 +14353,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:37.438Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13989,6 +14393,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:37.856Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14033,6 +14438,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:40.571Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14072,6 +14478,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:41.721Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14126,6 +14533,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:43.242Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14165,6 +14573,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:42.948Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14204,6 +14613,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:40.259Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14243,6 +14653,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14282,6 +14693,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:43.815Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14321,6 +14733,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14360,6 +14773,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:40.875Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14399,6 +14813,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:36.707Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14438,6 +14853,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:44.540Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14477,6 +14893,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:45.155Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14516,6 +14933,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:43.527Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14565,6 +14983,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:41.202Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14609,6 +15028,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:44.238Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14648,6 +15068,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:38.274Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14687,6 +15108,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14726,6 +15148,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:48.917Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14765,6 +15188,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:38.690Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14804,6 +15228,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14843,6 +15268,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14882,6 +15308,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:45.794Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14921,6 +15348,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14960,6 +15388,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14999,6 +15428,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:46.411Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15038,6 +15468,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:46.107Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15077,6 +15508,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:46.734Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15116,6 +15548,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:42.313Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15155,6 +15588,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:37.020Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15194,6 +15628,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:42.034Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15233,6 +15668,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15277,6 +15713,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:42.661Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15316,6 +15753,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:48.301Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15355,6 +15793,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:44.853Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15394,6 +15833,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2017-10-25T14:48:48.609Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15431,6 +15871,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15460,6 +15901,7 @@
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15486,6 +15928,7 @@
             ],
             "x_mitre_shortname": "collection",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15512,6 +15955,7 @@
             ],
             "x_mitre_shortname": "command-and-control",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15538,6 +15982,7 @@
             ],
             "x_mitre_shortname": "credential-access",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15564,6 +16009,7 @@
             ],
             "x_mitre_shortname": "defense-evasion",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15590,6 +16036,7 @@
             ],
             "x_mitre_shortname": "discovery",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15616,6 +16063,7 @@
             ],
             "x_mitre_shortname": "effects",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15642,6 +16090,7 @@
             ],
             "x_mitre_shortname": "exfiltration",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15668,6 +16117,7 @@
             ],
             "x_mitre_shortname": "initial-access",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15694,6 +16144,7 @@
             ],
             "x_mitre_shortname": "lateral-movement",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15720,6 +16171,7 @@
             ],
             "x_mitre_shortname": "network-effects",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15746,6 +16198,7 @@
             ],
             "x_mitre_shortname": "persistence",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15772,6 +16225,7 @@
             ],
             "x_mitre_shortname": "privilege-escalation",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15798,6 +16252,7 @@
             ],
             "x_mitre_shortname": "remote-service-effects",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15814,6 +16269,7 @@
                 "statement": "Copyright 2017, The MITRE Corporation"
             },
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ]
@@ -15831,6 +16287,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15851,6 +16308,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15871,6 +16329,7 @@
             "target_ref": "attack-pattern--1f96d624-8409-4472-ad8a-30618ee6b2e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15891,6 +16350,7 @@
             "target_ref": "attack-pattern--1f96d624-8409-4472-ad8a-30618ee6b2e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15911,6 +16371,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15931,6 +16392,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15951,6 +16413,7 @@
             "target_ref": "attack-pattern--45dcbc83-4abc-4de1-b643-e528d1e9df09",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15971,6 +16434,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15991,6 +16455,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16011,6 +16476,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16031,6 +16497,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16051,6 +16518,7 @@
             "target_ref": "attack-pattern--c91c304a-975d-4501-9789-0db1c57afd3f",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16071,6 +16539,7 @@
             "target_ref": "attack-pattern--c91c304a-975d-4501-9789-0db1c57afd3f",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16091,6 +16560,7 @@
             "target_ref": "attack-pattern--e30cc912-7ea1-4683-9219-543b86cbdec9",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16111,6 +16581,7 @@
             "target_ref": "attack-pattern--11bd699b-f2c2-4e48-bf46-fb3f8acd9799",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16131,6 +16602,7 @@
             "target_ref": "attack-pattern--a9cab8f6-4c94-4c9b-9e7d-9d863ff53431",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16151,6 +16623,7 @@
             "target_ref": "attack-pattern--a9cab8f6-4c94-4c9b-9e7d-9d863ff53431",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16171,6 +16644,7 @@
             "target_ref": "attack-pattern--0bcc4ec1-a897-49a9-a9ff-c00df1d1209d",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16191,6 +16665,7 @@
             "target_ref": "attack-pattern--0bcc4ec1-a897-49a9-a9ff-c00df1d1209d",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16211,6 +16686,7 @@
             "target_ref": "attack-pattern--b928b94a-4966-4e2a-9e61-36505b896ebc",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16231,6 +16707,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16251,6 +16728,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16271,6 +16749,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16291,6 +16770,7 @@
             "target_ref": "attack-pattern--831e3269-da49-48ac-94dc-948008e8fd16",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16311,6 +16791,7 @@
             "target_ref": "attack-pattern--a21a6a79-f9a1-4c87-aed9-ba2d79536881",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16344,6 +16825,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16372,6 +16854,7 @@
             "target_ref": "attack-pattern--1f96d624-8409-4472-ad8a-30618ee6b2e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16400,6 +16883,7 @@
             "target_ref": "attack-pattern--3911658a-6506-4deb-9ab4-595a51ae71ad",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16428,6 +16912,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16456,6 +16941,7 @@
             "target_ref": "attack-pattern--b765efd1-02e6-4e67-aebf-0fef5c37e54b",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16484,6 +16970,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16512,6 +16999,7 @@
             "target_ref": "attack-pattern--0bcc4ec1-a897-49a9-a9ff-c00df1d1209d",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16540,6 +17028,7 @@
             "target_ref": "attack-pattern--b765efd1-02e6-4e67-aebf-0fef5c37e54b",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16568,6 +17057,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16596,6 +17086,7 @@
             "target_ref": "attack-pattern--a93ccb8f-3996-42e2-b7c7-bb599d4e205f",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16629,6 +17120,7 @@
             "target_ref": "attack-pattern--b928b94a-4966-4e2a-9e61-36505b896ebc",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16656,6 +17148,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16684,6 +17177,7 @@
             "target_ref": "attack-pattern--b765efd1-02e6-4e67-aebf-0fef5c37e54b",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16712,6 +17206,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],

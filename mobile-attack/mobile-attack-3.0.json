@@ -1,6 +1,7 @@
 {
     "type": "bundle",
     "id": "bundle--c268a49d-b461-4471-81fb-8db3485c68ea",
+    "spec_version": "2.1",
     "objects": [
         {
             "type": "x-mitre-collection",

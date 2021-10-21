@@ -1,12 +1,12 @@
 {
     "type": "bundle",
     "id": "bundle--eeb1ff74-2747-4602-96fb-e7b220361101",
-    "spec_version": "2.1",
     "objects": [
         {
             "type": "x-mitre-collection",
             "id": "x-mitre-collection--dac0d2d7-8653-445c-9bff-82f934c1e858",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "name": "Mobile ATT&CK",
             "x_mitre_version": "5.0",
             "description": "ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smartphones and tablets running the Android or iOS/iPadOS operating systems). ATT&CK for Mobile builds upon NIST's Mobile Threat Catalogue and also contains a separate matrix of network-based effects, which are techniques that an adversary can employ without access to the mobile device itself.",
@@ -2139,6 +2139,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2165,6 +2166,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2191,6 +2193,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2217,6 +2220,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2243,6 +2247,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2269,6 +2274,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2295,6 +2301,7 @@
             "modified": "2019-07-03T19:24:27.636Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2321,6 +2328,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2347,6 +2355,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2373,6 +2382,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2399,6 +2409,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2425,6 +2436,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2451,6 +2463,7 @@
             "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2468,6 +2481,7 @@
             "id": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2017-06-01T00:00:00.000Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2639,6 +2653,7 @@
                 "Richard Gold, Digital Shadows"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2676,6 +2691,7 @@
             "x_mitre_version": "1.1",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2702,6 +2718,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:53.732Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2728,6 +2745,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:51.942Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2754,6 +2772,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:52.933Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2780,6 +2799,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:51.365Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2806,6 +2826,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:52.601Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2842,6 +2863,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:50.769Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2868,6 +2890,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:53.318Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2899,6 +2922,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:50.181Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2925,6 +2949,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:49.554Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2951,6 +2976,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:50.493Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -2977,6 +3003,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:52.270Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3003,6 +3030,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:51.053Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3029,6 +3057,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:51.657Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3055,6 +3084,7 @@
             "x_mitre_version": "1.0",
             "created": "2017-10-25T14:48:49.838Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3096,6 +3126,7 @@
                 "ANDROIDOS_ANSERVER.A"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3143,6 +3174,7 @@
                 "Adups"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3185,6 +3217,7 @@
                 "Allwinner"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3227,6 +3260,7 @@
                 "AndroRAT"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3269,6 +3303,7 @@
                 "Android Overlay Malware"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3311,6 +3346,7 @@
                 "Android/Chuli.A"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3358,6 +3394,7 @@
                 "BrainTest"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3400,6 +3437,7 @@
                 "Charger"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3442,6 +3480,7 @@
                 "Dendroid"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3484,6 +3523,7 @@
                 "DressCode"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3531,6 +3571,7 @@
                 "DroidJack"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3574,6 +3615,7 @@
                 "DualToy"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3641,6 +3683,7 @@
                 "FinSpy"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3698,6 +3741,7 @@
                 "Ghost Push"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3740,6 +3784,7 @@
                 "HummingBad"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3782,6 +3827,7 @@
                 "HummingWhale"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3824,6 +3870,7 @@
                 "Judy"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3866,6 +3913,7 @@
                 "KeyRaider"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3908,6 +3956,7 @@
                 "Marcher"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3950,6 +3999,7 @@
                 "MazarBOT"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -3992,6 +4042,7 @@
                 "NotCompatible"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4034,6 +4085,7 @@
                 "OBAD"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4076,6 +4128,7 @@
                 "OldBoot"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4118,6 +4171,7 @@
                 "PJApps"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4159,6 +4213,7 @@
                 "Pallas"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4211,6 +4266,7 @@
                 "Chrysaor"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4258,6 +4314,7 @@
                 "Pegasus for iOS"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4300,6 +4357,7 @@
                 "RCSAndroid"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4342,6 +4400,7 @@
                 "RedDrop"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4384,6 +4443,7 @@
                 "RuMMS"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4426,6 +4486,7 @@
                 "ShiftyBug"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4468,6 +4529,7 @@
                 "Skygofree"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4510,6 +4572,7 @@
                 "SpyDealer"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4552,6 +4615,7 @@
                 "SpyNote RAT"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4594,6 +4658,7 @@
                 "Stealth Mango"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4636,6 +4701,7 @@
                 "Tangelo"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4678,6 +4744,7 @@
                 "Trojan-SMS.AndroidOS.Agent.ao"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4720,6 +4787,7 @@
                 "Trojan-SMS.AndroidOS.FakeInst.a"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4762,6 +4830,7 @@
                 "Trojan-SMS.AndroidOS.OpFake.a"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4804,6 +4873,7 @@
                 "WireLurker"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4846,6 +4916,7 @@
                 "X-Agent for Android"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4888,6 +4959,7 @@
                 "XLoader"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4935,6 +5007,7 @@
                 "XcodeGhost"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -4977,6 +5050,7 @@
                 "YiSpecter"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5019,6 +5093,7 @@
                 "ZergHelper"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5035,6 +5110,7 @@
             "created": "2017-06-01T00:00:00Z",
             "id": "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ]
@@ -5075,6 +5151,7 @@
                 "Xbot"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5112,6 +5189,7 @@
                 "x-mitre-tactic--3f660805-fa2e-42e8-8851-57f9e9b653e3"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5141,6 +5219,7 @@
                 "x-mitre-tactic--e78d7d60-41b5-49b7-b0a9-5c5d4cbabe17"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5189,6 +5268,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5233,6 +5313,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5254,6 +5335,7 @@
             "modified": "2018-10-17T01:05:10.701Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5299,6 +5381,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5344,6 +5427,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5389,6 +5473,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5441,6 +5526,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5489,6 +5575,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5537,6 +5624,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5580,6 +5668,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5623,6 +5712,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5644,6 +5734,7 @@
             "modified": "2018-10-17T01:05:10.699Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5665,6 +5756,7 @@
             "modified": "2018-10-17T01:05:10.699Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5718,6 +5810,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5771,6 +5864,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5792,6 +5886,7 @@
             "modified": "2018-10-17T01:05:10.703Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5840,6 +5935,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5883,6 +5979,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -5926,6 +6023,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6026,6 +6124,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6096,6 +6195,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6117,6 +6217,7 @@
             "modified": "2018-10-17T01:05:10.700Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6160,6 +6261,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6181,6 +6283,7 @@
             "modified": "2018-10-17T01:05:10.703Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6240,6 +6343,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6289,6 +6393,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6353,6 +6458,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6402,6 +6508,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6456,6 +6563,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6499,6 +6607,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6520,6 +6629,7 @@
             "modified": "2018-10-17T01:05:10.702Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6564,6 +6674,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6608,6 +6719,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6683,6 +6795,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6757,6 +6870,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6824,6 +6938,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6893,6 +7008,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6957,6 +7073,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -6978,6 +7095,7 @@
             "modified": "2018-10-17T01:05:10.701Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7016,6 +7134,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7055,6 +7174,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7076,6 +7196,7 @@
             "modified": "2018-10-17T01:05:10.699Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7135,6 +7256,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7219,6 +7341,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7264,6 +7387,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7313,6 +7437,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7382,6 +7507,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7403,6 +7529,7 @@
             "modified": "2018-10-17T01:05:10.703Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7424,6 +7551,7 @@
             "modified": "2019-04-29T19:35:30.985Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7445,6 +7573,7 @@
             "modified": "2018-10-17T01:05:10.704Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7493,6 +7622,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7514,6 +7644,7 @@
             "modified": "2018-10-17T01:05:10.704Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7553,6 +7684,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7602,6 +7734,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7647,6 +7780,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7711,6 +7845,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7770,6 +7905,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7828,6 +7964,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7871,6 +8008,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7910,6 +8048,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -7959,6 +8098,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8023,6 +8163,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8083,6 +8224,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8132,6 +8274,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8175,6 +8318,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8196,6 +8340,7 @@
             "modified": "2018-10-17T01:05:10.701Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8251,6 +8396,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8306,6 +8452,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8356,6 +8503,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8405,6 +8553,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8459,6 +8608,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8538,6 +8688,7 @@
                 "Without Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8591,6 +8742,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8612,6 +8764,7 @@
             "modified": "2018-10-17T01:05:10.700Z",
             "type": "attack-pattern",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8672,6 +8825,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8721,6 +8875,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8769,6 +8924,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8812,6 +8968,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8875,6 +9032,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8943,6 +9101,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -8981,6 +9140,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9019,6 +9179,7 @@
                 "Post-Adversary Device Access"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9037,6 +9198,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9056,6 +9218,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--2d646840-f6f5-4619-a5a8-29c8316bbac5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9075,6 +9238,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9094,6 +9258,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9113,6 +9278,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--dfe29258-ce59-421c-9dee-e85cb9fa90cd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9132,6 +9298,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--0d95940f-9583-4e0f-824c-a42c1be47fad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9151,6 +9318,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--0d95940f-9583-4e0f-824c-a42c1be47fad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9170,6 +9338,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9189,6 +9358,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9208,6 +9378,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9227,6 +9398,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--fd339382-bfec-4bf0-8d47-1caedc9e7e57",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9246,6 +9418,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--dfe29258-ce59-421c-9dee-e85cb9fa90cd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9265,6 +9438,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--0d95940f-9583-4e0f-824c-a42c1be47fad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9284,6 +9458,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9303,6 +9478,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--2d646840-f6f5-4619-a5a8-29c8316bbac5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9330,6 +9506,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9357,6 +9534,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9389,6 +9567,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--cde2cb84-455e-410c-8aa9-086f2788bcd2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9416,6 +9595,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9436,6 +9616,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9455,6 +9636,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9482,6 +9664,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9509,6 +9692,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9541,6 +9725,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--0d95940f-9583-4e0f-824c-a42c1be47fad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9561,6 +9746,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9580,6 +9766,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--9d7c32f4-ab39-49dc-8055-8106bc2294a1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9600,6 +9787,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--a93ccb8f-3996-42e2-b7c7-bb599d4e205f",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9627,6 +9815,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9654,6 +9843,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d13fa042-8f26-44e1-a2a8-af0bf8e2ac9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9681,6 +9871,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--a93ccb8f-3996-42e2-b7c7-bb599d4e205f",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9708,6 +9899,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--b3c2e5de-0941-4b57-ba61-af029eb5517a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9735,6 +9927,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9762,6 +9955,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--29e07491-8947-43a3-8d4e-9a787c45f3d3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9789,6 +9983,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9809,6 +10004,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--bd4d32f5-eed4-4018-a649-40b229dd1d69",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9828,6 +10024,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--ef771e03-e080-43b4-a619-ac6f84899884",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9848,6 +10045,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--a8c31121-852b-46bd-9ba4-674ae5afe7ad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9868,6 +10066,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--633baf01-6de4-4963-bb54-ff6c6357bed3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9895,6 +10094,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9922,6 +10122,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9949,6 +10150,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--2d646840-f6f5-4619-a5a8-29c8316bbac5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -9976,6 +10178,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10003,6 +10206,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10030,6 +10234,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--bd4d32f5-eed4-4018-a649-40b229dd1d69",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10057,6 +10262,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c4b96c0b-cb58-497a-a1c2-bb447d79d692",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10076,6 +10282,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--a0464539-e1b7-4455-a355-12495987c300",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10095,6 +10302,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--3b0b604f-10db-41a0-b54c-493124d455b9",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10115,6 +10323,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--0c71033e-401e-4b97-9309-7a7c95e43a5d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10142,6 +10351,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10162,6 +10372,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--198ce408-1470-45ee-b47f-7056050d4fc2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10182,6 +10393,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10202,6 +10414,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--f58cd69a-e548-478b-9248-8a9af881dc34",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10222,6 +10435,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10249,6 +10463,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--0d95940f-9583-4e0f-824c-a42c1be47fad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10276,6 +10491,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10296,6 +10512,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--29e07491-8947-43a3-8d4e-9a787c45f3d3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10323,6 +10540,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10350,6 +10568,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--62adb627-f647-498e-b4cc-41499361bacb",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10377,6 +10596,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10404,6 +10624,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10431,6 +10652,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10458,6 +10680,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10478,6 +10701,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--89fcd02f-62dc-40b9-a54b-9ac4b1baef05",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10498,6 +10722,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--cde2cb84-455e-410c-8aa9-086f2788bcd2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10518,6 +10743,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--3b0b604f-10db-41a0-b54c-493124d455b9",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10545,6 +10771,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10572,6 +10799,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--a93ccb8f-3996-42e2-b7c7-bb599d4e205f",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10591,6 +10819,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--393e8c12-a416-4575-ba90-19cc85656796",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10618,6 +10847,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10645,6 +10875,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--8f0e39c6-82c9-41ec-9f93-5696c0f2e274",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10672,6 +10903,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10699,6 +10931,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10726,6 +10959,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10753,6 +10987,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--b3c2e5de-0941-4b57-ba61-af029eb5517a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10780,6 +11015,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10807,6 +11043,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10834,6 +11071,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d13fa042-8f26-44e1-a2a8-af0bf8e2ac9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10854,6 +11092,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10873,6 +11112,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--2d646840-f6f5-4619-a5a8-29c8316bbac5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10900,6 +11140,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10927,6 +11168,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d13fa042-8f26-44e1-a2a8-af0bf8e2ac9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10954,6 +11196,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -10981,6 +11224,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11008,6 +11252,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--9d7c32f4-ab39-49dc-8055-8106bc2294a1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11027,6 +11272,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--a5de0540-73e7-4c67-96da-4143afedc7ed",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11047,6 +11293,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--633baf01-6de4-4963-bb54-ff6c6357bed3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11074,6 +11321,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--3dd58c80-4c2e-458c-9503-1b2cd273c4d2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11101,6 +11349,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11128,6 +11377,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11155,6 +11405,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11182,6 +11433,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11209,6 +11461,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--bd4d32f5-eed4-4018-a649-40b229dd1d69",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11236,6 +11489,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11256,6 +11510,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11276,6 +11531,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11303,6 +11559,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d731c21e-f27d-4756-b418-0e2aaabd6d63",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11323,6 +11580,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11342,6 +11600,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--f1c3d071-0c24-483d-aca0-e8b8496ce468",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11369,6 +11628,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11396,6 +11656,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11423,6 +11684,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11450,6 +11712,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11470,6 +11733,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--62adb627-f647-498e-b4cc-41499361bacb",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11497,6 +11761,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11524,6 +11789,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--3dd58c80-4c2e-458c-9503-1b2cd273c4d2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11544,6 +11810,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11571,6 +11838,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11598,6 +11866,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11625,6 +11894,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--b3c2e5de-0941-4b57-ba61-af029eb5517a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11644,6 +11914,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11671,6 +11942,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--82f04b1e-5371-4a6f-be06-411f0f43b483",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11691,6 +11963,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11711,6 +11984,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--cf28ca46-1fd3-46b4-b1f6-ec0b72361848",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11738,6 +12012,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11765,6 +12040,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d13fa042-8f26-44e1-a2a8-af0bf8e2ac9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11785,6 +12061,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11812,6 +12089,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--f981d199-2720-467e-9dc9-eea04dbe05cf",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11839,6 +12117,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--bd4d32f5-eed4-4018-a649-40b229dd1d69",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11866,6 +12145,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11893,6 +12173,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11920,6 +12201,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11947,6 +12229,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--fd339382-bfec-4bf0-8d47-1caedc9e7e57",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11967,6 +12250,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -11986,6 +12270,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--2d646840-f6f5-4619-a5a8-29c8316bbac5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12005,6 +12290,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12032,6 +12318,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--f981d199-2720-467e-9dc9-eea04dbe05cf",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12059,6 +12346,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--9d7c32f4-ab39-49dc-8055-8106bc2294a1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12078,6 +12366,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--b332a960-3c04-495a-827f-f17a5daed3a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12105,6 +12394,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12132,6 +12422,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12151,6 +12442,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--ef771e03-e080-43b4-a619-ac6f84899884",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12178,6 +12470,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d731c21e-f27d-4756-b418-0e2aaabd6d63",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12210,6 +12503,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--8f142a25-f6c3-4520-bd50-2ae3ab50ed3e",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12237,6 +12531,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12264,6 +12559,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12291,6 +12587,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12318,6 +12615,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12337,6 +12635,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--9d7c32f4-ab39-49dc-8055-8106bc2294a1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12357,6 +12656,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--1b51f5bc-b97a-498a-8dbd-bc6b1901bf19",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12383,6 +12683,7 @@
             "relationship_type": "uses",
             "target_ref": "malware--56660521-6db4-4e5a-a927-464f22954b7c",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12410,6 +12711,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12437,6 +12739,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12464,6 +12767,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--46d818a5-67fa-4585-a7fc-ecf15376c8d5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12491,6 +12795,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--2204c371-6100-4ae0-82f3-25c07c29772a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12518,6 +12823,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12538,6 +12844,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12557,6 +12864,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--fd339382-bfec-4bf0-8d47-1caedc9e7e57",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12576,6 +12884,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--3dd58c80-4c2e-458c-9503-1b2cd273c4d2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12595,6 +12904,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--8e27551a-5080-4148-a584-c64348212e4f",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12622,6 +12932,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12649,6 +12960,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--3b0b604f-10db-41a0-b54c-493124d455b9",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12676,6 +12988,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12703,6 +13016,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12730,6 +13044,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12757,6 +13072,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--89fcd02f-62dc-40b9-a54b-9ac4b1baef05",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12784,6 +13100,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12811,6 +13128,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12830,6 +13148,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--29e07491-8947-43a3-8d4e-9a787c45f3d3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12849,6 +13168,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--46d818a5-67fa-4585-a7fc-ecf15376c8d5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12868,6 +13188,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12895,6 +13216,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--8f0e39c6-82c9-41ec-9f93-5696c0f2e274",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12922,6 +13244,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12949,6 +13272,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--62adb627-f647-498e-b4cc-41499361bacb",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -12976,6 +13300,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13003,6 +13328,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13030,6 +13356,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13057,6 +13384,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--82f04b1e-5371-4a6f-be06-411f0f43b483",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13084,6 +13412,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13111,6 +13440,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--b3c2e5de-0941-4b57-ba61-af029eb5517a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13138,6 +13468,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13165,6 +13496,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13192,6 +13524,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13212,6 +13545,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13231,6 +13565,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--29e07491-8947-43a3-8d4e-9a787c45f3d3",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13258,6 +13593,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d9e88203-2b5d-405f-a406-2933b1e3d7e4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13277,6 +13613,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--9d7c32f4-ab39-49dc-8055-8106bc2294a1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13304,6 +13641,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13331,6 +13669,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13351,6 +13690,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13378,6 +13718,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--8f0e39c6-82c9-41ec-9f93-5696c0f2e274",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13405,6 +13746,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13432,6 +13774,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e2ea7f6b-8d4f-49c3-819d-660530d12b77",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13459,6 +13802,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d13fa042-8f26-44e1-a2a8-af0bf8e2ac9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13486,6 +13830,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--fb3fa94a-3aee-4ab0-b7e7-abdf0a51286d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13505,6 +13850,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--52651225-0b3a-482d-aa7e-10618fd063b5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13524,6 +13870,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--fd339382-bfec-4bf0-8d47-1caedc9e7e57",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13551,6 +13898,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--9d7c32f4-ab39-49dc-8055-8106bc2294a1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13570,6 +13918,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--8f0e39c6-82c9-41ec-9f93-5696c0f2e274",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13597,6 +13946,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13624,6 +13974,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--3dd58c80-4c2e-458c-9503-1b2cd273c4d2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13651,6 +14002,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--b3c2e5de-0941-4b57-ba61-af029eb5517a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13678,6 +14030,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--fd339382-bfec-4bf0-8d47-1caedc9e7e57",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13705,6 +14058,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13732,6 +14086,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13759,6 +14114,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13786,6 +14142,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--198ce408-1470-45ee-b47f-7056050d4fc2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13813,6 +14170,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--76c12fc8-a4eb-45d6-a3b7-e371a7248f69",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13840,6 +14198,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13867,6 +14226,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13894,6 +14254,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13913,6 +14274,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13932,6 +14294,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--3dd58c80-4c2e-458c-9503-1b2cd273c4d2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13959,6 +14322,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -13986,6 +14350,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14013,6 +14378,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--3dd58c80-4c2e-458c-9503-1b2cd273c4d2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14040,6 +14406,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14067,6 +14434,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d9db3d46-66ca-44b4-9daa-1ef97cb7465a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14086,6 +14454,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14113,6 +14482,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d9e88203-2b5d-405f-a406-2933b1e3d7e4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14140,6 +14510,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14160,6 +14531,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--2204c371-6100-4ae0-82f3-25c07c29772a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14179,6 +14551,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--88932a8c-3a17-406f-9431-1da3ff19f6d6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14198,6 +14571,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--3b0b604f-10db-41a0-b54c-493124d455b9",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14217,6 +14591,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--46d818a5-67fa-4585-a7fc-ecf15376c8d5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14236,6 +14611,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--8e27551a-5080-4148-a584-c64348212e4f",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14263,6 +14639,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14290,6 +14667,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14317,6 +14695,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14344,6 +14723,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e2ea7f6b-8d4f-49c3-819d-660530d12b77",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14371,6 +14751,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14398,6 +14779,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--b3c2e5de-0941-4b57-ba61-af029eb5517a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14425,6 +14807,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--9d7c32f4-ab39-49dc-8055-8106bc2294a1",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14452,6 +14835,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--8f0e39c6-82c9-41ec-9f93-5696c0f2e274",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14479,6 +14863,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14506,6 +14891,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--198ce408-1470-45ee-b47f-7056050d4fc2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14533,6 +14919,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c4b96c0b-cb58-497a-a1c2-bb447d79d692",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14560,6 +14947,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14580,6 +14968,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14599,6 +14988,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--fb3fa94a-3aee-4ab0-b7e7-abdf0a51286d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14619,6 +15009,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--a8c31121-852b-46bd-9ba4-674ae5afe7ad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14646,6 +15037,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14673,6 +15065,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14705,6 +15098,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--77e30eee-fd48-40b4-99ec-73e97c158b58",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14732,6 +15126,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--82f04b1e-5371-4a6f-be06-411f0f43b483",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14759,6 +15154,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c5089859-b21f-40a3-8be4-63e381b8b1c0",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14786,6 +15182,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14813,6 +15210,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--82f04b1e-5371-4a6f-be06-411f0f43b483",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14840,6 +15238,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14860,6 +15259,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14879,6 +15279,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14898,6 +15299,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--dfe29258-ce59-421c-9dee-e85cb9fa90cd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14918,6 +15320,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--537ea573-8a1c-468c-956b-d16d2ed9d067",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14945,6 +15348,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--f981d199-2720-467e-9dc9-eea04dbe05cf",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14972,6 +15376,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -14991,6 +15396,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--ef771e03-e080-43b4-a619-ac6f84899884",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15010,6 +15416,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15029,6 +15436,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--f981d199-2720-467e-9dc9-eea04dbe05cf",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15048,6 +15456,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--88932a8c-3a17-406f-9431-1da3ff19f6d6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15075,6 +15484,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15102,6 +15512,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d13fa042-8f26-44e1-a2a8-af0bf8e2ac9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15121,6 +15532,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--dfe29258-ce59-421c-9dee-e85cb9fa90cd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15148,6 +15560,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--dfe29258-ce59-421c-9dee-e85cb9fa90cd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15168,6 +15581,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--dd818ea5-adf5-41c7-93b5-f3b839a219fb",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15188,6 +15602,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--d13fa042-8f26-44e1-a2a8-af0bf8e2ac9a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15215,6 +15630,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15242,6 +15658,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15269,6 +15686,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15296,6 +15714,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15323,6 +15742,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15342,6 +15762,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--82f04b1e-5371-4a6f-be06-411f0f43b483",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15362,6 +15783,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15389,6 +15811,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15416,6 +15839,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--76c12fc8-a4eb-45d6-a3b7-e371a7248f69",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15443,6 +15867,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15470,6 +15895,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15497,6 +15923,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--f981d199-2720-467e-9dc9-eea04dbe05cf",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15517,6 +15944,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--2204c371-6100-4ae0-82f3-25c07c29772a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15544,6 +15972,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15571,6 +16000,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15591,6 +16021,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15611,6 +16042,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--1b51f5bc-b97a-498a-8dbd-bc6b1901bf19",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15631,6 +16063,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--6f86d346-f092-4abc-80df-8558a90c426a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15651,6 +16084,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--3b0b604f-10db-41a0-b54c-493124d455b9",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15678,6 +16112,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--89fcd02f-62dc-40b9-a54b-9ac4b1baef05",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15697,6 +16132,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--c4b96c0b-cb58-497a-a1c2-bb447d79d692",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15724,6 +16160,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15751,6 +16188,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15778,6 +16216,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15810,6 +16249,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--0d95940f-9583-4e0f-824c-a42c1be47fad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15837,6 +16277,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--22379609-a99f-4a01-bd7e-70f3e105859d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15864,6 +16305,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--82f04b1e-5371-4a6f-be06-411f0f43b483",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15891,6 +16333,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15918,6 +16361,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15945,6 +16389,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15972,6 +16417,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--0d95940f-9583-4e0f-824c-a42c1be47fad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -15991,6 +16437,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--a0464539-e1b7-4455-a355-12495987c300",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16010,6 +16457,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16029,6 +16477,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--46d818a5-67fa-4585-a7fc-ecf15376c8d5",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16056,6 +16505,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16083,6 +16533,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--d4536441-1bcc-49fa-80ae-a596ed3f7ffd",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16103,6 +16554,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--a0464539-e1b7-4455-a355-12495987c300",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16130,6 +16582,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--22379609-a99f-4a01-bd7e-70f3e105859d",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16157,6 +16610,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e2ea7f6b-8d4f-49c3-819d-660530d12b77",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16184,6 +16638,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16211,6 +16666,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16238,6 +16694,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--b3c2e5de-0941-4b57-ba61-af029eb5517a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16257,6 +16714,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16284,6 +16742,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--89fcd02f-62dc-40b9-a54b-9ac4b1baef05",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16311,6 +16770,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--dd818ea5-adf5-41c7-93b5-f3b839a219fb",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16338,6 +16798,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e2ea7f6b-8d4f-49c3-819d-660530d12b77",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16365,6 +16826,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--c6a146ae-9c63-4606-97ff-e261e76e8380",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16392,6 +16854,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16419,6 +16882,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16446,6 +16910,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16473,6 +16938,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16500,6 +16966,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--3911658a-6506-4deb-9ab4-595a51ae71ad",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16527,6 +16994,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--351c0927-2fc1-4a2c-ad84-cbbee7eb8172",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16554,6 +17022,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--198ce408-1470-45ee-b47f-7056050d4fc2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16581,6 +17050,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e2ea7f6b-8d4f-49c3-819d-660530d12b77",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16608,6 +17078,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--79eec66a-9bd0-4a3f-ac82-19159e94bd44",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16635,6 +17106,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--e8b4e1ec-8e3b-484c-9038-4459b1ed8060",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16662,6 +17134,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--3dd58c80-4c2e-458c-9503-1b2cd273c4d2",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16689,6 +17162,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--4e6620ac-c30c-4f6d-918e-fa20cae7c1ce",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16716,6 +17190,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6683aa0c-d98a-4f5b-ac57-ca7e9934a760",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16743,6 +17218,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--8e27551a-5080-4148-a584-c64348212e4f",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16770,6 +17246,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--702055ac-4e54-4ae9-9527-e23a38e0b160",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16797,6 +17274,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--99e6295e-741b-4857-b6e5-64989eb039b4",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16824,6 +17302,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6c49d50f-494d-4150-b774-a655022d20a6",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16851,6 +17330,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16878,6 +17358,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--53263a67-075e-48fa-974b-91c5b5445db7",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16905,6 +17386,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--6a3f6490-9c44-40de-b059-e5940f246673",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16925,6 +17407,7 @@
             "relationship_type": "mitigates",
             "target_ref": "attack-pattern--2204c371-6100-4ae0-82f3-25c07c29772a",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16952,6 +17435,7 @@
             "modified": "2018-04-30T13:45:13.024Z",
             "created": "2017-12-14T16:46:06.044Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -16972,6 +17456,7 @@
             "modified": "2018-04-30T13:45:13.024Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17000,6 +17485,7 @@
             "relationship_type": "uses",
             "target_ref": "attack-pattern--830c9528-df21-472c-8c14-a036bf17d665",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "enterprise-attack"
             ],
@@ -17042,6 +17528,7 @@
                 "Twitoor"
             ],
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "enterprise-attack"
             ],
@@ -17061,6 +17548,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17081,6 +17569,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17101,6 +17590,7 @@
             "target_ref": "attack-pattern--1f96d624-8409-4472-ad8a-30618ee6b2e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17121,6 +17611,7 @@
             "target_ref": "attack-pattern--1f96d624-8409-4472-ad8a-30618ee6b2e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17141,6 +17632,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17161,6 +17653,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17181,6 +17674,7 @@
             "target_ref": "attack-pattern--45dcbc83-4abc-4de1-b643-e528d1e9df09",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17201,6 +17695,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17221,6 +17716,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17241,6 +17737,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17261,6 +17758,7 @@
             "target_ref": "attack-pattern--f296fc9c-2ff5-43ee-941e-6b49c438270a",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17281,6 +17779,7 @@
             "target_ref": "attack-pattern--c91c304a-975d-4501-9789-0db1c57afd3f",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17301,6 +17800,7 @@
             "target_ref": "attack-pattern--c91c304a-975d-4501-9789-0db1c57afd3f",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17321,6 +17821,7 @@
             "target_ref": "attack-pattern--e30cc912-7ea1-4683-9219-543b86cbdec9",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17341,6 +17842,7 @@
             "target_ref": "attack-pattern--11bd699b-f2c2-4e48-bf46-fb3f8acd9799",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17361,6 +17863,7 @@
             "target_ref": "attack-pattern--a9cab8f6-4c94-4c9b-9e7d-9d863ff53431",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17381,6 +17884,7 @@
             "target_ref": "attack-pattern--a9cab8f6-4c94-4c9b-9e7d-9d863ff53431",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17401,6 +17905,7 @@
             "target_ref": "attack-pattern--0bcc4ec1-a897-49a9-a9ff-c00df1d1209d",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17421,6 +17926,7 @@
             "target_ref": "attack-pattern--0bcc4ec1-a897-49a9-a9ff-c00df1d1209d",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17441,6 +17947,7 @@
             "target_ref": "attack-pattern--b928b94a-4966-4e2a-9e61-36505b896ebc",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17461,6 +17968,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17481,6 +17989,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17501,6 +18010,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17521,6 +18031,7 @@
             "target_ref": "attack-pattern--831e3269-da49-48ac-94dc-948008e8fd16",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17541,6 +18052,7 @@
             "target_ref": "attack-pattern--a21a6a79-f9a1-4c87-aed9-ba2d79536881",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17574,6 +18086,7 @@
             "target_ref": "attack-pattern--f9e4f526-ac9d-4df5-8949-833a82a1d2df",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17602,6 +18115,7 @@
             "target_ref": "attack-pattern--1f96d624-8409-4472-ad8a-30618ee6b2e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17630,6 +18144,7 @@
             "target_ref": "attack-pattern--3911658a-6506-4deb-9ab4-595a51ae71ad",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17658,6 +18173,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17686,6 +18202,7 @@
             "target_ref": "attack-pattern--b765efd1-02e6-4e67-aebf-0fef5c37e54b",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17714,6 +18231,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17742,6 +18260,7 @@
             "target_ref": "attack-pattern--0bcc4ec1-a897-49a9-a9ff-c00df1d1209d",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17770,6 +18289,7 @@
             "target_ref": "attack-pattern--b765efd1-02e6-4e67-aebf-0fef5c37e54b",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17798,6 +18318,7 @@
             "target_ref": "attack-pattern--6b846ad0-cc20-4db6-aa34-91561397c5e2",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17826,6 +18347,7 @@
             "target_ref": "attack-pattern--a93ccb8f-3996-42e2-b7c7-bb599d4e205f",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17859,6 +18381,7 @@
             "target_ref": "attack-pattern--b928b94a-4966-4e2a-9e61-36505b896ebc",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17886,6 +18409,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17914,6 +18438,7 @@
             "target_ref": "attack-pattern--b765efd1-02e6-4e67-aebf-0fef5c37e54b",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],
@@ -17942,6 +18467,7 @@
             "target_ref": "attack-pattern--51aedbd6-2837-4d15-aeb0-cb09f2bf22ac",
             "type": "relationship",
             "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
                 "mobile-attack"
             ],

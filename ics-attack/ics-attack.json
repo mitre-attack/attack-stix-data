@@ -715,10 +715,6 @@
                     "object_modified": "2022-05-06T17:47:24.104Z"
                 },
                 {
-                    "object_ref": "relationship--00e6c22b-9275-4039-b6d4-2ac0680325d6",
-                    "object_modified": "2022-05-06T17:47:24.104Z"
-                },
-                {
                     "object_ref": "relationship--01b4a92f-da42-4dfa-8d59-53709b65940e",
                     "object_modified": "2022-05-06T17:47:24.203Z"
                 },
@@ -813,10 +809,6 @@
                 {
                     "object_ref": "relationship--09fe4b04-b1d2-492c-9b10-59b94807ccf9",
                     "object_modified": "2022-05-11T16:22:58.806Z"
-                },
-                {
-                    "object_ref": "relationship--0a5d2136-e1f5-4a54-be64-a558f918bf0d",
-                    "object_modified": "2022-05-06T17:47:24.081Z"
                 },
                 {
                     "object_ref": "relationship--0a5d2136-e1f5-4a54-be64-a558f918bf0d",
@@ -987,10 +979,6 @@
                     "object_modified": "2022-05-06T17:47:24.212Z"
                 },
                 {
-                    "object_ref": "relationship--17fdec71-98e8-4314-a1be-037edede58bd",
-                    "object_modified": "2022-05-06T17:47:24.212Z"
-                },
-                {
                     "object_ref": "relationship--18ef2d69-d11a-4d31-a803-da989c4073f7",
                     "object_modified": "2022-05-06T17:47:24.096Z"
                 },
@@ -1067,10 +1055,6 @@
                     "object_modified": "2022-05-06T17:47:24.344Z"
                 },
                 {
-                    "object_ref": "relationship--1f8abf6f-0dd0-4449-b555-733fe7296177",
-                    "object_modified": "2022-05-06T17:47:24.344Z"
-                },
-                {
                     "object_ref": "relationship--1fc147bd-d6ab-4beb-908b-0fbe8e125b76",
                     "object_modified": "2022-05-06T17:47:24.235Z"
                 },
@@ -1113,10 +1097,6 @@
                 {
                     "object_ref": "relationship--220140ac-d927-4d86-9335-c04aa6ee3c61",
                     "object_modified": "2022-05-06T17:47:24.126Z"
-                },
-                {
-                    "object_ref": "relationship--22448288-32d9-4d2c-be16-0784e119fff1",
-                    "object_modified": "2022-05-06T17:47:24.077Z"
                 },
                 {
                     "object_ref": "relationship--22448288-32d9-4d2c-be16-0784e119fff1",
@@ -1307,6 +1287,10 @@
                     "object_modified": "2022-05-06T17:47:24.168Z"
                 },
                 {
+                    "object_ref": "relationship--350814da-5c36-42f9-8e58-8f9534e6ce0a",
+                    "object_modified": "2022-05-06T17:47:24.341Z"
+                },
+                {
                     "object_ref": "relationship--351e19c4-c16e-493a-9800-a433107aacf1",
                     "object_modified": "2022-05-06T17:47:24.345Z"
                 },
@@ -1353,10 +1337,6 @@
                 {
                     "object_ref": "relationship--39c957e3-f89b-4b41-93af-bde08f00ce36",
                     "object_modified": "2022-05-06T17:47:24.242Z"
-                },
-                {
-                    "object_ref": "relationship--3a6cd53d-0d4e-4cf8-8edf-f9ebde4faac4",
-                    "object_modified": "2022-05-06T17:47:24.102Z"
                 },
                 {
                     "object_ref": "relationship--3a6cd53d-0d4e-4cf8-8edf-f9ebde4faac4",
@@ -1425,10 +1405,6 @@
                 {
                     "object_ref": "relationship--3da977ab-c863-4e6f-a5b7-68173160da00",
                     "object_modified": "2022-05-06T17:47:24.166Z"
-                },
-                {
-                    "object_ref": "relationship--3dde2b07-7c30-4a18-a9df-f85db84f9b14",
-                    "object_modified": "2022-05-06T17:47:24.214Z"
                 },
                 {
                     "object_ref": "relationship--3dde2b07-7c30-4a18-a9df-f85db84f9b14",
@@ -1523,10 +1499,6 @@
                     "object_modified": "2022-05-06T17:47:24.073Z"
                 },
                 {
-                    "object_ref": "relationship--461e81a2-c7ad-499e-908d-05ef2f7bd9cd",
-                    "object_modified": "2022-05-06T17:47:24.073Z"
-                },
-                {
                     "object_ref": "relationship--4631bf49-da0b-4415-a226-112c99ff0f64",
                     "object_modified": "2022-05-11T16:22:58.806Z"
                 },
@@ -1563,10 +1535,6 @@
                     "object_modified": "2022-05-06T17:47:24.097Z"
                 },
                 {
-                    "object_ref": "relationship--49d38b21-5ce5-48d9-a356-639fc6c7a53d",
-                    "object_modified": "2022-05-06T17:47:24.097Z"
-                },
-                {
                     "object_ref": "relationship--49d941a6-4da2-4516-92d0-1bc64554b2f2",
                     "object_modified": "2022-05-11T16:22:58.803Z"
                 },
@@ -1577,10 +1545,6 @@
                 {
                     "object_ref": "relationship--4aa52c52-d5ec-4a54-97e3-db00bde08446",
                     "object_modified": "2022-05-11T16:22:58.805Z"
-                },
-                {
-                    "object_ref": "relationship--4b34b947-ed1b-4aae-a2a9-5c1373760255",
-                    "object_modified": "2022-05-06T17:47:24.341Z"
                 },
                 {
                     "object_ref": "relationship--4b34b947-ed1b-4aae-a2a9-5c1373760255",
@@ -1699,10 +1663,6 @@
                     "object_modified": "2022-05-06T17:47:24.086Z"
                 },
                 {
-                    "object_ref": "relationship--58269882-7e8d-4d24-b7a3-dbef6196cb61",
-                    "object_modified": "2022-05-06T17:47:24.086Z"
-                },
-                {
                     "object_ref": "relationship--58a0fd57-ea5f-46b0-84ac-c5b963fb7e94",
                     "object_modified": "2022-05-06T17:47:24.168Z"
                 },
@@ -1725,10 +1685,6 @@
                 {
                     "object_ref": "relationship--5914a482-dbb7-429d-96f3-77f0588ac12d",
                     "object_modified": "2022-05-06T17:47:24.123Z"
-                },
-                {
-                    "object_ref": "relationship--591620d3-5549-49db-9080-43f86a68a590",
-                    "object_modified": "2022-05-06T17:47:24.338Z"
                 },
                 {
                     "object_ref": "relationship--591620d3-5549-49db-9080-43f86a68a590",
@@ -1827,10 +1783,6 @@
                     "object_modified": "2022-05-06T17:47:24.061Z"
                 },
                 {
-                    "object_ref": "relationship--63453d2f-30f6-40ab-b32c-506d940ecd20",
-                    "object_modified": "2022-05-06T17:47:24.061Z"
-                },
-                {
                     "object_ref": "relationship--636baf5a-1a1c-476b-bc54-fb27b27b58a2",
                     "object_modified": "2022-05-11T16:22:58.806Z"
                 },
@@ -1877,6 +1829,10 @@
                 {
                     "object_ref": "relationship--6637d8e6-6578-4d15-a993-d63ced4c4464",
                     "object_modified": "2022-05-06T17:47:24.099Z"
+                },
+                {
+                    "object_ref": "relationship--667df0e0-0995-4213-a98e-7efe7fa6b88e",
+                    "object_modified": "2022-05-06T17:47:24.286Z"
                 },
                 {
                     "object_ref": "relationship--66d637a0-4874-4b12-bd3a-b408acb06d26",
@@ -1975,10 +1931,6 @@
                     "object_modified": "2022-05-06T17:47:24.186Z"
                 },
                 {
-                    "object_ref": "relationship--6d1906b4-e815-4688-86f1-ce61d403f8c6",
-                    "object_modified": "2022-05-06T17:47:24.186Z"
-                },
-                {
                     "object_ref": "relationship--6d822f86-5793-403a-b176-5d533f6b81b3",
                     "object_modified": "2022-05-06T17:47:24.252Z"
                 },
@@ -1989,10 +1941,6 @@
                 {
                     "object_ref": "relationship--6ed07095-c23a-4676-807f-a544deaeb274",
                     "object_modified": "2022-05-06T17:47:24.310Z"
-                },
-                {
-                    "object_ref": "relationship--6f0384e6-73c8-4fc7-bc0c-0a8c2bfa473d",
-                    "object_modified": "2022-05-06T17:47:24.069Z"
                 },
                 {
                     "object_ref": "relationship--6f0384e6-73c8-4fc7-bc0c-0a8c2bfa473d",
@@ -2107,10 +2055,6 @@
                     "object_modified": "2022-05-06T17:47:24.170Z"
                 },
                 {
-                    "object_ref": "relationship--79324bdd-cdab-4d0a-af60-af1047c1d117",
-                    "object_modified": "2022-05-06T17:47:24.170Z"
-                },
-                {
                     "object_ref": "relationship--798919d3-df8b-463f-b2be-4c1aa8089384",
                     "object_modified": "2022-05-06T17:47:24.226Z"
                 },
@@ -2177,10 +2121,6 @@
                 {
                     "object_ref": "relationship--7d66eae7-0dd4-4d21-ab07-8f7e350a7105",
                     "object_modified": "2022-05-11T16:22:58.806Z"
-                },
-                {
-                    "object_ref": "relationship--7d6c4a00-acde-40af-bf91-a4ef009cf135",
-                    "object_modified": "2022-05-06T17:47:24.156Z"
                 },
                 {
                     "object_ref": "relationship--7d6c4a00-acde-40af-bf91-a4ef009cf135",
@@ -2563,14 +2503,6 @@
                     "object_modified": "2022-05-06T17:47:24.286Z"
                 },
                 {
-                    "object_ref": "relationship--9ebc0cc8-7be5-4d13-9540-8f0bb531b359",
-                    "object_modified": "2022-05-06T17:47:24.286Z"
-                },
-                {
-                    "object_ref": "relationship--9ebc0cc8-7be5-4d13-9540-8f0bb531b359",
-                    "object_modified": "2022-05-06T17:47:24.287Z"
-                },
-                {
                     "object_ref": "relationship--9fa31b58-d4f3-43e4-b5b2-cafcd0c6a99d",
                     "object_modified": "2022-05-06T17:47:24.386Z"
                 },
@@ -2687,6 +2619,10 @@
                     "object_modified": "2022-05-06T17:47:24.156Z"
                 },
                 {
+                    "object_ref": "relationship--a946c9b1-5b89-44c9-b617-3412ffda34b9",
+                    "object_modified": "2022-05-06T17:47:24.344Z"
+                },
+                {
                     "object_ref": "relationship--aa205915-7571-47ee-8bc6-5aa1ace86690",
                     "object_modified": "2022-05-11T16:22:58.804Z"
                 },
@@ -2721,10 +2657,6 @@
                 {
                     "object_ref": "relationship--ad7fd147-066e-4ed5-aa9d-7b2f1771150d",
                     "object_modified": "2022-05-06T17:47:24.111Z"
-                },
-                {
-                    "object_ref": "relationship--ade12d27-13bb-4ebf-be08-7039cf699682",
-                    "object_modified": "2022-05-06T17:47:24.065Z"
                 },
                 {
                     "object_ref": "relationship--ade12d27-13bb-4ebf-be08-7039cf699682",
@@ -2893,10 +2825,6 @@
                 {
                     "object_ref": "relationship--b95967ff-27e6-41e8-bec4-e0ceefa7cc6c",
                     "object_modified": "2022-05-11T16:22:58.805Z"
-                },
-                {
-                    "object_ref": "relationship--b960c5ed-1ea8-4dde-9203-c02d291d3bc6",
-                    "object_modified": "2022-05-06T17:47:24.222Z"
                 },
                 {
                     "object_ref": "relationship--b960c5ed-1ea8-4dde-9203-c02d291d3bc6",
@@ -3111,10 +3039,6 @@
                     "object_modified": "2022-05-11T16:22:58.804Z"
                 },
                 {
-                    "object_ref": "relationship--ca0c26d7-c4a9-4c4a-bbd4-f3df4b1f5f69",
-                    "object_modified": "2022-05-11T16:22:58.804Z"
-                },
-                {
                     "object_ref": "relationship--ca3c4d4b-cf53-4489-904f-8a220e421aeb",
                     "object_modified": "2022-05-06T17:47:24.282Z"
                 },
@@ -3155,8 +3079,8 @@
                     "object_modified": "2022-05-06T17:47:24.320Z"
                 },
                 {
-                    "object_ref": "relationship--cd297a7b-4b02-407e-a798-e36fef4cf3a1",
-                    "object_modified": "2022-05-06T17:47:24.072Z"
+                    "object_ref": "relationship--ccc67bb3-acc3-4294-81b3-4a0d972f2dd7",
+                    "object_modified": "2022-05-06T17:47:24.338Z"
                 },
                 {
                     "object_ref": "relationship--cd297a7b-4b02-407e-a798-e36fef4cf3a1",
@@ -3245,10 +3169,6 @@
                 {
                     "object_ref": "relationship--d8354850-bd4c-4bd9-a585-b107f5f1398f",
                     "object_modified": "2022-05-06T17:47:24.340Z"
-                },
-                {
-                    "object_ref": "relationship--d854cc38-adf7-485d-96b5-70606f6cb87e",
-                    "object_modified": "2022-05-06T17:47:24.208Z"
                 },
                 {
                     "object_ref": "relationship--d854cc38-adf7-485d-96b5-70606f6cb87e",
@@ -3423,6 +3343,10 @@
                     "object_modified": "2022-05-11T16:22:58.804Z"
                 },
                 {
+                    "object_ref": "relationship--ea7c032f-da08-4c6f-b74e-0565dc5be02e",
+                    "object_modified": "2022-05-06T17:47:24.287Z"
+                },
+                {
                     "object_ref": "relationship--ea817c7a-9424-4204-90a5-6f8fb86037be",
                     "object_modified": "2022-05-06T17:47:24.230Z"
                 },
@@ -3571,10 +3495,6 @@
                     "object_modified": "2022-05-06T17:47:24.180Z"
                 },
                 {
-                    "object_ref": "relationship--f45c2df8-30e7-45d0-8067-7b2870767574",
-                    "object_modified": "2022-05-06T17:47:24.180Z"
-                },
-                {
                     "object_ref": "relationship--f497fd3e-8f05-4db2-97cc-48a8d35a8827",
                     "object_modified": "2022-05-06T17:47:24.091Z"
                 },
@@ -3633,10 +3553,6 @@
                 {
                     "object_ref": "relationship--f9c29dd4-1c5e-4f7e-b60a-862319a6d0a0",
                     "object_modified": "2022-05-06T17:47:24.184Z"
-                },
-                {
-                    "object_ref": "relationship--fa1bde35-63d9-4c5c-969b-2c17c29089fa",
-                    "object_modified": "2022-05-06T17:47:24.175Z"
                 },
                 {
                     "object_ref": "relationship--fa1bde35-63d9-4c5c-969b-2c17c29089fa",
@@ -12585,34 +12501,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--00e6c22b-9275-4039-b6d4-2ac0680325d6",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.104Z",
-            "relationship_type": "mitigates",
-            "description": "Use host-based allowlists to prevent devices from accepting connections from unauthorized systems. For example, allowlists can be used to ensure devices can only connect with master stations or known management/engineering workstations. (Citation: Department of Homeland Security September 2016)\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9",
-            "external_references": [
-                {
-                    "source_name": "Department of Homeland Security September 2016",
-                    "description": "Department of Homeland Security 2016, September Retrieved. 2020/09/25 ",
-                    "url": "https://us-cert.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--01b4a92f-da42-4dfa-8d59-53709b65940e",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2020-09-21T17:59:24.739Z",
@@ -13141,27 +13029,6 @@
             "source_ref": "x-mitre-data-component--5297a638-1382-4f0c-8472-0d21830bf705",
             "relationship_type": "detects",
             "target_ref": "attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61",
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--0a5d2136-e1f5-4a54-be64-a558f918bf0d",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.081Z",
-            "relationship_type": "mitigates",
-            "description": "All field controllers should require users to authenticate for all remote or local management sessions. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--e6c31185-8040-4267-83d3-b217b8a92f07",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
             "spec_version": "2.1",
             "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
@@ -14198,27 +14065,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--17fdec71-98e8-4314-a1be-037edede58bd",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.212Z",
-            "relationship_type": "mitigates",
-            "description": "Devices that allow remote management of firmware should require authentication before allowing any changes. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--18ef2d69-d11a-4d31-a803-da989c4073f7",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2020-09-21T17:59:24.739Z",
@@ -14687,34 +14533,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--1f8abf6f-0dd0-4449-b555-733fe7296177",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2018-04-18T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.344Z",
-            "relationship_type": "uses",
-            "description": "[Triton](https://attack.mitre.org/software/S0013) calls the SafeAppendProgramMod to transfer its payloads to the Tricon. Part of this call includes preforming a program upload. (Citation: MDudek-ICS)",
-            "source_ref": "malware--80099a91-4c86-4bea-9ccb-dac55d61960e",
-            "target_ref": "attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3",
-            "external_references": [
-                {
-                    "source_name": "MDudek-ICS",
-                    "description": "MDudek-ICS   TRISIS-TRITON-HATMAN Retrieved. 2019/11/03 ",
-                    "url": "https://github.com/MDudek-ICS/TRISIS-TRITON-HATMAN/tree/master/decompiled_code/library"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--1fc147bd-d6ab-4beb-908b-0fbe8e125b76",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2020-09-21T17:59:24.739Z",
@@ -14995,27 +14813,6 @@
                     "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf"
                 }
             ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--22448288-32d9-4d2c-be16-0784e119fff1",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.077Z",
-            "relationship_type": "mitigates",
-            "description": "All field controllers should require users to authenticate for all remote or local management sessions. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--2883c520-7957-46ca-89bd-dab1ad53b601",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -16213,6 +16010,34 @@
         },
         {
             "type": "relationship",
+            "id": "relationship--350814da-5c36-42f9-8e58-8f9534e6ce0a",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-04-18T17:59:24.739Z",
+            "modified": "2022-05-06T17:47:24.341Z",
+            "relationship_type": "uses",
+            "description": "[Triton](https://attack.mitre.org/software/S0013)'s injector, inject.bin, masquerades as a standard compiled PowerPC program for the Tricon. (Citation: DHS CISA February 2019)",
+            "source_ref": "malware--80099a91-4c86-4bea-9ccb-dac55d61960e",
+            "target_ref": "attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61",
+            "external_references": [
+                {
+                    "source_name": "DHS CISA February 2019",
+                    "description": "DHS CISA 2019, February 27 MAR-17-352-01 HatManSafety System Targeted Malware (Update B) Retrieved. 2019/03/08 ",
+                    "url": "https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%20-%20Safety%20System%20Targeted%20Malware%20%28Update%20B%29.pdf"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
+            "x_mitre_domains": [
+                "ics-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0"
+        },
+        {
+            "type": "relationship",
             "id": "relationship--351e19c4-c16e-493a-9800-a433107aacf1",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2018-04-18T17:59:24.739Z",
@@ -16487,27 +16312,6 @@
                     "url": "https://www.symantec.com/connect/blogs/wannacry-ransomware-attacks-show-strong-links-lazarus-group"
                 }
             ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--3a6cd53d-0d4e-4cf8-8edf-f9ebde4faac4",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.102Z",
-            "relationship_type": "mitigates",
-            "description": "All field controllers should require users to authenticate for all remote or local management sessions. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--25dfc8ad-bd73-4dfd-84a9-3c3d383f76e9",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -16897,34 +16701,6 @@
             "description": "Filter for protocols and payloads associated with firmware activation or updating activity.\n",
             "source_ref": "course-of-action--11f242bc-3121-438c-84b2-5cbd46a4bb17",
             "target_ref": "attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--3dde2b07-7c30-4a18-a9df-f85db84f9b14",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.214Z",
-            "relationship_type": "mitigates",
-            "description": "Use host-based allowlists to prevent devices from accepting connections from unauthorized systems. For example, allowlists can be used to ensure devices can only connect with master stations or known management/engineering workstations. (Citation: Department of Homeland Security September 2016)\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--b9160e77-ea9e-4ba9-b1c8-53a3c466b13d",
-            "external_references": [
-                {
-                    "source_name": "Department of Homeland Security September 2016",
-                    "description": "Department of Homeland Security 2016, September Retrieved. 2020/09/25 ",
-                    "url": "https://us-cert.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf"
-                }
-            ],
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -17471,27 +17247,6 @@
             "x_mitre_version": "1.0"
         },
         {
-            "type": "relationship",
-            "id": "relationship--461e81a2-c7ad-499e-908d-05ef2f7bd9cd",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.073Z",
-            "relationship_type": "mitigates",
-            "description": "Utilize network allowlists to restrict unnecessary connections to network devices (e.g., comm servers, serial to ethernet converters) and services, especially in cases when devices have limits on the number of simultaneous sessions they support.\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--8e7089d3-fba2-44f8-94a8-9a79c53920c4",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
@@ -17711,27 +17466,6 @@
             "x_mitre_version": "1.0"
         },
         {
-            "type": "relationship",
-            "id": "relationship--49d38b21-5ce5-48d9-a356-639fc6c7a53d",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.097Z",
-            "relationship_type": "mitigates",
-            "description": "All field controllers should require users to authenticate for all remote or local management sessions. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
@@ -17806,34 +17540,6 @@
                     "source_name": "Blake Johnson, Dan Caban, Marina Krotofil, Dan Scali, Nathan Brubaker, Christopher Glyer December 2017",
                     "description": "Blake Johnson, Dan Caban, Marina Krotofil, Dan Scali, Nathan Brubaker, Christopher Glyer 2017, December 14 Attackers Deploy New ICS Attack Framework TRITON and Cause Operational Disruption to Critical Infrastructure Retrieved. 2018/01/12 ",
                     "url": "https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--4b34b947-ed1b-4aae-a2a9-5c1373760255",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2018-04-18T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.341Z",
-            "relationship_type": "uses",
-            "description": "[Triton](https://attack.mitre.org/software/S0013)'s injector, inject.bin, masquerades as a standard compiled PowerPC program for the Tricon. (Citation: DHS CISA February 2019)",
-            "source_ref": "malware--80099a91-4c86-4bea-9ccb-dac55d61960e",
-            "target_ref": "attack-pattern--ba203963-3182-41ac-af14-7e7ebc83cd61",
-            "external_references": [
-                {
-                    "source_name": "DHS CISA February 2019",
-                    "description": "DHS CISA 2019, February 27 MAR-17-352-01 HatManSafety System Targeted Malware (Update B) Retrieved. 2019/03/08 ",
-                    "url": "https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%20-%20Safety%20System%20Targeted%20Malware%20%28Update%20B%29.pdf"
                 }
             ],
             "object_marking_refs": [
@@ -18598,34 +18304,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--58269882-7e8d-4d24-b7a3-dbef6196cb61",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.086Z",
-            "relationship_type": "mitigates",
-            "description": "Use host-based allowlists to prevent devices from accepting connections from unauthorized systems. For example, allowlists can be used to ensure devices can only connect with master stations or known management/engineering workstations. (Citation: Department of Homeland Security September 2016)\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--83ebd22f-b401-4d59-8219-2294172cf916",
-            "external_references": [
-                {
-                    "source_name": "Department of Homeland Security September 2016",
-                    "description": "Department of Homeland Security 2016, September Retrieved. 2020/09/25 ",
-                    "url": "https://us-cert.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--58a0fd57-ea5f-46b0-84ac-c5b963fb7e94",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2020-09-21T17:59:24.739Z",
@@ -18771,34 +18449,6 @@
                     "source_name": "DHS CISA February 2019",
                     "description": "DHS CISA 2019, February 27 MAR-17-352-01 HatManSafety System Targeted Malware (Update B) Retrieved. 2019/03/08 ",
                     "url": "https://ics-cert.us-cert.gov/sites/default/files/documents/MAR-17-352-01%20HatMan%20-%20Safety%20System%20Targeted%20Malware%20%28Update%20B%29.pdf"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--591620d3-5549-49db-9080-43f86a68a590",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2021-04-13T12:08:26.506Z",
-            "modified": "2022-05-06T17:47:24.338Z",
-            "relationship_type": "uses",
-            "description": "[Triton](https://attack.mitre.org/software/S0013)'s injector, inject.bin, changes the function pointer of the 'get main processor diagnostic data' TriStation command to the address of imain.bin so that it is executed prior to the normal handler. (Citation: Jos Wetzels January 2018)",
-            "source_ref": "malware--80099a91-4c86-4bea-9ccb-dac55d61960e",
-            "target_ref": "attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae",
-            "external_references": [
-                {
-                    "source_name": "Jos Wetzels January 2018",
-                    "description": "Jos Wetzels 2018, January 16 Analyzing the TRITON industrial malware Retrieved. 2019/10/22 ",
-                    "url": "https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware"
                 }
             ],
             "object_marking_refs": [
@@ -19383,27 +19033,6 @@
             "x_mitre_version": "1.0"
         },
         {
-            "type": "relationship",
-            "id": "relationship--63453d2f-30f6-40ab-b32c-506d940ecd20",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.061Z",
-            "relationship_type": "mitigates",
-            "description": "Devices that allow remote management of firmware should require authentication before allowing any changes. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918)",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--19a71d1e-6334-4233-8260-b749cae37953",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
@@ -19688,6 +19317,34 @@
             "description": "Authenticate all access to field controllers before authorizing access to, or modification of, a device's state, logic, or programs. Centralized authentication techniques can help manage the large number of field controller accounts needed across the ICS.\n",
             "source_ref": "course-of-action--3992ce42-43e9-4bea-b8db-a102ec3ec1e3",
             "target_ref": "attack-pattern--2aa406ed-81c3-4c1d-ba83-cfbee5a2847a",
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
+            "x_mitre_domains": [
+                "ics-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0"
+        },
+        {
+            "type": "relationship",
+            "id": "relationship--667df0e0-0995-4213-a98e-7efe7fa6b88e",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2021-04-13T12:45:26.506Z",
+            "modified": "2022-05-06T17:47:24.286Z",
+            "relationship_type": "uses",
+            "description": "The [Industroyer](https://attack.mitre.org/software/S0001)IEC 61850 componentsends the domain-specific MMSgetNameListrequest to determine what logical nodes the device supports. It then searches the logical nodes for the CSW value, which indicates the device performs a circuit breaker or switch control function.  (Citation: Anton Cherepanov, ESET June 2017)",
+            "source_ref": "malware--e401d4fe-f0c9-44f0-98e6-f93487678808",
+            "target_ref": "attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9",
+            "external_references": [
+                {
+                    "source_name": "Anton Cherepanov, ESET June 2017",
+                    "description": "Anton Cherepanov, ESET 2017, June 12 Win32/Industroyer: A new threat for industrial control systems Retrieved. 2017/09/15 ",
+                    "url": "https://www.welivesecurity.com/wp-content/uploads/2017/06/Win32_Industroyer.pdf"
+                }
+            ],
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -20253,27 +19910,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--6d1906b4-e815-4688-86f1-ce61d403f8c6",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.186Z",
-            "relationship_type": "mitigates",
-            "description": "All remote services should require strong authentication before providing user access.\n",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--6d822f86-5793-403a-b176-5d533f6b81b3",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2018-04-18T17:59:24.739Z",
@@ -20343,27 +19979,6 @@
                     "url": "https://www.secureworks.com/research/revil-sodinokibi-ransomware"
                 }
             ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--6f0384e6-73c8-4fc7-bc0c-0a8c2bfa473d",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.069Z",
-            "relationship_type": "mitigates",
-            "description": "Utilize network allowlists to restrict unnecessary connections to network devices (e.g., comm servers, serial to ethernet converters) and services, especially in cases when devices have limits on the number of simultaneous sessions they support.\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--3de230d4-3e42-4041-b089-17e1128feded",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -21078,27 +20693,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--79324bdd-cdab-4d0a-af60-af1047c1d117",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.170Z",
-            "relationship_type": "mitigates",
-            "description": "All field controllers should require users to authenticate for all remote or local management sessions. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--25852363-5968-4673-b81d-341d5ed90bd1",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--798919d3-df8b-463f-b2be-4c1aa8089384",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2021-10-14T17:59:24.739Z",
@@ -21479,27 +21073,6 @@
             "source_ref": "x-mitre-data-component--685f917a-e95e-4ba0-ade1-c7d354dae6e0",
             "relationship_type": "detects",
             "target_ref": "attack-pattern--e1f9cdd2-9511-4fca-90d7-f3e92cfdd0bf",
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--7d6c4a00-acde-40af-bf91-a4ef009cf135",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.156Z",
-            "relationship_type": "mitigates",
-            "description": "Devices that allow remote management of firmware should require authentication before allowing any changes. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--efbf7888-f61b-4572-9c80-7e2965c60707",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
             "spec_version": "2.1",
             "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
@@ -23810,62 +23383,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--9ebc0cc8-7be5-4d13-9540-8f0bb531b359",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2021-04-13T12:45:26.506Z",
-            "modified": "2022-05-06T17:47:24.286Z",
-            "relationship_type": "uses",
-            "description": "The [Industroyer](https://attack.mitre.org/software/S0001)IEC 61850 componentsends the domain-specific MMSgetNameListrequest to determine what logical nodes the device supports. It then searches the logical nodes for the CSW value, which indicates the device performs a circuit breaker or switch control function.  (Citation: Anton Cherepanov, ESET June 2017)",
-            "source_ref": "malware--e401d4fe-f0c9-44f0-98e6-f93487678808",
-            "target_ref": "attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9",
-            "external_references": [
-                {
-                    "source_name": "Anton Cherepanov, ESET June 2017",
-                    "description": "Anton Cherepanov, ESET 2017, June 12 Win32/Industroyer: A new threat for industrial control systems Retrieved. 2017/09/15 ",
-                    "url": "https://www.welivesecurity.com/wp-content/uploads/2017/06/Win32_Industroyer.pdf"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--9ebc0cc8-7be5-4d13-9540-8f0bb531b359",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2021-04-13T12:45:26.506Z",
-            "modified": "2022-05-06T17:47:24.287Z",
-            "relationship_type": "uses",
-            "description": "[Industroyer](https://attack.mitre.org/software/S0001) IEC 60870-5-104 module includes a range mode to discover Information Object Addresses (IOAs) by enumerating through each. (Citation: Anton Cherepanov, ESET June 2017)",
-            "source_ref": "malware--e401d4fe-f0c9-44f0-98e6-f93487678808",
-            "target_ref": "attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9",
-            "external_references": [
-                {
-                    "source_name": "Anton Cherepanov, ESET June 2017",
-                    "description": "Anton Cherepanov, ESET 2017, June 12 Win32/Industroyer: A new threat for industrial control systems Retrieved. 2017/09/15 ",
-                    "url": "https://www.welivesecurity.com/wp-content/uploads/2017/06/Win32_Industroyer.pdf"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--9fa31b58-d4f3-43e4-b5b2-cafcd0c6a99d",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2021-04-11T14:06:54.109Z",
@@ -24594,6 +24111,34 @@
             "x_mitre_version": "1.0"
         },
         {
+            "type": "relationship",
+            "id": "relationship--a946c9b1-5b89-44c9-b617-3412ffda34b9",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2018-04-18T17:59:24.739Z",
+            "modified": "2022-05-06T17:47:24.344Z",
+            "relationship_type": "uses",
+            "description": "[Triton](https://attack.mitre.org/software/S0013) calls the SafeAppendProgramMod to transfer its payloads to the Tricon. Part of this call includes preforming a program upload. (Citation: MDudek-ICS)",
+            "source_ref": "malware--80099a91-4c86-4bea-9ccb-dac55d61960e",
+            "target_ref": "attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3",
+            "external_references": [
+                {
+                    "source_name": "MDudek-ICS",
+                    "description": "MDudek-ICS   TRISIS-TRITON-HATMAN Retrieved. 2019/11/03 ",
+                    "url": "https://github.com/MDudek-ICS/TRISIS-TRITON-HATMAN/tree/master/decompiled_code/library"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
+            "x_mitre_domains": [
+                "ics-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0"
+        },
+        {
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
@@ -24810,27 +24355,6 @@
                     "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-41r1.pdf"
                 }
             ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--ade12d27-13bb-4ebf-be08-7039cf699682",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.065Z",
-            "relationship_type": "mitigates",
-            "description": "Utilize network allowlists to restrict unnecessary connections to network devices (e.g., comm servers, serial to ethernet converters) and services, especially in cases when devices have limits on the number of simultaneous sessions they support.\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--2900bbd8-308a-4274-b074-5b8bde8347bc",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -25835,34 +25359,6 @@
             "source_ref": "x-mitre-data-component--3772e279-27d6-477a-9fe3-c6beb363594c",
             "relationship_type": "detects",
             "target_ref": "attack-pattern--5a2610f6-9fff-41e1-bc27-575ca20383d4",
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--b960c5ed-1ea8-4dde-9203-c02d291d3bc6",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.222Z",
-            "relationship_type": "mitigates",
-            "description": "Use host-based allowlists to prevent devices from accepting connections from unauthorized systems. For example, allowlists can be used to ensure devices can only connect with master stations or known management/engineering workstations. (Citation: Department of Homeland Security September 2016)\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--40b300ba-f553-48bf-862e-9471b220d455",
-            "external_references": [
-                {
-                    "source_name": "Department of Homeland Security September 2016",
-                    "description": "Department of Homeland Security 2016, September Retrieved. 2020/09/25 ",
-                    "url": "https://us-cert.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf"
-                }
-            ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
             "spec_version": "2.1",
             "x_mitre_attack_spec_version": "2.1.0",
             "x_mitre_domains": [
@@ -27195,26 +26691,6 @@
             "x_mitre_version": "1.0"
         },
         {
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "modified": "2022-05-11T16:22:58.804Z",
-            "created": "2022-05-11T16:22:58.804395Z",
-            "id": "relationship--ca0c26d7-c4a9-4c4a-bbd4-f3df4b1f5f69",
-            "type": "relationship",
-            "source_ref": "x-mitre-data-component--3d20385b-24ef-40e1-9f56-f39750379077",
-            "relationship_type": "detects",
-            "target_ref": "attack-pattern--24a9253e-8948-4c98-b751-8e2aee53127c",
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
             "type": "relationship",
             "id": "relationship--ca3c4d4b-cf53-4489-904f-8a220e421aeb",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -27459,14 +26935,21 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--cd297a7b-4b02-407e-a798-e36fef4cf3a1",
+            "id": "relationship--ccc67bb3-acc3-4294-81b3-4a0d972f2dd7",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.072Z",
-            "relationship_type": "mitigates",
-            "description": "Implement network allowlists to minimize serial comm port access to only authorized hosts, such as comm servers and RTUs.\n",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--1c478716-71d9-46a4-9a53-fa5d576adb60",
+            "created": "2021-04-13T12:08:26.506Z",
+            "modified": "2022-05-06T17:47:24.338Z",
+            "relationship_type": "uses",
+            "description": "[Triton](https://attack.mitre.org/software/S0013)'s injector, inject.bin, changes the function pointer of the 'get main processor diagnostic data' TriStation command to the address of imain.bin so that it is executed prior to the normal handler. (Citation: Jos Wetzels January 2018)",
+            "source_ref": "malware--80099a91-4c86-4bea-9ccb-dac55d61960e",
+            "target_ref": "attack-pattern--ab390887-afc0-4715-826d-b1b167d522ae",
+            "external_references": [
+                {
+                    "source_name": "Jos Wetzels January 2018",
+                    "description": "Jos Wetzels 2018, January 16 Analyzing the TRITON industrial malware Retrieved. 2019/10/22 ",
+                    "url": "https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware"
+                }
+            ],
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -27984,27 +27467,6 @@
                     "url": "https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html"
                 }
             ],
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--d854cc38-adf7-485d-96b5-70606f6cb87e",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.208Z",
-            "relationship_type": "mitigates",
-            "description": "Network allowlists can be implemented through either host-based files or system host files to specify what external connections (e.g., IP address, MAC address, port, protocol) can be made from a device. Allowlist techniques that operate at the application layer (e.g., DNP3, Modbus, HTTP) are addressed in the [Filter Network Traffic](https://attack.mitre.org/mitigations/M0937) mitigation.",
-            "source_ref": "course-of-action--aadac250-bcdc-44e3-a4ae-f52bd0a7a16a",
-            "target_ref": "attack-pattern--e076cca8-2f08-45c9-aff7-ea5ac798b387",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],
@@ -29016,6 +28478,34 @@
         },
         {
             "type": "relationship",
+            "id": "relationship--ea7c032f-da08-4c6f-b74e-0565dc5be02e",
+            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "created": "2021-04-13T12:45:26.506Z",
+            "modified": "2022-05-06T17:47:24.287Z",
+            "relationship_type": "uses",
+            "description": "[Industroyer](https://attack.mitre.org/software/S0001) IEC 60870-5-104 module includes a range mode to discover Information Object Addresses (IOAs) by enumerating through each. (Citation: Anton Cherepanov, ESET June 2017)",
+            "source_ref": "malware--e401d4fe-f0c9-44f0-98e6-f93487678808",
+            "target_ref": "attack-pattern--2fedbe69-581f-447d-8a78-32ee7db939a9",
+            "external_references": [
+                {
+                    "source_name": "Anton Cherepanov, ESET June 2017",
+                    "description": "Anton Cherepanov, ESET 2017, June 12 Win32/Industroyer: A new threat for industrial control systems Retrieved. 2017/09/15 ",
+                    "url": "https://www.welivesecurity.com/wp-content/uploads/2017/06/Win32_Industroyer.pdf"
+                }
+            ],
+            "object_marking_refs": [
+                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+            ],
+            "spec_version": "2.1",
+            "x_mitre_attack_spec_version": "2.1.0",
+            "x_mitre_domains": [
+                "ics-attack"
+            ],
+            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+            "x_mitre_version": "1.0"
+        },
+        {
+            "type": "relationship",
             "id": "relationship--ea817c7a-9424-4204-90a5-6f8fb86037be",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2020-09-21T17:59:24.739Z",
@@ -29929,27 +29419,6 @@
         },
         {
             "type": "relationship",
-            "id": "relationship--f45c2df8-30e7-45d0-8067-7b2870767574",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.180Z",
-            "relationship_type": "mitigates",
-            "description": "All field controllers should require users to authenticate for all remote or local management sessions. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--3067b85e-271e-4bc5-81ad-ab1a81d411e3",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
             "id": "relationship--f497fd3e-8f05-4db2-97cc-48a8d35a8827",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
             "created": "2020-09-21T17:59:24.739Z",
@@ -30276,27 +29745,6 @@
             "description": "Allow for code signing of any project files stored at rest to prevent unauthorized tampering. Ensure the signing keys are not easily accessible on the same system.\n",
             "source_ref": "course-of-action--71eb7dad-07eb-4bbc-9df0-ac57bf2fba4a",
             "target_ref": "attack-pattern--e72425f8-9ae6-41d3-bfdb-e1b865e60722",
-            "object_marking_refs": [
-                "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
-            ],
-            "spec_version": "2.1",
-            "x_mitre_attack_spec_version": "2.1.0",
-            "x_mitre_domains": [
-                "ics-attack"
-            ],
-            "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "x_mitre_version": "1.0"
-        },
-        {
-            "type": "relationship",
-            "id": "relationship--fa1bde35-63d9-4c5c-969b-2c17c29089fa",
-            "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2020-09-21T17:59:24.739Z",
-            "modified": "2022-05-06T17:47:24.175Z",
-            "relationship_type": "mitigates",
-            "description": "All field controllers should require users to authenticate for all remote or local management sessions. The authentication mechanisms should also support [Account Use Policies](https://attack.mitre.org/mitigations/M0936), [Password Policies](https://attack.mitre.org/mitigations/M0927), and [User Account Management](https://attack.mitre.org/mitigations/M0918).",
-            "source_ref": "course-of-action--66cfe23e-34b6-4583-b178-ed6a412db2b0",
-            "target_ref": "attack-pattern--be69c571-d746-4b1f-bdd0-c0c9817e9068",
             "object_marking_refs": [
                 "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
             ],

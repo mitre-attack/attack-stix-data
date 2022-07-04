@@ -6648,7 +6648,7 @@
                 },
                 {
                     "object_ref": "relationship--f825f5ea-3815-431f-b005-4c01b8b2fed9",
-                    "object_modified": "2018-04-30T13:45:13.024Z"
+                    "object_modified": "2018-10-17T00:14:20.652Z"
                 },
                 {
                     "object_ref": "relationship--047ab474-c4ec-4675-a817-1e0a9f8dd92f",
@@ -58045,7 +58045,7 @@
             "relationship_type": "revoked-by",
             "target_ref": "attack-pattern--2d646840-f6f5-4619-a5a8-29c8316bbac5",
             "type": "relationship",
-            "modified": "2018-04-30T13:45:13.024Z",
+            "modified": "2018-10-17T00:14:20.652Z",
             "created": "2018-10-17T00:14:20.652Z",
             "spec_version": "2.1",
             "x_mitre_attack_spec_version": "2.1.0",

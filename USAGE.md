@@ -230,7 +230,7 @@ Additionally:
 -   Sub-techniques have the same tactics as their parent technique.
 -   Sub-techniques have a subset of their parent technique's platforms.
 
-Sub-techniques only exist in the enterprise domain.
+Sub-techniques only exist in the Enterprise and Mobile domains.
 
 ### Procedures
 

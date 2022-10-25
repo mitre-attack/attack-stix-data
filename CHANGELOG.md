@@ -1,5 +1,11 @@
 # Changes to ATT&CK in STIX 2.1
 
+## 25 October 2022 - ATT&CK Spec v3.0.0
+
+Changes to ATT&CK in STIX for October 2022 ATT&CK Content Release (ATT&CK v12.0)
+
+* Added Campaign objects. For detailed information about the representation of Campaigns in ATT&CK/STIX, please see the campaign section of the [USAGE document](https://github.com/mitre-attack/attack-stix-data/blob/master/USAGE.md#campaigns).
+
 ## 21 October 2021 - ATT&CK Spec v2.1.0
 Changes to ATT&CK in STIX for October 2021 ATT&CK Content Release (ATT&CK v10)
 

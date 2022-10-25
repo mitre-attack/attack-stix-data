@@ -80,8 +80,8 @@ The data in this repository is STIX 2.1 and divided into folders, one for each d
 Tools consuming ATT&CK-formatted data may support multiple versions of the ATT&CK spec. The ATT&CK Spec version number is used to document the current version of the spec used by a given object in the knowledge base, and is tracked by the `x_mitre_attack_spec_version` field on the objects of the knowledge base.
 
 | Current ATT&CK Spec Version | Link to Changelog         |
-| :-------------------------- | :------------------------ |
-| `2.1.0`                     | [changelog](CHANGELOG.md) |
+|:----------------------------| :------------------------ |
+| `3.0.0`                     | [changelog](CHANGELOG.md) |
 
 ATT&CK uses a mix of predefined and custom STIX objects to implement ATT&CK concepts. The following table is a mapping of ATT&CK concepts to STIX 2.1 objects:
 
@@ -112,37 +112,33 @@ Two additional object types are found in the ATT&CK catalog:
 
 There are three general ways that ATT&CK extends the STIX 2.1 format:
 
--   Custom object types. Object types prefixed with `x-mitre-`, e.g `x-mitre-matrix`, are custom STIX types extending the STIX 2.1 spec. They follow the general [STIX Domain Object pattern](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230920) but describe concepts not covered by types defined in STIX 2.1.
+- Custom object types. Object types prefixed with `x-mitre-`, e.g `x-mitre-matrix`, are custom STIX types extending the STIX 2.1 spec. They follow the general [STIX Domain Object pattern](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part2-stix-objects/stix-v2.0-csprd01-part2-stix-objects.html#_Toc476230920) but describe concepts not covered by types defined in STIX 2.1.
 
--   Extensions of existing object types. Fields extending the STIX 2.1 spec are prefixed with `x_mitre_`, e.g `x_mitre_platforms` in `attack-patterns`. The following extended fields are common across ATT&CK types except where otherwise noted:
+- Extensions of existing object types. Fields extending the STIX 2.1 spec are prefixed with `x_mitre_`, e.g `x_mitre_platforms` in `attack-patterns`. The following extended fields are common across ATT&CK types except where otherwise noted:
 
-    | Field                                       | Type     | Description                                                                                                                                                                                                                                                                                                 |
-    | :------------------------------------------ | :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | `x_mitre_version`                           | string   | The version of the object in format `major.minor` where `major` and `minor` are integers. ATT&CK increments this version number when the object content is updated. not found on `relationship` objects.                                                                                                    |
-    | `x_mitre_contributors`                      | string[] | People and organizations who have contributed to the object. Not found on `relationship` objects.                                                                                                                                                                                                           |
-    | `x_mitre_modified_by_ref`<sup>1</sup>       | string   | The STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.                                                           |
-    | `x_mitre_domains`<sup>1</sup>               | string[] | Identifies the domains the object is found in. See [domains](#domains) for more information. Not found on `relationship` objects.                                                                                                                                                                           |
-    | `x_mitre_attack_spec_version`<sup>1,2</sup> | string   | The version of the ATT&CK spec used by the object. Consuming software can use this field to determine if the data format is supported. If the field is not present on an object the spec version will be assumed to be `2.0.0`. See [the ATT&CK Spec](#the-attck-spec) for the current spec version number. |
+| Field                                     | Type     | Description                                                                                                                                                                                                                                                                                                 |
+| :---------------------------------------- | :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `x_mitre_version`                         | string   | The version of the object in format `major.minor` where `major` and `minor` are integers. ATT&CK increments this version number when the object content is updated. not found on `relationship` objects.                                                                                                    |
+| `x_mitre_contributors`                    | string[] | People and organizations who have contributed to the object. Not found on `relationship` objects.                                                                                                                                                                                                           |
+| `x_mitre_modified_by_ref`                 | string   | The STIX ID of an `identity` object. Used to track the identity of the individual or organization which created the current _version_ of the object. Previous versions of the object may have been created by other individuals or organizations.                                                           |
+| `x_mitre_domains`                         | string[] | Identifies the domains the object is found in. See [domains](#domains) for more information. Not found on `relationship` objects.                                                                                                                                                                           |
+| `x_mitre_attack_spec_version`<sup>1</sup> | string   | The version of the ATT&CK spec used by the object. Consuming software can use this field to determine if the data format is supported. If the field is not present on an object the spec version will be assumed to be `2.0.0`. See [the ATT&CK Spec](#the-attck-spec) for the current spec version number. |
 
-    <sup>1</sup> these fields were added in the upgrade to STIX 2.1 and are not available in [the STIX 2.0 dataset](https://github.com/mitre/cti).
+    <sup>1</sup> `x_mitre_attack_spec_version` is easily confused with [`spec_version`](https://docs.oasis-open.org/cti/stix/v2.1/os/stix-v2.1-os.html#_xzbicbtscatx), which tracks the version of the STIX spec used by the object and is a required field in STIX. `x_mitre_attack_spec_version` tracks the version of MITRE ATT&CK's extensions to the STIX spec.
 
-    <sup>2</sup> `x_mitre_attack_spec_version` is easily confused with [`spec_version`](https://docs.oasis-open.org/cti/stix/v2.1/os/stix-v2.1-os.html#_xzbicbtscatx), which tracks the version of the STIX spec used by the object and is a required field in STIX. `x_mitre_attack_spec_version` tracks the version of MITRE ATT&CK's extensions to the STIX spec.
-
--   New relationship types. Unlike custom object types and extended fields, custom relationship types are **not** prefixed with `x_mitre_`. You can find a full list of relationship types in the [Relationships](#Relationships) section, which also mentions whether the type is a default STIX type.
+- New relationship types. Unlike custom object types and extended fields, custom relationship types are **not** prefixed with `x_mitre_`. You can find a full list of relationship types in the [Relationships](#Relationships) section, which also mentions whether the type is a default STIX type.
 
 Please see also the STIX documentation on [customizing STIX](https://docs.oasis-open.org/cti/stix/v2.0/csprd01/part1-stix-core/stix-v2.0-csprd01-part1-stix-core.html#_Toc476227365).
 
 ## Domains
 
-Most objects in ATT&CK belong in a single technology domain, but on rare occasion an object can be included in multiple domains. The `x_mitre_domains` string[] field present on most object types identifies the domains of the object. The values of `x_mitre_domains` is as follows:
+Most objects in ATT&CK belong in a single technology domain, but on occasion an object can be included in multiple domains. The `x_mitre_domains` string[] field present on most object types identifies the domains of the object. The values of `x_mitre_domains` is as follows:
 
 | identifier          | domain         |
 | :------------------ | :------------- |
 | `enterprise-attack` | Enterprise     |
 | `mobile-attack`     | Mobile         |
 | `ics-attack`        | ATT&CK for ICS |
-
-In some cases objects can included in the collection of a domain it does not belong to. This occurs when objects have relationships that cross the domain boundary, and the target object is included for context. For instance, consider a group which operates in both Enterprise and Mobile. If that group has a relationship to an Enterprise-only software, that software will still be included in the Mobile collection so that the relevant relationship is not missing its target. These objects can easily be removed by filtering using the `x_mitre_domains` field if so desired.
 
 ## IDs in ATT&CK
 

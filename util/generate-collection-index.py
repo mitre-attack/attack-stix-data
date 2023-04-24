@@ -4,17 +4,27 @@ from tqdm import tqdm
 import json
 import uuid
 from dateutil.parser import isoparse
+from datetime import datetime
 import re
 
-def generate_index(name, description, root_url, files=None, folders=None):
-    """generate a collection index from the input data and return the index as a dict
-    arguments:
-        name (string): the name of the index
-        description (string): the description of the index
-        root_url (string): the root URL where the collections can be found. Specified collection paths will be appended to this for the collection URL
-        files (string[], optional): collection JSON files to include in the index. Cannot be used with folder argument
-        folder s(string[], optional): folders of collection JSON files to include in the index. Cannot be used with files argument. Will only match collections that end with a version number
-        output (string, optional): filename for the generated collection index file
+
+def stix_representation(timestamp):
+    """Returns a string containing a STIX compatible representation of the input timestamp
+
+    :param datetime timestamp:
+    """
+    return timestamp.isoformat(timespec='milliseconds')[:-6] + "Z"
+
+
+def generate_collection_index(name, description, root_url, collection_index_id, files, folders):
+    """Generates a collection index from the input data and returns the index as a dictionary
+
+    :param str name: The name of the collection index
+    :param str description: The description of the collection index
+    :param str root_url: The root URL where the collections can be found; collection file paths will be appended to this to create the collection URL
+    :param str collection_index_id: the id to assign to the collection index
+    :param list of str or None files: List of collection JSON files to include in the index; cannot be used with the folder argument
+    :param list of str or None folders: List of folders containing the collection JSON files to include in the index; cannot be used with files argument; will only match collections that end with a version number
     """
     if (files and folders):
         print("cannot use both files and folder at the same time, please use only one argument at a time")
@@ -68,12 +78,15 @@ def generate_index(name, description, root_url, files=None, folders=None):
             del version["name"]
             del version["description"]
 
+    if collection_index_id is None:
+        collection_index_id = str(uuid.uuid4())
+
     return {
-        "id": str(uuid.uuid4()),
+        "id": collection_index_id,
         "name": name,
         "description": description,
-        "created": index_created.isoformat(),
-        "modified": index_modified.isoformat(),
+        "created": stix_representation(index_created),
+        "modified": stix_representation(index_modified),
         "collections": list(collections.values())
     }
 
@@ -104,6 +117,12 @@ if __name__ == "__main__":
         default="index.json",
         help="filename for the output collection index file"
     )
+    parser.add_argument(
+        "-collection-index-id",
+        type=str,
+        default=None,
+        help="Unique identifier for the collection index. If omitted a new UUID will be generated"
+    )
     input_options = parser.add_mutually_exclusive_group(required=True) # require at least one input type
     input_options.add_argument(
         '-files',
@@ -124,6 +143,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     # print(json.dumps(generate_index(args.name, args.description, args.root_url, files=args.files, folder=args.folder), indent=4))
     with open(args.output, "w") as f:
-        index = generate_index(args.name, args.description, args.root_url, files=args.files, folders=args.folders)
+        index = generate_collection_index(args.name, args.description, args.root_url, collection_index_id=args.collection_index_id, files=args.files, folders=args.folders)
         print(f"writing {args.output}")
         json.dump(index, f, indent=4)

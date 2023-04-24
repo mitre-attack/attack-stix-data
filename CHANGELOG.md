@@ -1,5 +1,11 @@
 # Changes to ATT&CK in STIX 2.1
 
+## 25 April 2023 - ATT&CK Spec v3.1.0
+
+Changes to ATT&CK in STIX for April 2023 ATT&CK Content Release (ATT&CK v13.0)
+
+* Restored the `labels` property for ICS mitigation objects. This property documents security controls for ICS mitigations.
+
 ## 25 October 2022 - ATT&CK Spec v3.0.0
 
 Changes to ATT&CK in STIX for October 2022 ATT&CK Content Release (ATT&CK v12.0)

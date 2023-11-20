@@ -169,7 +169,7 @@
             "versions": [
                 {
                     "version": "14.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-14.0.json",
+                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-14.1.json",
                     "modified": "2023-11-14T14:00:00.188Z"
                 },
                 {
@@ -327,7 +327,7 @@
             "versions": [
                 {
                     "version": "14.1",
-                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-14.0.json",
+                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-14.1.json",
                     "modified": "2023-11-14T14:00:00.188Z"
                 },
                 {

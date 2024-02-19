@@ -82,7 +82,7 @@ Tools consuming ATT&CK-formatted data may support multiple versions of the ATT&C
 
 | Current ATT&CK Spec Version | Link to Changelog         |
 |:----------------------------| :------------------------ |
-| `3.0.0`                     | [changelog](CHANGELOG.md) |
+| `3.2.0`                     | [changelog](CHANGELOG.md) |
 
 ATT&CK uses a mix of predefined and custom STIX objects to implement ATT&CK concepts. The following table is a mapping of ATT&CK concepts to STIX 2.1 objects:
 

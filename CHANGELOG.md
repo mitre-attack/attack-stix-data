@@ -1,5 +1,9 @@
 # Changes to ATT&CK in STIX 2.1
 
+## 23 April 2024
+
+There are no changes to the data model in the April 2024 ATT&CK Content Release (ATT&CK v15.0)
+
 ## 31 October 2023 - ATT&CK Spec v3.2.0
 
 Changes to ATT&CK in STIX for October 2023 ATT&CK Content Release (ATT&CK v14.0)

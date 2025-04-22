@@ -4,7 +4,6 @@ from tqdm import tqdm
 import json
 import uuid
 from dateutil.parser import isoparse
-from datetime import datetime
 import re
 
 
@@ -30,7 +29,7 @@ def generate_collection_index(name, description, root_url, collection_index_id, 
         print("cannot use both files and folder at the same time, please use only one argument at a time")
     
     if (folders):
-        version_regex = re.compile("(\w+-)+(\d\.?)+.json")
+        version_regex = re.compile("(\w+-)+(\d\.?)+(-beta)?.json")
         files = []
         for folder in folders:
             files += list(map(lambda fname: os.path.join(folder, fname), filter(lambda fname: version_regex.match(fname), os.listdir(folder))))
@@ -92,7 +91,7 @@ def generate_collection_index(name, description, root_url, collection_index_id, 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-         description="Create a collection index from a set of collections"
+        description="Create a collection index from a set of collections"
     )
     parser.add_argument(
         "name",

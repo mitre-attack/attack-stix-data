@@ -3,12 +3,17 @@
     "name": "MITRE ATT&CK",
     "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
     "created": "2018-01-17T12:56:55.080Z",
-    "modified": "2024-11-12T14:00:00.188Z",
+    "modified": "2025-04-22T14:00:00.188Z",
     "collections": [
         {
             "id": "x-mitre-collection--1f5f1533-f617-4ca8-9ab4-6a02367fa019",
             "created": "2018-01-17T12:56:55.080Z",
             "versions": [
+                {
+                    "version": "17.0",
+                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-17.0.json",
+                    "modified": "2025-04-22T14:00:00.188Z"
+                },
                 {
                     "version": "16.1",
                     "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-16.1.json",
@@ -188,6 +193,11 @@
             "created": "2018-01-17T12:56:55.080Z",
             "versions": [
                 {
+                    "version": "17.0",
+                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-17.0.json",
+                    "modified": "2025-04-22T14:00:00.188Z"
+                },
+                {
                     "version": "16.1",
                     "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-16.1.json",
                     "modified": "2024-11-12T14:00:00.188Z"
@@ -365,6 +375,11 @@
             "id": "x-mitre-collection--90c00720-636b-4485-b342-8751d232bf09",
             "created": "2020-10-27T14:49:39.188Z",
             "versions": [
+                {
+                    "version": "17.0",
+                    "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-17.0.json",
+                    "modified": "2025-04-22T14:00:00.188Z"
+                },
                 {
                     "version": "16.1",
                     "url": "https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-16.1.json",

@@ -2,7 +2,6 @@ import argparse
 import os
 from tqdm import tqdm
 import json
-import uuid
 from dateutil.parser import isoparse
 import re
 
@@ -15,24 +14,19 @@ def stix_representation(timestamp):
     return timestamp.isoformat(timespec='milliseconds')[:-6] + "Z"
 
 
-def generate_collection_index(name, description, root_url, collection_index_id, files, folders):
+def generate_collection_index(name, description, root_url, collection_index_id, folders):
     """Generates a collection index from the input data and returns the index as a dictionary
 
     :param str name: The name of the collection index
     :param str description: The description of the collection index
     :param str root_url: The root URL where the collections can be found; collection file paths will be appended to this to create the collection URL
     :param str collection_index_id: the id to assign to the collection index
-    :param list of str or None files: List of collection JSON files to include in the index; cannot be used with the folder argument
-    :param list of str or None folders: List of folders containing the collection JSON files to include in the index; cannot be used with files argument; will only match collections that end with a version number
+    :param list of str folders: List of folders containing the collection JSON files to include in the index; cannot be used with files argument; will only match collections that end with a version number
     """
-    if (files and folders):
-        print("cannot use both files and folder at the same time, please use only one argument at a time")
-    
-    if (folders):
-        version_regex = re.compile("(\w+-)+(\d\.?)+(-beta)?.json")
-        files = []
-        for folder in folders:
-            files += list(map(lambda fname: os.path.join(folder, fname), filter(lambda fname: version_regex.match(fname), os.listdir(folder))))
+    version_regex = re.compile("(\w+-)+(\d\.?)+(-beta)?.json")
+    files = []
+    for folder in folders:
+        files += list(map(lambda fname: os.path.join(folder, fname), filter(lambda fname: version_regex.match(fname), os.listdir(folder))))
 
     index_created = None
     index_modified = None
@@ -77,9 +71,6 @@ def generate_collection_index(name, description, root_url, collection_index_id, 
             del version["name"]
             del version["description"]
 
-    if collection_index_id is None:
-        collection_index_id = str(uuid.uuid4())
-
     return {
         "id": collection_index_id,
         "name": name,
@@ -91,57 +82,51 @@ def generate_collection_index(name, description, root_url, collection_index_id, 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Create a collection index from a set of collections"
+        description="Create a collection index from a set of collections."
     )
     parser.add_argument(
-        "name",
+        "-name",
         type=str,
-        default=None,
-        help="name of the collection index. If omitted a placeholder will be used"
+        default="MITRE ATT&CK",
+        help="The name of the collection index (default: MITRE ATT&CK)"
     )
     parser.add_argument(
-        "description",
+        "-description",
         type=str,
-        default=None,
-        help="description of the collection index. If omitted a placeholder will be used"
+        default="MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.",
+        help="The description of the collection index (default: standard text)"
     )
     parser.add_argument(
-        "root_url",
+        "-root_url",
         type=str,
-        help="the root URL where the collections can be found. Specified collection paths will be appended to this for the collection URL"
+        default="https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/",
+        help="The root URL where the collections can be found (default: https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/)"
     )
     parser.add_argument(
         "-output",
         type=str,
         default="index.json",
-        help="filename for the output collection index file"
+        help="The filename for the output collection index file (default: index.json)"
     )
     parser.add_argument(
         "-collection-index-id",
         type=str,
-        default=None,
-        help="Unique identifier for the collection index. If omitted a new UUID will be generated"
+        default="10296991-439b-4202-90a3-e38812613ad4",
+        help="A unique identifier for the collection index. (default: 10296991-439b-4202-90a3-e38812613ad4)"
     )
-    input_options = parser.add_mutually_exclusive_group(required=True) # require at least one input type
-    input_options.add_argument(
-        '-files',
-        type=str,
-        nargs="+",
-        default=None,
-        metavar=("collection1", "collection2"),
-        help="list of collections to include in the index"
-    )
-    input_options.add_argument(
+    parser.add_argument(
         '-folders',
         type=str,
         nargs="+",
-        default=None,
-        help="folder of JSON files to treat as collections"
+        default=['enterprise-attack', 'mobile-attack', 'ics-attack'],
+        help="folder of JSON files to treat as collections (default: ['enterprise-attack', 'mobile-attack', 'ics-attack'])"
     )
 
     args = parser.parse_args()
-    # print(json.dumps(generate_index(args.name, args.description, args.root_url, files=args.files, folder=args.folder), indent=4))
-    with open(args.output, "w") as f:
-        index = generate_collection_index(args.name, args.description, args.root_url, collection_index_id=args.collection_index_id, files=args.files, folders=args.folders)
-        print(f"writing {args.output}")
+    output_file = args.output
+    with open(output_file, "w") as f:
+        options = vars(args)
+        del options["output"]
+        index = generate_collection_index(**options)
+        print(f"writing to {output_file}")
         json.dump(index, f, indent=4)

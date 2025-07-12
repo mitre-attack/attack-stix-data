@@ -38505,7 +38505,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[monokle] (https://attack.mitre.org/software/s0407) می تواند پارتیشن سیستم را به عنوان خواندن/نوشتن برای نصب گواهینامه های مشخص شده مهاجم بازگرداند. (استناد: Lookout-Monokle)"
     },
     {
       "object_marking_refs": [
@@ -38533,7 +38534,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[flexispy] (https://attack.mitre.org/software/s0408) می تواند با سرور فرمان و کنترل از طریق پورت های 12512 و 12514 ارتباط برقرار کند. (استناد: Fortiguard-flexispy)"
     },
     {
       "object_marking_refs": [
@@ -38759,7 +38761,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "تأیید دستگاه اغلب می تواند دستگاه های زندان یا ریشه دار را تشخیص دهد."
     },
     {
       "object_marking_refs": [
@@ -39087,7 +39090,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Stealth Mango] (https://attack.mitre.org/software/s0328) لیست های تماس با برنامه های مختلف شخص ثالث مانند Yahoo ، AIM ، Googletalk ، Skype ، QQ و سایر موارد را بارگذاری می کند. (استناد: Lookout-Stealthmango)"
     },
     {
       "object_marking_refs": [
@@ -39850,7 +39854,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[adups] (https://attack.mitre.org/software/s0309) لیست تماس های منتقل شده. (استناد: nytimes-backdoor)"
     },
     {
       "object_marking_refs": [
@@ -41795,7 +41800,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Pegasus for iOS] (https://attack.mitre.org/software/s0289) توانایی ضبط صدا را دارد. (استناد: Lookout-Pegasus)"
     },
     {
       "object_marking_refs": [
@@ -42262,7 +42268,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[BusyGasper] (https://attack.mitre.org/software/s0655) می تواند پیام های پیامکی را جمع کند. (استناد: Securelist BusyGasper)"
     },
     {
       "object_marking_refs": [
@@ -42921,7 +42928,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Spynote RAT] (https://attack.mitre.org/software/s0305) می تواند میکروفون قربانی را فعال کند. (استناد: Zscaler-spynote)"
     },
     {
       "object_marking_refs": [
@@ -45389,7 +45397,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[جام طلایی] (https://attack.mitre.org/software/s0535) می تواند لیستی از برنامه های نصب شده را بدست آورد. (استناد: Symantec GoldenCup)"
     },
     {
       "object_marking_refs": [
@@ -45980,7 +45989,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[DVMAP] (https://attack.mitre.org/software/s0420) اجرایی را از پرونده های بایگانی ذخیره شده در دایرکتوری \"دارایی\" باینری نصب رمزگشایی می کند. (استناد: Securelist DVMAP ژوئن 2017)"
     },
     {
       "object_marking_refs": [
@@ -48397,7 +48407,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[gplayed] (https://attack.mitre.org/software/s0536) می تواند یک وب سایت فیشینگ را نشان دهد که وانمود می کند که یک سرویس گوگل است که اطلاعات کارت اعتباری را جمع می کند. (استناد: talos gplayed)"
     },
     {
       "object_marking_refs": [

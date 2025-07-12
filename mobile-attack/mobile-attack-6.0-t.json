@@ -9273,7 +9273,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Charger] (https://attack.mitre.org/software/s0323) تنظیمات محلی دستگاه را بررسی می کند و اگر دستگاه در اوکراین ، روسیه یا بلاروس قرار دارد ، منطق مخرب خود را اجرا نمی کند."
     },
     {
       "type": "relationship",

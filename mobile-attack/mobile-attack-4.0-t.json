@@ -11932,7 +11932,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "برای برنامه ها نادر است که خود را به عنوان صفحه کلید دستگاه ثبت کنند.برنامه هایی که این کار را انجام می دهند باید در طی فرآیند بررسی از نزدیک مورد بررسی قرار گیرند."
     },
     {
       "external_references": [
@@ -14787,7 +14788,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[android/chuli.a] (https://attack.mitre.org/software/s0304) بدافزار اندرویدی است که از طریق ایمیل اسپیر با پیوست به گروه های فعال تحویل داده می شود.(استناد: Kaspersky-Wuc)"
     },
     {
       "external_references": [
@@ -14835,7 +14837,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[braintest] (https://attack.mitre.org/software/s0293) خانواده ای از بدافزار اندرویدی است.."
     },
     {
       "external_references": [
@@ -14878,7 +14881,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Charger] (https://attack.mitre.org/software/s0323) بدافزار Android است که مخاطبین و پیام های پیامکی را از دستگاه کاربر سرقت می کند.همچنین می تواند دستگاه را قفل کرده و در صورت دریافت مجوزهای مدیر ، پرداخت باج را تقاضا کند.(استناد: بازرسی-شارژر)"
     },
     {
       "external_references": [
@@ -14921,7 +14925,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[dendroid] (https://attack.mitre.org/software/s0301) یک خانواده بدافزار Android است.(استناد: Okout-Dendroid)"
     },
     {
       "external_references": [
@@ -14964,7 +14969,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[لباس کد] (https://attack.mitre.org/software/s0300) یک خانواده بدافزار اندرویدی است.(استناد: Trendmicro-DressCode)"
     },
     {
       "external_references": [
@@ -15057,7 +15063,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[dualtoy] (https://attack.mitre.org/software/s0315) Windows Malware است که برنامه های مخرب را بر روی دستگاه های Android و iOS متصل به USB نصب می کند.(استناد: Paloalto-dualtoy)"
     },
     {
       "external_references": [
@@ -15115,7 +15122,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Gooligan] (https://attack.mitre.org/software/s0290) یک خانواده بدافزار است که بهره برداری از افزایش امتیازات را در دستگاه های Android اجرا می کند و سپس از امتیازات تشدید شده خود برای سرقت نشانه های احراز هویت استفاده می کند که می تواند برای دسترسی به داده ها از بسیاری از برنامه های Google استفاده شود.[Gooligan] (https://attack.mitre.org/software/s0290) به عنوان بخشی از خانواده بدافزار Android Ghost Push توصیف شده است.."
     },
     {
       "external_references": [
@@ -15290,7 +15298,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[keyraider] (https://attack.mitre.org/software/s0288) بدافزار است که اعتبار حساب اپل و سایر داده های دستگاه های iOS Jailbroken را سرقت می کند.همچنین دارای قابلیت باج افزار است.(استناد: Xiao-keyraider)"
     },
     {
       "external_references": [
@@ -15420,7 +15429,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[notCociation] (https://attack.mitre.org/software/s0299) یک خانواده بدافزار اندرویدی است که بین حداقل 2014 تا 2016 استفاده شده است. این انواع مختلفی دارد که با گذشت زمان پیچیده تر شده اند.(استناد: نگاه ناچیز)"
     },
     {
       "external_references": [
@@ -15507,7 +15517,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[oldboot] (https://attack.mitre.org/software/s0285) یک خانواده بدافزار اندرویدی است.(استناد: Hackernews-Oldboot)"
     },
     {
       "external_references": [
@@ -15604,7 +15615,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Pegasus for Android] (https://attack.mitre.org/software/s0316) نسخه اندرویدی بدافزار است که گفته می شود با گروه NSO مرتبط است.(استناد: Lookout-PegasusAndroid) (استناد: Google-Chrysaor) نسخه iOS به طور جداگانه تحت [Pegasus for iOS] ردیابی می شود (https://attack.mitre.org/software/s0289)."
     },
     {
       "external_references": [
@@ -15740,7 +15752,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[reddrop] (https://attack.mitre.org/software/s0326) یک خانواده بدافزار اندرویدی است که داده های حساس را از دستگاه ها تبعید می کند.(استناد: Wandera-reddrop)"
     },
     {
       "external_references": [
@@ -16047,7 +16060,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Tangelo] (https://attack.mitre.org/software/s0329) بدافزار iOS است که اعتقاد بر این است که از همان توسعه دهندگان [Https://attack.mitre.org/software/s0328) بدافزارها هستند.این یک برنامه تلفن همراه نیست ، بلکه یک بسته Debian است که فقط می تواند در دستگاه های IOS Jailbroken اجرا شود.(استناد: Lookout-Fetealthmango)"
     },
     {
       "external_references": [
@@ -16134,7 +16148,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[trojan-sms.androidos.fakeinst.a] (https://attack.mitre.org/software/s0306) بدافزار Android است.(استناد: Kaspersky-MobileMalware)"
     },
     {
       "external_references": [
@@ -16177,7 +16192,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[trojan-sms.androidos.opfake.a] (https://attack.mitre.org/software/s0308) بدافزار Android است.(استناد: Kaspersky-MobileMalware)"
     },
     {
       "external_references": [

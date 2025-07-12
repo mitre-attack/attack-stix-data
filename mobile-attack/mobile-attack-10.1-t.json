@@ -8756,7 +8756,8 @@
       "x_mitre_domains": [
         "mobile-attack"
       ],
-      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+      "description_fa": "مخالفان ممکن است از قلاب برای پنهان کردن حضور مصنوعات مرتبط با رفتارهای خود برای فرار از تشخیص استفاده کنند.قلاب زدن می تواند برای اصلاح مقادیر برگشتی یا ساختار داده API های سیستم و تماس های عملکردی استفاده شود.این فرآیند به طور معمول شامل استفاده از چارچوب های ریشه شخص ثالث ، مانند Xposed یا Magisk است که یک سیستم بهره برداری یا دسترسی ریشه از قبل موجود است.با درج ماژول های سفارشی برای چارچوب های ریشه ، مخالفان می توانند API های سیستم را قلاب کرده و مقدار بازگشت و/یا ساختار داده های سیستم را تغییر دهند تا عملکرد/دید جنبه های مختلف سیستم را تغییر دهند."
     },
     {
       "id": "attack-pattern--a8c31121-852b-46bd-9ba4-674ae5afe7ad",
@@ -10590,7 +10591,8 @@
       "x_mitre_domains": [
         "mobile-attack"
       ],
-      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+      "description_fa": "یک دشمن می تواند اپراتور شبکه تلفن همراه (به عنوان مثال از طریق شبکه های اجتماعی ، شناسایی جعلی یا حملات خودی انجام شده توسط کارمندان قابل اعتماد) را متقاعد کند تا یک سیم کارت جدید را صادر کند و آن را با شماره تلفن و حساب موجود مرتبط کند.\n\nیک مورد استفاده ، رهگیری پیام های احراز هویت یا تماس های تلفنی برای دستیابی به دسترسی غیرقانونی به بانکداری آنلاین یا سایر حساب های آنلاین است ، زیرا بسیاری از خدمات آنلاین اجازه می دهند با ارسال کد تأیید اعتبار از طریق پیام کوتاه به یک شماره تلفن مرتبط با حساب ، بازنشانی رمز عبور حساب کنید."
     },
     {
       "id": "attack-pattern--b327a9c0-e709-495c-aa6e-00b042136e2b",
@@ -15766,7 +15768,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[spydealer] (https://attack.mitre.org/software/s0324) می تواند تماس های تلفنی و صدای اطراف را ضبط کند. (استناد: Paloalto-spydealer)"
     },
     {
       "source_ref": "malware--93799a9d-3537-43d8-b6f4-17215de1657c",
@@ -20202,7 +20205,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[monokle] (https://attack.mitre.org/software/s0407) می تواند پارتیشن سیستم را به عنوان خواندن/نوشتن برای نصب گواهینامه های مشخص شده مهاجم بازگرداند. (استناد: Lookout-Monokle)"
     },
     {
       "source_ref": "malware--6a7aaab1-3e0a-48bb-ba66-bbf7665c0a65",
@@ -20404,7 +20408,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[monokle] (https://attack.mitre.org/software/s0407) می تواند پرونده های دلخواه را در دستگاه حذف کند ، و همچنین می تواند خود را حذف کند و پرونده های مرحله بندی را تمیز کند. (استناد: Lookout-Monokle)"
     },
     {
       "source_ref": "malware--6a7aaab1-3e0a-48bb-ba66-bbf7665c0a65",
@@ -20635,7 +20640,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[monokle] (https://attack.mitre.org/software/s0407) از XOR برای خنثی کردن باینری مرحله دوم خود استفاده می کند. (استناد: مونوکل)"
     },
     {
       "source_ref": "malware--6a7aaab1-3e0a-48bb-ba66-bbf7665c0a65",
@@ -29329,7 +29335,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Mandrake] (https://attack.mitre.org/software/s0485) می تواند صفحه را ضبط کند. (استناد: Bitdefender Mandrake)"
     },
     {
       "source_ref": "malware--52c994fa-b6c8-45a8-9586-a4275cf19307",
@@ -34574,7 +34581,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[CarbonSteal] (https://attack.mitre.org/software/s0529) می تواند به پیام های پیام کوتاه و MMS دستگاه دسترسی پیدا کند. (استناد: کمپین Uyghur Lookout)"
     },
     {
       "source_ref": "malware--007ebf84-4e14-44c7-a5aa-151d5de85320",

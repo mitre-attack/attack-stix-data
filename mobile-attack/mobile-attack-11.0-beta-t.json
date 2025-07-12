@@ -30818,7 +30818,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "نسخه های سیستم عامل اخیر دسترسی محدود به API های خاص دارند مگر اینکه شرایط خاصی برآورده شود ، و [دستکاری داده ها] (https://attack.mitre.org/techniques/t1641) دشوار است"
     },
     {
       "object_marking_refs": [
@@ -30848,7 +30849,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Spynote RAT] (https://attack.mitre.org/software/s0305) از یک گیرنده پخش اندرویدی استفاده می کند تا هنگام بوت شدن دستگاه به طور خودکار شروع شود. (استناد: ZSCALER-SPYNOTE)"
     },
     {
       "object_marking_refs": [
@@ -31197,7 +31199,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[gplayed] (https://attack.mitre.org/software/s0536) می تواند برای قصد پخش `boot_completed 'ثبت نام کند. (استناد: Talos Gplayed)"
     },
     {
       "object_marking_refs": [
@@ -33158,7 +33161,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[SkyGofree] (https://attack.mitre.org/software/s0327) توانایی بهره برداری از چندین آسیب پذیری شناخته شده و افزایش امتیازات را دارد. (استناد: Kaspersky-Skygofree)"
     },
     {
       "object_marking_refs": [
@@ -42698,7 +42702,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Tiktok Pro] (https://attack.mitre.org/software/s0558) می تواند صدا را از میکروفون دستگاه ضبط کند و می تواند تماس های تلفنی را ضبط کند. (استناد: Zscaler Tiktok Spyware)"
     },
     {
       "object_marking_refs": [
@@ -61143,7 +61148,8 @@
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "x_mitre_version": "1.0",
-      "x_mitre_deprecated": true
+      "x_mitre_deprecated": true,
+      "description_fa": "XCodeGhost توسط نسخه اصلاح شده XCode (ابزار توسعه نرم افزار اپل) به برنامه ها تزریق شد."
     },
     {
       "created": "2017-12-14T16:46:06.044Z",

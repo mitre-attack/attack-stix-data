@@ -8342,7 +8342,8 @@
       "x_mitre_domains": [
         "mobile-attack"
       ],
-      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+      "description_fa": "یک برنامه مخرب یا وکتور حمله دیگر می تواند برای بهره برداری از آسیب پذیری ها در کد در حال اجرا در محیط اجرای قابل اعتماد (TEE) (استناد: توماس-تروستزون) استفاده شود.طرف مقابل می تواند امتیازاتی را که توسط TEE به طور بالقوه از جمله امکان دسترسی به کلیدهای رمزنگاری یا سایر داده های حساس (استناد: QualcommKeymaster) به دست آورد ، بدست آورد.برای داشتن توانایی حمله به TEE (استناد: Ekbergtee) ممکن است برای اولین بار به امتیازات سیستم عامل رسیده باشد.اگر اینگونه نباشد ، از امتیازات موجود در TEE به طور بالقوه می توان برای بهره برداری از سیستم عامل استفاده کرد (استناد: Laginimaineb-TEE)."
     },
     {
       "id": "attack-pattern--667e5707-3843-4da8-bd34-88b922526f0d",
@@ -11395,7 +11396,8 @@
       "x_mitre_domains": [
         "mobile-attack"
       ],
-      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+      "description_fa": "مخالفان ممکن است با پنهان کردن رفتار مخرب از کاربر ، از تشخیص جلوگیری کنند.با انجام این کار ، اصلاحات یک طرف مقابل به احتمال زیاد روی دستگاه نصب می شود و به طرف مقابل اجازه می دهد تا در آن دستگاه به کار خود ادامه دهد.\n\nدر حالی که روش های زیادی وجود دارد که این امر می تواند انجام شود ، یک روش استفاده از سنسورهای دستگاه است.با استفاده از سنسورهای مختلف حرکتی بر روی یک دستگاه ، مانند شتاب سنج یا ژیروسکوپ ، یک برنامه می تواند تشخیص دهد که دستگاه با آن تعامل دارد.به این ترتیب ، برنامه می تواند در حالی که دستگاه در حال استفاده نیست ، ادامه دهد اما کار را متوقف می کند در حالی که کاربر از دستگاه استفاده می کند ، و هر چیزی را که نشانگر فعالیت مخرب باشد ، پنهان می کند.دسترسی به سنسورها از این طریق نیازی به مجوز از طرف کاربر ندارد ، بنابراین کاملاً شفاف خواهد بود."
     },
     {
       "x_mitre_version": "1.0",
@@ -11463,7 +11465,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "(استناد: Lookout Dark Caracal Jan 2018)"
     },
     {
       "id": "relationship--f4e4c3ae-4c4d-4eba-8330-022464cbf828",
@@ -13256,7 +13259,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Zerghelper] (https://attack.mitre.org/software/s0287) تلاش می کند تا از طریق به روزرسانی پویا کد آن ، قابلیت های خود را گسترش دهد. (استناد: Xiao-Zerghelper)"
     },
     {
       "id": "relationship--f157970b-4782-46d0-abdd-000ae6eea14b",
@@ -13897,7 +13901,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Keyraider] (https://attack.mitre.org/software/s0288) دارای قابلیت های داخلی برای قفل کردن قربانیان از دستگاه ها و نگه داشتن آنها برای باج است. (استناد: Xiao-Keyraider)"
     },
     {
       "id": "relationship--d7ae7fb1-c363-4969-a4af-e2dd44a3c064",
@@ -15606,7 +15611,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Zerghelper] (https://attack.mitre.org/software/s0287) از گواهینامه شرکت ها و گواهینامه های شخصی برای امضای و توزیع برنامه ها سوءاستفاده می کند. (استناد: Xiao-Zerghelper)"
     },
     {
       "id": "relationship--c3c2bf20-fa33-4af4-92ec-d60679e1d4ee",
@@ -15761,7 +15767,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[spydealer] (https://attack.mitre.org/software/s0324) می تواند تماس های تلفنی و صدای اطراف را ضبط کند. (استناد: Paloalto-spydealer)"
     },
     {
       "id": "relationship--93103ac2-0e3b-4f0f-a054-7f9b947b3172",
@@ -18304,7 +18311,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[pallas] (https://attack.mitre.org/software/s0399) توانایی بارگیری و نصب برنامه های مشخص شده برای مهاجم را دارد. (استناد: Lookout Dark Caracal Jan 2018)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18332,7 +18340,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[pallas] (https://attack.mitre.org/software/s0399) داده ها را با استفاده از http."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18360,7 +18369,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Caracal Dark] (https://attack.mitre.org/groups/g0070) توزیع [pallas] (https://attack.mitre.org/software/s0399) از طریق برنامه های trojanized میزبان وب سایت های سوراخ آبیاری."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18416,7 +18426,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "(استناد: Lookout Dark Caracal Jan 2018)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18444,7 +18455,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Triada] (https://attack.mitre.org/software/s0424) از یک پشتی در یک برنامه فروشگاهی برای نصب برنامه های تروجانیزه اضافی از سرور فرمان و کنترل استفاده می کند. (استناد: Google Triada ژوئن 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18477,7 +18489,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Triada] (https://attack.mitre.org/software/s0424) می تواند URL های پرچم تبلیغاتی را در وب سایت های بازدید شده توسط کاربر به URL های تبلیغاتی خاص هدایت کند. (استناد: Google Triada ژوئن 2019) (استناد: Kaspersky Triada ژوئن 2016))"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18539,7 +18552,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[triada] (https://attack.mitre.org/software/s0424) قادر است کد را در برنامه com.android.systemui اصلاح کند تا به مجوزهای \"get_real_tasks\" دسترسی پیدا کند.این مجوز امکان دسترسی به اطلاعات مربوط به برنامه های موجود در پیش زمینه و سایر برنامه های اخیراً استفاده شده را فراهم می کند. (استناد: Google Triada ژوئن 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -38307,7 +38321,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[doubleegent] (https://attack.mitre.org/software/s0550) از ابزارهای بهره برداری برای به دست آوردن ریشه استفاده کرده است ، مانند حوله. (استناد: کمپین Uyghur Lookout)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -38799,7 +38814,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[GoldEeneagle] (https://attack.mitre.org/software/s0551) اطلاعات پروکسی را اصلاح یا پیکربندی کرده است. (استناد: کمپین Uyghur Lookout)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -38885,7 +38901,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[ChemistGames] (https://attack.mitre.org/software/s0555) به عنوان کاربردهای محبوب کره جنوبی نقاب دار شده است."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -38942,7 +38959,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[ChemistGames] (https://attack.mitre.org/software/s0555) می تواند پرونده هایی را از سیستم فایل و اطلاعات حساب از Google Chrome جمع آوری کند. (استناد: CyberWarcon ChemistGames)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -38970,7 +38988,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[ChemistGames] (https://attack.mitre.org/software/s0555) از کد بومی برای رمزگشایی بار مخرب خود استفاده کرده است."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -39027,7 +39046,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[ChemistGames] (https://attack.mitre.org/software/s0555) به عنوان به روزرسانی در برنامه های قانونی توزیع شده است.این کار با به خطر انداختن توسعه دهندگان برنامه های قانونی و متعاقباً دسترسی به حساب توسعه دهنده فروشگاه Google Play آنها انجام شد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -39084,7 +39104,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[ChemistGames] (https://attack.mitre.org/software/s0555) از HTTPS برای ارتباطات C2 استفاده کرده است. (استناد: CyberWarcon Chemistgames)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -40272,7 +40293,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[WINDSHIFT] (https://attack.mitre.org/groups/g0112) شامل لیست تماس با برنامه های مخرب مستقر به عنوان بخشی از عملیات گاو نر است. (استناد: Blackberry Bahamut)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -40953,7 +40975,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "کاربران باید تشویق شوند که در مورد برنامه هایی که به آنها مجوزهای مبتنی بر تماس تلفنی می دهند بسیار مراقب باشند.علاوه بر این ، کاربران نباید کنترل کننده تماس پیش فرض خود را به برنامه هایی که تشخیص نمی دهند تغییر دهند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41061,7 +41084,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "به کاربران دستور داده می شود که در صورت امکان از فرم های احراز هویت چند عاملی استفاده کنند که توسط مبادله سیم کارت رهگیری نشوند.روشهای امن تر شامل رمزهای عبور یک بار مبتنی بر برنامه (مانند Google Authenticator) ، نشانه های سخت افزاری و بیومتریک است."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41082,7 +41106,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "تأیید دستگاه اغلب می تواند دستگاه های ریشه دار را تشخیص دهد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41103,7 +41128,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "خدمات بررسی برنامه می توانند به دنبال تلاش برای فراخوانی باینری یا ماژول های Superuser (SU) مربوط به چارچوب های ریشه دار باشند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41342,7 +41368,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[BusyGasper] (https://attack.mitre.org/software/s0655) وقتی یک شماره تلفن خاص از دستگاه آلوده خوانده می شود ، می تواند یک منوی پنهان را باز کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41370,7 +41397,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[BusyGasper] (https://attack.mitre.org/software/s0655) می تواند از ماژول keylogger خود برای گرفتن تصاویر از منطقه صفحه نمایش استفاده کند که کاربر از آن استفاده می کند. (استناد: Securelist BusyGasper)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41426,7 +41454,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[BUSKGASPER] (https://attack.mitre.org/software/s0655) می تواند پرونده های متنی را با دستورات سرور FTP و داده های exfiltrate از طریق ایمیل بارگیری کند.همچنین می تواند هنگامی که یکی از دو رشته اس ام اس جادوی سخت دریافت شده است ، اقداماتی را انجام دهد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41454,7 +41483,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[BusyGasper] (https://attack.mitre.org/software/s0655) می تواند از سنسورهای دستگاه استفاده کند تا مشخص شود که دستگاه در حال استفاده است و متعاقباً فعالیت مخرب را پنهان می کند.در صورت فعال بودن ، سعی می کند با تبدیل روشنایی صفحه نمایش تا حد ممکن و خاموش کردن دستگاه ، فعالیت مخرب خود را پنهان کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41540,7 +41570,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[BusyGasper] (https://attack.mitre.org/software/s0655) می تواند پیام های پیامکی را جمع کند. (استناد: Securelist BusyGasper)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41597,7 +41628,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[BusyGasper] (https://attack.mitre.org/software/s0655) می تواند از دسترسی ریشه موجود برای کپی کردن اجزای موجود در پارتیشن سیستم سوء استفاده کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41625,7 +41657,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[BusyGasper] (https://attack.mitre.org/software/s0655) می تواند هر صفحه صفحه کاربر را جمع آوری کرده و ورودی را با یک لیست رمزگذاری شده از مختصات برای ترجمه ورودی به یک کاراکتر مقایسه کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -41764,7 +41797,8 @@
       "x_mitre_domains": [
         "mobile-attack"
       ],
-      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5"
+      "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+      "description_fa": "قابلیت تأیید از راه دور را در صورت وجود فعال کنید (مانند Android SafeTynet یا Samsung Knox Tima تأیید) و دستگاههایی را که از دسترسی به منابع سازمانی تأیید می کنند ، ممنوع کنید."
     },
     {
       "created": "2017-10-25T14:48:51.365Z",
@@ -42745,7 +42779,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Androrat] (https://attack.mitre.org/software/s0292) بدافزار است که به شخص ثالث اجازه می دهد دستگاه را کنترل کند و اطلاعات را جمع آوری کند.(استناد: Lookout-enterpriseapps)"
     },
     {
       "external_references": [

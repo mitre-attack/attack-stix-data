@@ -12530,7 +12530,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Pegasus for iOS] (https://attack.mitre.org/software/s0289) پیام های پیامکی را که قربانی می فرستد یا دریافت می کند ، ضبط می کند. (استناد: Lookout-Pegasus)"
     },
     {
       "id": "relationship--1ed76ca9-0ed6-40f9-89c6-64662fdd447d",
@@ -14611,7 +14612,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[rcsandroid] (https://attack.mitre.org/software/s0295) می تواند محتوای کلیپ بورد را کنترل کند. (استناد: trendmicro-rcsandroid)"
     },
     {
       "id": "relationship--5012c647-9b58-4a4f-b64f-468c9b76a60c",
@@ -14960,7 +14962,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[hummingbad] (https://attack.mitre.org/software/s0322) می تواند از آسیب پذیری های ناشناخته در نسخه های قدیمی تر اندرویدی به تلفن های قربانی ریشه استفاده کند. (استناد: arstechnica-hummingbad)"
     },
     {
       "id": "relationship--51186ad6-e721-49cf-9cf7-89466d5f29f4",
@@ -15135,7 +15138,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "شرکت ها می توانند خط مشی را به دستگاه های تلفن همراه ارائه دهند تا به حداقل پیچیدگی (طول و غیره) برای کد عبور دستگاه نیاز داشته باشند.شرکت ها می توانند خط مشی را به دستگاه های تلفن همراه ارائه دهند تا در صورت وارد شدن یک کد عبور نادرست ، دستگاه را از بین ببرد.هر دو سیاست باعث می شود که حوزه بی رحمانه ، حدس زدن یا گشت و گذار در شانه کد عبور دستگاه را کاهش دهد.در صورت تمایل ، شرکت ها می توانند خط مشی را به دستگاه های تلفن همراه ارائه دهند تا تأیید اعتبار بیومتریک را مجاز کنند.با این حال ، احراز هویت بیومتریک می تواند کمک کند \"استفاده از یک کد عبور طولانی تر و پیچیده تر بسیار عملی تر باشد زیرا نیازی به ورود به آن به طور مکرر نیست.\" (استناد: Apple-IossecuranceGuide)"
     },
     {
       "id": "relationship--ac53e382-a140-4bbf-a59d-db3fe21acfaa",
@@ -15568,7 +15572,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "Android 7.0 و بالاتر شامل محافظت های اضافی در برابر این تکنیک است."
     },
     {
       "id": "relationship--a7336f2c-8f89-4d54-ac2b-77743afb2943",
@@ -15775,7 +15780,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[لباس کد] (https://attack.mitre.org/software/s0300) یک \"تونل هدف کلی\" را تنظیم می کند که توسط یک دشمن برای سازش شبکه های سازمانی که دستگاه تلفن همراه به آن وصل شده است استفاده می شود. (استناد: Trendmicro-dycode)"
     },
     {
       "id": "relationship--51757971-17ac-40c3-bae7-78365579db49",
@@ -15890,7 +15896,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[reddrop] (https://attack.mitre.org/software/s0326) ضبط های زنده از محیط اطراف دستگاه را ضبط می کند. (استناد: Wandera-reddrop)"
     },
     {
       "id": "relationship--93c20f43-6684-471c-910f-d9577f289677",
@@ -16199,7 +16206,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[androidos_anserver.a] (https://attack.mitre.org/software/s0310) نسخه سیستم عامل دستگاه ، نسخه ساخت دستگاه ، تولید کننده و مدل را جمع می کند. (استناد: TrendMicro-Anserver2)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18115,7 +18123,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Exodus] (https://attack.mitre.org/software/s0405) با استفاده از درخواست های پست HTTP ، با سرور فرمان و کنترل وارد می شود. (استناد: SWB Exodus مارس 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -18143,7 +18152,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Exodus] (https://attack.mitre.org/software/s0405) دو لیست از ایستگاه های پایه اطراف را جمع آوری می کند. (استناد: SWB Exodus مارس 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21143,7 +21153,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "روشهای بررسی برنامه می توانند برنامه هایی را که از کلاس Android.os.oild استفاده می کنند ، جستجو کنند ، اما این رویه ها به طور بالقوه می توانند از بین بروند و در این حالت احتمالاً عملی نیستند ، زیرا بسیاری از برنامه ها به احتمال زیاد از این عملکرد به عنوان بخشی از رفتار قانونی خود استفاده می کنند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21164,7 +21175,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "بررسی برنامه ممکن است بتواند حضور کد بهره برداری را در برنامه ها مشخص کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21249,7 +21261,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "تکنیک های استفاده از برنامه های کاربردی می توانند (یا از نظر آماری یا پویا) به دنبال نشانه هایی باشند که برنامه را در زمان اجرا بارگیری کرده و کد جدید را اجرا می کند (به عنوان مثال ، در استفاده از Android از Dexclassloader ، System.load یا قابلیت WebView JavaScriptInterface ، یا در استفاده از iOS از JSPATCH یا قابلیت های مشابه).متأسفانه ، این تنها یک کاهش جزئی است ، زیرا هنوز هم باید بررسی های اضافی برای برنامه هایی که از این تکنیک ها استفاده می کنند ، اعمال شود ، زیرا این تکنیک ها اغلب بدون قصد مخرب مورد استفاده قرار می گیرند ، و به دلیل اینکه برنامه ها ممکن است از تکنیک های دیگری مانند مخفی کردن استفاده خود از این تکنیک ها استفاده کنند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21270,7 +21283,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "در Android ، برنامه ها باید برای دسترسی به مکان فیزیکی دستگاه ، مجوز Access_Coarse_Location یا Access_Fine_Location را درخواست کنند.بررسی اضافی را می توان به برنامه هایی که این مجوزها را درخواست می کنند ، انجام شود.در iOS ، تماس با API های مربوطه در طی فرآیند بررسی قابل تشخیص است."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -23274,7 +23288,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Golfspy] (https://attack.mitre.org/software/s0421) می تواند محتوای کلیپ بورد را بدست آورد. (استناد: Trend Micro -Bouncing Golf 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -23708,7 +23723,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[anubis] (https://attack.mitre.org/software/s0422) درخواست های خدمات دسترسی را در حالی که به عنوان \"Google Play Protect\" قرار می گیرد درخواست می کند. (استناد: Cofense Anubis)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -24635,7 +24651,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[به روزرسانی های Corona] (https://attack.mitre.org/software/s0425) می تواند با استفاده از دوربین عکس بگیرد و می تواند پرونده های MP4 را ضبط کند. (استناد: به روزرسانی های Trendmicro Coronavirus)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -26323,7 +26340,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Insomnia] (https://attack.mitre.org/software/s0463) می تواند تاریخ تماس را بازیابی کند. (استناد: Google Project Zero Insomnia)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -26431,7 +26449,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "خدمات بررسی برنامه ممکن است بتوانند سوء استفاده از امتیازات امتیاز شناخته شده موجود در برنامه ها را تشخیص دهند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -26844,7 +26863,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[eventbot] (https://attack.mitre.org/software/s0478) با استفاده از درخواست های HTTP با C2 ارتباط برقرار می کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -28766,7 +28786,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Wolfrat] (https://attack.mitre.org/software/s0489) می تواند صفحه را ضبط کرده و تصاویر را برای گرفتن پیام از خط ، پیام رسان فیس بوک و واتس اپ بگیرد. (استناد: Talos-Wolfrat)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29534,7 +29555,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Scorpion Desert] (https://attack.mitre.org/software/s0505) می تواند مکان دستگاه را ردیابی کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29562,7 +29584,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Scorpion Desert] (https://attack.mitre.org/software/s0505) می تواند پرونده های واقع در ذخیره سازی خارجی را جمع آوری کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29706,7 +29729,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[صحرا عقرب] (https://attack.mitre.org/software/s0505) می تواند صدا را از تماس های تلفنی و میکروفون دستگاه ضبط کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -31231,7 +31255,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Fakespy] (https://attack.mitre.org/software/s0509) می تواند اطلاعات شبکه دستگاه ، از جمله شماره تلفن ، IMEI و IMSI را جمع آوری کند. (استناد: Cybereason Fakespy)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -33530,7 +33555,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[eventbot] (https://attack.mitre.org/software/s0478) یک تروژان بانکداری اندرویدی و دزدگیر اطلاعات است که از خدمات دسترسی اندرویدی برای سرقت داده ها از برنامه های مختلف سوء استفاده می کند.و برنامه های مالی ، که اکثر آنها برنامه های تبادل بانک اروپا و رمزنگاری هستند."
     },
     {
       "external_references": [
@@ -33732,7 +33758,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[GINP] (https://attack.mitre.org/software/s0423) یک تروجان بانکی اندرویدی است که برای هدف قرار دادن بانک های اسپانیایی استفاده شده است.برخی از کد مستقیماً از [Anubis] (https://attack.mitre.org/software/s0422) گرفته شده است."
     },
     {
       "external_references": [
@@ -35019,7 +35046,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Spynote RAT] (https://attack.mitre.org/software/s0305) (Trojan Access Remote Access) خانواده ای از برنامه های آندروید مخرب است.از ابزار سازنده [https://attack.mitre.org/software/s0305) می توان برای تهیه برنامه های مخرب با عملکرد بدافزار استفاده کرد.(استناد: Zscaler-Spynote)"
     },
     {
       "id": "malware--085eb36d-697d-4d9a-bac3-96eb879fe73c",
@@ -36234,7 +36262,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "دشمن در تلاش است تا وارد دستگاه شما شود.\n\nتاکتیک دسترسی اولیه نشان دهنده استفاده از Vectors Ranversaries برای به دست آوردن یک جایگاه اولیه بر روی یک دستگاه تلفن همراه است."
     },
     {
       "id": "x-mitre-tactic--7be441c2-0095-4b1e-8125-fa8ffda29b0f",
@@ -36345,7 +36374,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "دشمن در تلاش است تا مجوزهای سطح بالاتر را بدست آورد.\n\nافزایش امتیاز شامل تکنیک هایی است که به یک مهاجم اجازه می دهد سطح بالاتری از مجوزها را در دستگاه تلفن همراه بدست آورد.مهاجمان ممکن است با امتیازات بسیار محدود وارد دستگاه تلفن همراه شوند و ممکن است برای به دست آوردن امتیازات بالاتر لازم برای انجام موفقیت آمیز اهداف ماموریت خود ، از ضعف دستگاه استفاده کنند."
     },
     {
       "id": "x-mitre-tactic--e78d7d60-41b5-49b7-b0a9-5c5d4cbabe17",
@@ -36771,7 +36801,8 @@
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "x_mitre_version": "1.0",
-      "x_mitre_deprecated": true
+      "x_mitre_deprecated": true,
+      "description_fa": "iOS و Android هم کاربر را ملزم به صریح مجاز استفاده از برنامه های صفحه کلید شخص ثالث می کنند.به کاربران توصیه می شود قبل از اعطای مجوز در هنگام درخواست ، از احتیاط شدید استفاده کنند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -36837,7 +36868,8 @@
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "x_mitre_version": "1.0",
-      "x_mitre_deprecated": true
+      "x_mitre_deprecated": true,
+      "description_fa": "تکنیک های بررسی برنامه های کاربردی می توانند برای استفاده از کلاس Android PackageManager برای شمارش برنامه های دیگر جستجو کنند ، و چنین برنامه هایی می توانند از نظر دقیق دیگری برای آنها استفاده کنند.با این حال ، اگر بسیاری از برنامه ها از این روش ها به عنوان بخشی از رفتار مشروع خود استفاده کنند ، ممکن است این تکنیک عملی نباشد.در iOS ، تکنیک های بررسی برنامه به طور مشابه می توانند برای استفاده از تماس API خصوصی برای بدست آوردن لیستی از برنامه های نصب شده در دستگاه ، به طور مشابه جستجو کنند.علاوه بر این ، در iOS ، استفاده از تماس API خصوصی احتمالاً منجر به پذیرش برنامه در فروشگاه App اپل خواهد شد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -37530,7 +37562,8 @@
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "x_mitre_version": "1.0",
-      "x_mitre_deprecated": true
+      "x_mitre_deprecated": true,
+      "description_fa": "مگی و زانرو یک رویکرد تجزیه و تحلیل استاتیک را توصیف می کنند که ممکن است بتواند برنامه های باج افزار را که پرونده های کاربر را در دستگاه رمزگذاری می کنند ، شناسایی کنند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -38235,7 +38268,8 @@
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "x_mitre_version": "1.0",
-      "x_mitre_deprecated": true
+      "x_mitre_deprecated": true,
+      "description_fa": "[androidos_anserver.a] (https://attack.mitre.org/software/s0310) نسخه ساخت دستگاه ، تولید کننده و مدل را جمع می کند."
     },
     {
       "id": "relationship--f2e23cb7-7bac-4938-91ea-7dd42b41ba29",

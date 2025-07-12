@@ -11377,7 +11377,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "Pegasus توانایی ضبط صدا را دارد."
     },
     {
       "created": "2017-12-14T16:46:06.044Z",
@@ -11550,7 +11551,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "\"Pegasus ... به طور مداوم تلفن را برای وضعیت نظارت می کند و هرگونه دسترسی دیگر به تلفن را از طریق نرم افزار قبلی/دیگر فرار از زندان غیرفعال می کند.\""
     },
     {
       "created": "2017-12-14T16:46:06.044Z",
@@ -11578,7 +11580,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "پگاسوس \"مخاطبین را از سیستم جمع می کند و کل کتاب آدرس قربانی را ریخته است.\""
     },
     {
       "created": "2017-12-14T16:46:06.044Z",
@@ -12477,7 +12480,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "\"بازیگران مخرب در پشت\" Shedun \"دوباره بسته بندی و تزریق کد مخرب را به هزاران برنامه محبوب موجود در Google Play ، و سپس بعداً آنها را به فروشگاه های برنامه شخص ثالث منتشر می کنند. در واقع ، ما معتقدیم که بسیاری از این برنامه ها واقعاً کاملاً کاربردی هستند ، علاوه بر کد مخرب که این دستگاه را ریشه می دهد.\""
     },
     {
       "created": "2017-12-14T16:46:06.044Z",
@@ -12563,7 +12567,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "موش Spynote می تواند مخاطبین را مشاهده کند."
     },
     {
       "created": "2017-12-14T16:46:06.044Z",

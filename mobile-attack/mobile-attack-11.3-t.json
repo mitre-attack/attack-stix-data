@@ -22751,7 +22751,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[eventbot] (https://attack.mitre.org/software/s0478) با استفاده از درخواست های HTTP با C2 ارتباط برقرار می کند."
     },
     {
       "object_marking_refs": [
@@ -23539,7 +23540,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[dendroid] (https://attack.mitre.org/software/s0301) می تواند تشخیص دهد که آیا روی یک شبیه ساز اجرا می شود. (استناد: Lookout-dendroid)"
     },
     {
       "object_marking_refs": [
@@ -24231,7 +24233,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[جودی] (https://attack.mitre.org/software/s0325) از دستگاه های آلوده برای تولید کلیک های کلاهبرداری بر روی تبلیغات برای تولید درآمد استفاده می کند."
     },
     {
       "object_marking_refs": [
@@ -24319,7 +24322,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[XBOT] (https://attack.mitre.org/software/s0298) از صفحات فیشینگ استفاده می کند که از رابط پرداخت Google Play و همچنین صفحات ورود به سیستم استفاده می کند. (استناد: Paloalto-xbot)"
     },
     {
       "object_marking_refs": [

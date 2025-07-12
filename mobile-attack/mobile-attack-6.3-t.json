@@ -7802,7 +7802,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[spydealer] (https://attack.mitre.org/software/s0324) پیام های پیام کوتاه و پیام های MMS از قربانیان را برداشت می کند."
     },
     {
       "type": "relationship",
@@ -7830,7 +7831,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Tangelo] (https://attack.mitre.org/software/s0329) شامل قابلیت های ضبط تماس و همچنین محیط دستگاه قربانی است."
     },
     {
       "type": "relationship",

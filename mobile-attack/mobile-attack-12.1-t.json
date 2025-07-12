@@ -11012,7 +11012,8 @@
       ],
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "spec_version": "2.1"
+      "spec_version": "2.1",
+      "description_fa": "مخالفان ممکن است به منظور دستکاری در نتایج خارجی یا پنهان کردن فعالیت ، داده ها را در مسیر ذخیره یا سایر سیستم ها تغییر دهند.با دستکاری داده های منتقل شده ، مخالفان ممکن است سعی در تأثیرگذاری بر یک فرایند تجاری ، درک سازمانی یا تصمیم گیری داشته باشند.\n\nدستکاری ممکن است از طریق اتصال شبکه یا بین فرآیندهای سیستم امکان پذیر باشد که فرصتی برای استقرار ابزاری وجود دارد که می تواند اطلاعات را رهگیری و تغییر دهد.نوع اصلاح و تأثیر آن به مکانیسم انتقال هدف و همچنین اهداف و اهداف طرف مقابل بستگی دارد.برای سیستم های پیچیده ، یک دشمن احتمالاً به تخصص ویژه و احتمالاً دسترسی به نرم افزارهای تخصصی مربوط به سیستم ، که معمولاً از طریق یک کمپین جمع آوری اطلاعات طولانی مدت به دست می آید ، نیاز دارد تا تأثیر مطلوب داشته باشد.\n\nیک روش برای دستیابی به [دستکاری داده های منتقل شده] (https://attack.mitre.org/techniques/t1641/001) با اصلاح محتویات کلیپ بورد دستگاه است.برنامه های مخرب ممکن است فعالیت کلیپ بورد را از طریق رابط `ClipboardManager.OnprimaryClipChangeDlistener در Android کنترل کنند تا مشخص شود که محتوای کلیپ بورد تغییر کرده است.گوش دادن به فعالیت کلیپ بورد ، خواندن محتوای کلیپ بورد و اصلاح محتوای کلیپ بورد نیازی به مجوزهای صریح برنامه ندارد و می تواند توسط برنامه های کاربردی در پس زمینه انجام شود.با این حال ، این رفتار با انتشار Android 10 تغییر کرده است.\n\nمخالفان ممکن است از [دستکاری داده های منتقل شده] استفاده کنند (https://attack.mitre.org/techniques/t1641/001) برای جایگزینی متن قبل از چسباندن.به عنوان مثال ، تعویض آدرس کیف پول بیت کوین کپی شده با آدرس کیف پول که تحت کنترل مخالف است.\n\n[دستکاری داده های منتقل شده] (https://attack.mitre.org/techniques/t1641/001) در تروجان Android/Clipper.c مشاهده شد.این نمونه توسط ESET در برنامه توزیع شده از طریق فروشگاه Google Play که شماره های کیف پول cryptocurrency را هدف قرار داده است ، شناسایی شد. (استناد: اصلاح کلیپ بورد ESET فوریه 2019)"
     },
     {
       "x_mitre_platforms": [
@@ -11109,7 +11110,8 @@
       ],
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "spec_version": "2.1"
+      "spec_version": "2.1",
+      "description_fa": "مخالفان ممکن است شناسه منابع یکنواخت (URIS) را برای رهگیری داده های حساس ثبت کنند.\n\nبرنامه ها به طور مرتب URI ها را در سیستم عامل ثبت می کنند تا به عنوان یک پاسخ دهنده پاسخ برای اقدامات مختلف ، مانند ورود به یک برنامه با استفاده از یک حساب خارجی از طریق ورود به سیستم ، عمل کنند.این اجازه می دهد تا تغییر مسیر به آن URI خاص توسط برنامه رهگیری شود.اگر یک برنامه مخرب برای ثبت نام برای URI که قبلاً توسط یک برنامه اصلی مورد استفاده قرار گرفته بود ، ممکن است برنامه مخرب بتواند داده های در نظر گرفته شده برای برنامه اصلی را رهگیری کند یا حمله فیشینگ را در برابر برنامه اصلی انجام دهد.داده های رهگیری شده ممکن است شامل کدهای مجوز OAUTH یا نشانه هایی باشد که می توانند توسط برنامه مخرب برای دستیابی به منابع مورد استفاده قرار گیرند."
     },
     {
       "x_mitre_platforms": [
@@ -18850,7 +18852,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Defensor ID] (https://attack.mitre.org/software/s0479) یک تروجان بانکی است که قادر به پاک کردن حساب بانکی قربانی یا کیف پول cryptocurrency و به دست آوردن ایمیل یا حساب های رسانه های اجتماعی است.[Defensor ID] (https://attack.mitre.org/software/s0479) با سوءاستفاده از سرویس دسترسی Android ، اکثر عملکردهای مخرب خود را انجام می دهد. (استناد: ESET Defensor ID)"
     },
     {
       "modified": "2022-10-24T15:09:07.609Z",
@@ -18886,7 +18889,8 @@
         "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
       ],
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Mazarbot] (https://attack.mitre.org/software/s0303) بدافزار Android است که در سال 2016 از طریق پیام کوتاه در دانمارک توزیع شد. (استناد: Tripwire-Mazarbot)"
     },
     {
       "x_mitre_platforms": [
@@ -18928,7 +18932,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[GINP] (https://attack.mitre.org/software/s0423) یک تروجان بانکی اندرویدی است که برای هدف قرار دادن بانک های اسپانیایی استفاده شده است.برخی از کد مستقیماً از [Anubis] (https://attack.mitre.org/software/s0422) گرفته شده است."
     },
     {
       "modified": "2022-10-24T15:09:07.609Z",
@@ -18964,7 +18969,8 @@
         "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
       ],
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[hummingwhale] (https://attack.mitre.org/software/s0321) یک خانواده بدافزار اندرویدی است که کلاهبرداری تبلیغاتی را انجام می دهد.(استناد: Arstechnica-Hummingwhale)"
     },
     {
       "x_mitre_platforms": [
@@ -19003,7 +19009,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[ESURV] (https://attack.mitre.org/software/s0507) نظارت بر موبایل است که برای بازار رهگیری قانونی طراحی شده است که در طول سالها توسعه یافته است. (استناد: Lookout ESURV)"
     },
     {
       "x_mitre_platforms": [
@@ -19044,7 +19051,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[monokle] (https://attack.mitre.org/software/s0407) نظارتی و پیشرفته نظارتی موبایل است.این برای Android ساخته شده است ، اما برخی از مصنوعات کد وجود دارد که نشان می دهد نسخه iOS ممکن است در حال توسعه باشد."
     },
     {
       "x_mitre_platforms": [
@@ -19082,7 +19090,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Red Alert 2.0] (https://attack.mitre.org/software/s0539) یک تروجان بانکی است که به عنوان مشتری VPN ماسک می زند. (استناد: Sophos Red Alert 2.0)"
     },
     {
       "x_mitre_platforms": [
@@ -19176,7 +19185,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Fakespy] (https://attack.mitre.org/software/s0509) جاسوسی Android است که توسط بازیگر تهدید چینی در پشت کمپین های رومینگ مانتیس اداره می شود. (استناد: CyberEason Fakespy)"
     },
     {
       "modified": "2022-10-24T15:09:07.609Z",
@@ -19218,7 +19228,8 @@
         "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
       ],
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[spydealer] (https://attack.mitre.org/software/s0324) بدافزار Android است که داده های حساس را از دستگاه های اندرویدی تبعید می کند.(استناد: Paloalto-spydealer)"
     },
     {
       "x_mitre_platforms": [
@@ -19298,7 +19309,8 @@
         "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
       ],
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Rumms] (https://attack.mitre.org/software/s0313) یک خانواده بدافزار Android است.(استناد: Fireeye-Rumms)"
     },
     {
       "modified": "2022-10-24T15:09:07.609Z",
@@ -19389,7 +19401,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[Frozencell] (https://attack.mitre.org/software/s0577) مؤلفه موبایل یک خانواده از محیط زیست است ، با یک مؤلفه دسک تاپ مربوطه معروف به Kasperagent و [micropsia] (https://attack.mitre.org/ortre.org/softwaout/software/s0339)."
     },
     {
       "x_mitre_platforms": [
@@ -19427,7 +19440,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[androidos/mallocker.b] (https://attack.mitre.org/software/s0524) نوعی از خانواده باج افزار است که دستگاه های اندرویدی را هدف قرار می دهد.این مانع از تعامل کاربر با UI با نمایش صفحه نمایش حاوی یک یادداشت باج در تمام ویندوزهای دیگر می شود.(استناد: Microsoft Mallockerb)"
     },
     {
       "modified": "2022-10-24T15:09:07.609Z",
@@ -19508,7 +19522,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[ChemistGames] (https://attack.mitre.org/software/s0555) یک پشتی مدولار است که توسط [تیم ساندورم] مستقر شده است (https://attack.mitre.org/groups/g0034)."
     },
     {
       "modified": "2022-10-24T15:09:07.609Z",
@@ -19544,7 +19559,8 @@
         "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
       ],
       "spec_version": "2.1",
-      "is_family": true
+      "is_family": true,
+      "description_fa": "[yispecter] (https://attack.mitre.org/software/s0311) بدافزار iOS که بر دستگاه های iOS زندان و غیر Jailbroken تأثیر می گذارد.همچنین بی نظیر است زیرا از API های خصوصی در سیستم iOS برای اجرای عملکرد استفاده می کند.(استناد: Paloalto-yispecter)"
     },
     {
       "modified": "2022-10-24T15:09:07.609Z",
@@ -24563,7 +24579,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[cerberus] (https://attack.mitre.org/software/s0480) پس از اولین بار راه اندازی ، نماد خود را از کشوی برنامه پنهان می کند. (استناد: پارچه تهدید Cerberus)"
     },
     {
       "object_marking_refs": [
@@ -24620,7 +24637,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[جام طلایی] (https://attack.mitre.org/software/s0535) در دو مرحله توزیع شده است. (استناد: Symantec GoldenCup)"
     },
     {
       "object_marking_refs": [
@@ -24741,7 +24759,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[نان] (https://attack.mitre.org/software/s0432) از JavaScript در WebViews استفاده کرده است که یک URL را که بر روی یک سرور کنترل شده با نان برگزار می شود ، بارگذاری کرده است که توابع لازم را برای اجرا فراهم می کند.[نان] (https://attack.mitre.org/software/s0432) مراحل اجرای کلاهبرداری صورتحساب را در زمان اجرا بارگیری می کند. (استناد: نان گوگل)"
     },
     {
       "object_marking_refs": [
@@ -24997,7 +25016,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Terracotta] (https://attack.mitre.org/software/s0545) فرمی برای جمع آوری داده های کاربر پس از نصب نشان داده است. (استناد: WhiteOps Terracotta)"
     },
     {
       "object_marking_refs": [
@@ -25852,7 +25872,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[doubleegent] (https://attack.mitre.org/software/s0550) از سوء استفاده ها برای دستگاه های ریشه و نصب بدافزار اضافی در پارتیشن سیستم استفاده کرده است. (استناد: کمپین Uyghur Lookout)"
     },
     {
       "object_marking_refs": [
@@ -28888,7 +28909,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[ViceLeaker] (https://attack.mitre.org/software/s0418) از Exfiltration Data HTTP استفاده می کند. (استناد: Securelist - ViceLeaker 2019) (استناد: Bitdefender - Triout 2018)"
     },
     {
       "object_marking_refs": [
@@ -30515,7 +30537,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[gplayed] (https://attack.mitre.org/software/s0536) توانایی بارگذاری از راه دور افزونه ها را دارد و کد جدید .NET را بارگیری و کامپایل می کند. (استناد: talos gplayed)"
     },
     {
       "object_marking_refs": [
@@ -30543,7 +30566,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[SkyGofree] (https://attack.mitre.org/software/s0327) می تواند وقتی یک دستگاه آلوده در یک مکان مشخص است ، فیلمبرداری را ضبط یا ضبط کند. (استناد: Kaspersky-SkyGofree)"
     },
     {
       "object_marking_refs": [
@@ -30635,7 +30659,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[عامل اسمیت] (https://attack.mitre.org/software/s0440) تبلیغات کلاهبرداری را برای تولید درآمد نشان می دهد. (استناد: نماینده بازرسی اسمیت)"
     },
     {
       "object_marking_refs": [
@@ -31053,7 +31078,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[doubleegent] (https://attack.mitre.org/software/s0550) به سیاهههای تماس دسترسی پیدا کرده است. (استناد: کمپین Lookout Uyghur)"
     },
     {
       "object_marking_refs": [
@@ -31110,7 +31136,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[anubis] (https://attack.mitre.org/software/s0422) می تواند شناسه دستگاه را جمع کند. (استناد: Cofense anubis)"
     },
     {
       "object_marking_refs": [
@@ -31138,7 +31165,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[ViceLeaker] (https://attack.mitre.org/software/s0418) می تواند لیستی از برنامه های نصب شده را بدست آورد. (استناد: Securelist - ViceLeaker 2019)"
     },
     {
       "object_marking_refs": [
@@ -31896,7 +31924,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Tiktok Pro] (https://attack.mitre.org/software/s0558) می تواند دستورات را اجرا کند. (استناد: Zscaler Tiktok Spyware)"
     },
     {
       "object_marking_refs": [
@@ -31917,7 +31946,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "Android 7.0 و بالاتر شامل محافظت های اضافی در برابر این تکنیک است."
     },
     {
       "object_marking_refs": [
@@ -31970,7 +32000,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Red Alert 2.0] (https://attack.mitre.org/software/s0539) می تواند مجوزهای مدیر دستگاه را درخواست کند. (استناد: Sophos Red Alert 2.0)"
     },
     {
       "object_marking_refs": [
@@ -32283,7 +32314,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Android/addisplay.ashas] (https://attack.mitre.org/software/s0525) با سرور C2 با استفاده از HTTP ارتباط برقرار کرده است."
     },
     {
       "object_marking_refs": [
@@ -35931,7 +35963,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "نسخه های اخیر Android نحوه حذف برنامه های مدیر دستگاه را اصلاح کرده است و باعث می شود کاربر آنها را حذف کند.Android 7 به روزرسانی هایی را معرفی کرد که توانایی تنظیم مجدد رمز عبور دستگاه را لغو می کند."
     },
     {
       "object_marking_refs": [
@@ -36044,7 +36077,8 @@
       "x_mitre_attack_spec_version": "2.1.0",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[riltok] (https://attack.mitre.org/software/s0403) می تواند جزئیات مختلفی را در مورد دستگاه از جمله شماره تلفن ، کشور ، اپراتور تلفن همراه ، مدل ، در دسترس بودن ریشه و نسخه سیستم عامل پرسیده شود. (استناد: Kaspersky Riltok ژوئن 2019)"
     },
     {
       "object_marking_refs": [
@@ -36103,7 +36137,8 @@
       "spec_version": "2.1",
       "x_mitre_domains": [
         "mobile-attack"
-      ]
+      ],
+      "description_fa": "[Pegasus for iOS] (https://attack.mitre.org/software/s0289) با ریختن کتاب آدرس آدرس قربانی ، مخاطبین را از سیستم جمع می کند. (استناد: Lookout-Pegasus)"
     },
     {
       "object_marking_refs": [

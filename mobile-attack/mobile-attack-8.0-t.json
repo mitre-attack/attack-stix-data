@@ -21327,7 +21327,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "تکنیک های بررسی برنامه های کاربردی می توانند برای استفاده از کلاس Android PackageManager برای شمارش برنامه های دیگر جستجو کنند ، و چنین برنامه هایی می توانند از نظر دقیق دیگری برای آنها استفاده کنند.با این حال ، اگر بسیاری از برنامه ها از این روش ها به عنوان بخشی از رفتار مشروع خود استفاده کنند ، ممکن است این تکنیک عملی نباشد.در iOS ، تکنیک های بررسی برنامه به طور مشابه می توانند برای استفاده از تماس API خصوصی برای بدست آوردن لیستی از برنامه های نصب شده در دستگاه ، به طور مشابه جستجو کنند.علاوه بر این ، در iOS ، استفاده از تماس API خصوصی احتمالاً منجر به پذیرش برنامه در فروشگاه App اپل خواهد شد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21381,7 +21382,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "تعاریف مخرب بالقوه از طرح های URL را هنگام بررسی برنامه ها بررسی کنید.همچنین ، هنگام بررسی برنامه ها برای آسیب پذیری های احتمالی ، استفاده از پیوندهای جهانی را به عنوان جایگزینی برای طرح های URL تشویق کنید.هنگام بررسی برنامه هایی که از OAuth استفاده می کنند ، استفاده از بهترین روش ها را تشویق می کنند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21414,7 +21416,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "هنگام بررسی برنامه های کاربردی برای نقاط ضعف امنیتی ، روند بررسی می تواند به دنبال استفاده ناامن از اهداف باشد.توسعه دهندگان باید از استفاده از تکنیک ها تشویق شوند تا اطمینان حاصل شود که قصد فقط به یک مقصد مناسب ارسال می شود (به عنوان مثال ، از اهداف صریح و نه ضمنی ، بررسی مجوز ، بررسی گواهی امضای برنامه مقصد یا ویژگی پیوندهای برنامه اضافه شده در Android 6.0).برای برنامه های تلفن همراه با استفاده از OAuth ، استفاده از بهترین روش را تشویق کنید. (استناد: IETF-OAUTHNATIVEAPPS) (استناد: Android-Applinks)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21442,7 +21445,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "یک رویکرد تجزیه و تحلیل استاتیک ممکن است بتواند برنامه های باج افزار را که پرونده های کاربر را در دستگاه رمزگذاری می کنند ، شناسایی کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21470,7 +21474,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "تکنیک های استفاده از برنامه های کاربردی می توانند برای استفاده از ارتباطات ClearText ، پیاده سازی های ناامن TrustManager و سایر نقاط ضعف ارتباطی شبکه را اسکن کنند.فروشگاه Google Play اکنون به طور خودکار برنامه های ارسال شده برای پیاده سازی های TrustManager ناامن را ارزیابی می کند. (استناد: Google-trustmanager)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -21491,7 +21496,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "گزارش های مربوط به گزارش برنامه ممکن است ارتباطات شبکه ای را که توسط برنامه انجام شده است ، از جمله میزبان ، درگاه ها ، پروتکل ها و URL ها نشان دهد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -22505,7 +22511,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[SIMBAD] (https://attack.mitre.org/software/s0419) می تواند برنامه های مشخص شده حمله کننده را نصب کند. (استناد: بازرسی Simbad 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -22794,7 +22801,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Simbad] (https://attack.mitre.org/software/s0419) از طریق فروشگاه Google Play توزیع شد. (استناد: بازرسی Simbad 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -22873,7 +22881,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "برنامه های کاربردی با اتصالات شبکه به دامنه های ناشناخته یا آدرس های IP می توانند برای شناسایی کپی کردن پرونده غیرمجاز بیشتر مورد بررسی قرار گیرند.علاوه بر این ، برخی از خدمات بررسی برنامه ها ممکن است دقیقاً نشان دهند که چه محتوا در هنگام اجرای برنامه درخواست شده است."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -22930,7 +22939,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[monokle] (https://attack.mitre.org/software/s0407) می تواند پرونده های مشخص شده مهاجم را بارگیری کند. (استناد: Lookout-Monokle)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -22958,7 +22968,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "در Android 8 ، رفتار قصد پخش تغییر یافت و اهداف ضمنی را که برنامه ها می توانند در مانیفست ثبت نام کنند ، محدود می کند. (استناد: تغییرات اندرویدی در پخش سیستم)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -23044,7 +23055,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[GolfSpy] (https://attack.mitre.org/software/s0421) می تواند برنامه های مشخص شده برای مهاجم را نصب کند. (استناد: Trend Micro Bouncing Golf 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -23101,7 +23113,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[GolfSpy] (https://attack.mitre.org/software/s0421) می تواند لیستی از برنامه های نصب شده را بدست آورد. (استناد: Trend Micro -Bouncing Golf 2019)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -25564,7 +25577,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[نان] (https://attack.mitre.org/software/s0432) بسیاری از بررسی ها و رتبه بندی های جعلی در فروشگاه Play را داشت. (استناد: نان گوگل)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -25636,7 +25650,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "به روزرسانی های امنیتی غالباً حاوی تکه های آسیب پذیری است."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -27437,7 +27452,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Cerberus] (https://attack.mitre.org/software/s0480) می تواند لیستی از برنامه های نصب شده را بدست آورد. (استناد: پارچه تهدید Cerberus)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -27871,7 +27887,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Mandrake] (https://attack.mitre.org/software/s0485) می تواند مکان دستگاه را جمع کند. (استناد: Bitdefender Mandrake)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -28508,7 +28525,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Wolfrat] (https://attack.mitre.org/software/s0489) می تواند عکس و فیلم بگیرد. (استناد: Talos-Wolfrat)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -28768,7 +28786,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Wolfrat] (https://attack.mitre.org/software/s0489) می تواند صفحه را ضبط کرده و تصاویر را برای گرفتن پیام از خط ، پیام رسان فیس بوک و واتس اپ بگیرد. (استناد: Talos-Wolfrat)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -28883,7 +28902,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Xloader برای Android] (https://attack.mitre.org/software/s0318) آدرس C2 خود را از نام های رمزگذاری شده توییتر ، و همچنین اینستاگرام و Tumblr دریافت کرده است."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -28911,7 +28931,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[xloader برای Android] (https://attack.mitre.org/software/s0318) شناسه اندرویدی دستگاه و شماره سریال دستگاه را جمع می کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -28939,7 +28960,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Xloader برای Android] (https://attack.mitre.org/software/s0318) IMSI و ICCID دستگاه را جمع می کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -28996,7 +29018,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[xloader برای iOS] (https://attack.mitre.org/software/s0490) می تواند IMEM ، ICCID و MEID دستگاه را بدست آورد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29024,7 +29047,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[xloader برای iOS] (https://attack.mitre.org/software/s0490) می تواند UDID ، شماره نسخه و شماره محصول را بدست آورد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29081,7 +29105,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[نان] (https://attack.mitre.org/software/s0432) می تواند اعلان های دستگاه را جمع آوری کند. (استناد: Check Point-Joker)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29138,7 +29163,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Zen] (https://attack.mitre.org/software/s0494) می تواند کلیک کاربر را بر روی تبلیغات و درخواست های سیستم برای ایجاد حساب های جدید Google شبیه سازی کند. (استناد: Google Security Zen)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29253,7 +29279,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Zen] (https://attack.mitre.org/software/s0494) می تواند کلیک های کاربر را بر روی تبلیغات شبیه سازی کند. (استناد: Google Security Zen)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29281,7 +29308,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Zen] (https://attack.mitre.org/software/s0494) می تواند خود را برای رسیدن به پایداری بر روی پارتیشن سیستم نصب کند.[Zen] (https://attack.mitre.org/software/s0494) همچنین می تواند جایگزین \"Framework.jar\" شود ، که به آن اجازه می دهد تا رفتار API استاندارد Android را رهگیری و اصلاح کند. (استناد: Google Security Zen)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29440,7 +29468,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Desert Scorpion] (https://attack.mitre.org/software/s0505) می تواند پرونده های مشخص شده برای مهاجم را در سرور C2 بارگذاری کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29613,7 +29642,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Scorpion Desert] (https://attack.mitre.org/software/s0505) را می توان با استفاده از پیام های SMS کنترل کرد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29670,7 +29700,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[صحرا عقرب] (https://attack.mitre.org/software/s0505) می تواند اطلاعات حساب ذخیره شده در دستگاه را جمع آوری کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29698,7 +29729,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[صحرا عقرب] (https://attack.mitre.org/software/s0505) می تواند صدا را از تماس های تلفنی و میکروفون دستگاه ضبط کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29726,7 +29758,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Desert Scorpion] (https://attack.mitre.org/software/s0505) در صورت بارگیری APK های اضافی در ذخیره سازی خارجی ، می تواند نسخه های خود را حذف کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29754,7 +29787,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[صحرا عقرب] (https://attack.mitre.org/software/s0505) می تواند داده های بدشانس را رمزگذاری کند. (استناد: عقرب بی نظیر)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29782,7 +29816,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "اگر در حال اجرا بر روی دستگاه Huawei ، [Desert Scorpion] (https://attack.mitre.org/software/s0505) خود را به لیست برنامه های محافظت شده اضافه می کند ، که به آن اجازه می دهد تا با خاموش کردن صفحه اجرا شود."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29810,7 +29845,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[صحرا عقرب] (https://attack.mitre.org/software/s0505) می تواند پرونده های ذخیره شده در ذخیره سازی خارجی را لیست کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29867,7 +29903,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[Scorpion Desert] (https://attack.mitre.org/software/s0505) می تواند لیست تماس دستگاه را جمع آوری کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29917,7 +29954,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "خدمات گزارشگری برنامه می تواند مجوزهای غیر ضروری و بالقوه مورد آزار و اذیت مکان یا تماس های API را تشخیص دهد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29938,7 +29976,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "به کاربران توصیه می شود که از برنامه هایی که درخواست مجوزهای موقعیت مکانی را می دهند ، مورد بررسی قرار گیرند و هرگونه درخواست مجوز را برای برنامه هایی که آنها تشخیص نمی دهند ، رد کنند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29966,7 +30005,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "کاربران باید تشویق شوند که در مورد دسترسی به پیامک به چه برنامه هایی که به آنها دسترسی دارند ، بسیار مراقب باشند.علاوه بر این ، کاربران نباید پیامک پیام کوتاه پیش فرض خود را به برنامه هایی که تشخیص نمی دهند تغییر دهند. (استناد: SMS KITKAT)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -29987,7 +30027,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "خدمات گزارشگری برنامه می تواند بررسی بیشتری را برای برنامه هایی که درخواست مجوزهای مبتنی بر پیامک می کنند ، ارائه دهد."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -30112,7 +30153,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[GIMP] (https://attack.mitre.org/software/s0423) نمی تواند پیامک ارسال کند."
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
@@ -30285,7 +30327,8 @@
         "mobile-attack"
       ],
       "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-      "x_mitre_version": "1.0"
+      "x_mitre_version": "1.0",
+      "description_fa": "[viperrat] (https://attack.mitre.org/software/s0506) می تواند عکس های دستگاه ، اسناد PDF ، اسناد اداری ، تاریخچه مرورگر و نشانک های مرورگر را جمع آوری کند. (استناد: Lookout Viperrat)"
     },
     {
       "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",

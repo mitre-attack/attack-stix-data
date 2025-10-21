@@ -1,6 +1,7 @@
 # Utilities
 
-This folder contains utilities for the maintenance of the data in this repository. They are provided for maintainers within the ATT&CK team and to enable the ATT&CK community to release their own extensions of this dataset on similarly formatted repositories. 
+This folder contains utilities for the maintenance of the data in this repository.
+They are provided for maintainers within the ATT&CK team and to enable the ATT&CK community to release their own extensions of this dataset on similarly formatted repositories. 
 
 ## Requirements
 - [python3](https://www.python.org/)
@@ -24,3 +25,7 @@ The [ATT&CK Workbench](https://github.com/center-for-threat-informed-defense/att
 ## [index-to-md.py](index-to-md.py)
 
 This script transforms a machine readable collection index JSON file into a human readable Markdown file, providing a listing of the full contents of the collection index. Run `python3 util/index-to-md.py -h` for usage instructions.
+
+## Additional Files
+
+- [sample_3.3.0_stix-detection-strategy.json](./sample_3.3.0_stix-detection-strategy.json): A sample STIX file introducing the new Detection Strategy format using the [v3.3.0 ATT&CK Spec](https://mitre-attack.github.io/attack-data-model/).

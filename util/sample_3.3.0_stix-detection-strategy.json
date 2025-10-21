@@ -1,0 +1,534 @@
+[
+  {
+    "type": "x-mitre-data-component",
+    "id": "x-mitre-data-component--1887a270-576a-4049-84de-ef746b2572d6",
+    "created": "2021-10-20T15:05:19.272Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "revoked": false,
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "modified": "2025-09-03T15:32:27Z",
+    "name": "Process Access",
+    "description": "Refers to an event where one process attempts to open another process, typically to inspect or manipulate its memory, access handles, or modify execution flow. Monitoring these access attempts can provide valuable insight into both benign and malicious behaviors, such as debugging, inter-process communication (IPC), or process injection.\n\n*Data Collection Measures:*\n\n- Endpoint Detection and Response (EDR) Tools:\n    -  EDR solutions that provide telemetry on inter-process access and memory manipulation.\n- Sysmon (Windows):\n    - Event ID 10: Captures process access attempts, including:\n        - Source process (initiator)\n        - Target process (victim)\n        - Access rights requested\n        - Process ID correlation\n- Windows Event Logs:\n    - Event ID 4656 (Audit Handle to an Object): Logs access attempts to system objects.\n    - Event ID 4690 (Attempted Process Modification): Can help identify unauthorized process changes.\n- Linux/macOS Monitoring:\n    - AuditD: Monitors process access through syscall tracing (e.g., `ptrace`, `open`, `read`, `write`).\n    - eBPF/XDP: Used for low-level monitoring of kernel process access.\n    - OSQuery: Query process access behavior via structured SQL-like logging.\n- Procmon (Process Monitor) and Debugging Tools:\n    - Windows Procmon: Captures real-time process interactions.\n    - Linux strace / ptrace: Useful for tracking process behavior at the system call level.",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_deprecated": false,
+    "x_mitre_domains": [
+      "enterprise-attack"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "DC0001",
+        "url": "https://attack.mitre.org/datacomponents/DC0001"
+      }
+    ],
+    "x_mitre_version": "2.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_log_sources": [
+      {
+        "name": "sysmon",
+        "channel": "EventCode=10"
+      },
+      {
+        "name": "auditd:SYSCALL",
+        "channel": "ptrace"
+      }
+    ]
+  },
+  {
+    "type": "x-mitre-data-component",
+    "id": "x-mitre-data-component--3d20385b-24ef-40e1-9f56-f39750379077",
+    "created": "2021-10-20T15:05:19.272Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "revoked": false,
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "modified": "2025-09-03T15:32:27Z",
+    "name": "Process Creation",
+    "description": "Refers to the event in which a new process (executable) is initialized by an operating system. This can involve parent-child process relationships, process arguments, and environmental variables. Monitoring process creation is crucial for detecting malicious behaviors, such as execution of unauthorized binaries, scripting abuse, or privilege escalation attempts.\n\n*Data Collection Measures:*\n\n- Endpoint Detection and Response (EDR) Tools:\n    - EDRs provide process telemetry, tracking execution flows and arguments.\n- Windows Event Logs:\n    - Event ID 4688 (Audit Process Creation): Captures process creation with associated parent process.\n- Sysmon (Windows):\n    - Event ID 1 (Process Creation): Provides detailed logging\n- Linux/macOS Monitoring:\n    - AuditD (execve syscall): Logs process creation.\n    - eBPF/XDP: Used for low-level monitoring of system calls related to process execution.\n    - OSQuery: Allows SQL-like queries to track process events (process_events table).\n    - Apple Endpoint Security Framework (ESF): Monitors process creation on macOS.\n- Network-Based Monitoring:\n    - Zeek (Bro) Logs: Captures network-based process execution related to remote shells.\n    - Syslog/OSSEC: Tracks execution of processes on distributed systems.\n- Behavioral SIEM Rules:\n    - Monitor process creation for uncommon binaries in user directories.\n    - Detect processes with suspicious command-line arguments. ",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_deprecated": false,
+    "x_mitre_domains": [
+      "ics-attack",
+      "mobile-attack",
+      "enterprise-attack"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "DC0002",
+        "url": "https://attack.mitre.org/datacomponents/DC0002"
+      }
+    ],
+    "x_mitre_version": "2.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_log_sources": [
+      {
+        "name": "sysmon",
+        "channel": "EventCode=1"
+      },
+      {
+        "name": "auditd:SYSCALL",
+        "channel": "execve"
+      },
+      {
+        "name": "osquery:process_events",
+        "channel": "Invocation of osascript or dylib injection"
+      }
+    ]
+  },
+  {
+    "type": "x-mitre-data-component",
+    "id": "x-mitre-data-component--235b7491-2d2b-4617-9a52-3c0783680f71",
+    "created": "2021-10-20T15:05:19.273Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "revoked": false,
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "modified": "2025-09-03T15:32:27Z",
+    "name": "File Access",
+    "description": "To events where a file is opened or accessed, making its contents available to the requester. This includes reading, executing, or interacting with files by authorized or unauthorized entities. Examples include logging file access events (e.g., Windows Event ID 4663), monitoring file reads, and detecting unusual file access patterns. Examples: \n\n- File Read Operations: A user opens a sensitive document (e.g., financial_report.xlsx) on a shared drive.\n- File Execution: A script or executable file is accessed and executed (e.g., malware.exe is run from a temporary directory).\n- Unauthorized File Access: An unauthorized user attempts to access a protected configuration file (e.g., `/etc/passwd` on Linux or `System32` files on Windows).\n- File Access Patterns: Bulk access to multiple files in a short time (e.g., mass access to documents on a file server).\n- File Access via Network: Files on a network share are accessed remotely (e.g., logs of SMB file access).\n\nThis data component can be collected through the following measures:\n\nWindows\n\n- Windows Event Logs: Event ID 4663: Captures file system auditing details, including who accessed the file, access type, and file name.\n- Sysmon:\n    - Event ID 11: Logs file creation time changes.\n    - Event ID 1 (process creation): Can provide insight into files executed.\n- PowerShell: Commands to monitor file access in real-time: `Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4663}`\n\nLinux\n\n- Auditd: Monitor file access events using audit rules: `auditctl -w /path/to/file -p rwxa -k file_access`\n- View logs: `ausearch -k file_access`\n- Inotify: Use inotify to track file access on Linux: `inotifywait -m /path/to/watch -e access`\n\nmacOS\n\n- Unified Logs: Monitor file access using the macOS Unified Logging System.\n- FSEvents: File System Events can track file accesses: `fs_usage | grep open`\n\nNetwork Devices\n\n- SMB/CIFS Logs: Monitor file access over network shares using logs from SMB or CIFS protocol.\n- NAS Logs: Collect logs from network-attached storage systems for file access events.\n\nSIEM Integration\n\n- Collect file access logs from all platforms (Windows, Linux, macOS) and centralize in a SIEM for correlation and analysis.",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_deprecated": false,
+    "x_mitre_domains": [
+      "ics-attack",
+      "enterprise-attack"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "DC0003",
+        "url": "https://attack.mitre.org/datacomponents/DC0003"
+      }
+    ],
+    "x_mitre_version": "2.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_log_sources": [
+      {
+        "name": "wineventlog:security",
+        "channel": "EventCode=4663"
+      },
+      {
+        "name": "auditd:SYSCALL",
+        "channel": "open"
+      },
+      {
+        "name": "osquery:file_events",
+        "channel": "Access to Keychain DB or system.keychain"
+      }
+    ]
+  },
+  {
+    "type": "x-mitre-data-component",
+    "id": "x-mitre-data-component--ed0dd8aa-1677-4551-bb7d-8da767617e1b",
+    "created": "2021-10-20T15:05:19.273Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "revoked": false,
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "modified": "2025-09-03T15:32:27Z",
+    "name": "Windows Registry Key Access",
+    "description": "The action of opening a specific Windows Registry key, typically to read its associated value. This activity can be used for system configuration, application settings retrieval, and security policies.\n\n*Data Collection Measures:*\n\n- Windows Event Logs\n    - Event ID 4656 - Handle to an Object was Requested: Logs attempts to open registry keys.\n    - Event ID 4663 - An Object was Accessed: Captures read/write operations on registry keys.\n    - Event ID 4657 - Registry Value Modification: Useful for detecting changes to registry keys after being accessed.\n- Sysmon\n    - Sysmon Event ID 13 - Registry Value Set: Captures modifications to existing registry keys.\n- Endpoint Detection and Response (EDR) Solutions\n    - Provide telemetry on registry key access activities, especially when linked to suspicious processes.",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_deprecated": false,
+    "x_mitre_domains": [
+      "enterprise-attack"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "DC0004",
+        "url": "https://attack.mitre.org/datacomponents/DC0004"
+      }
+    ],
+    "x_mitre_version": "2.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_log_sources": [
+      {
+        "name": "wineventlog:security",
+        "channel": "EventCode=4662"
+      }
+    ]
+  },
+  {
+    "type": "x-mitre-data-component",
+    "id": "x-mitre-data-component--ee575f4a-2d4f-48f6-b18b-89067760adc1",
+    "created": "2021-10-20T15:05:19.272Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "revoked": false,
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "modified": "2025-09-03T15:32:27Z",
+    "name": "Process Metadata",
+    "description": "Contextual data about a running process, which may include information such as environment variables, image name, user/owner, etc.",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_deprecated": false,
+    "x_mitre_domains": [
+      "ics-attack",
+      "mobile-attack",
+      "enterprise-attack"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "DC0005",
+        "url": "https://attack.mitre.org/datacomponents/DC0005"
+      }
+    ],
+    "x_mitre_version": "2.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_log_sources": [
+      {
+        "name": "unifiedlog:process",
+        "channel": "Code Execution & Entitlement Access"
+      }
+    ]
+  },
+  {
+    "id": "x-mitre-analytic--775302d5-327c-4121-9bc8-37112310f06d",
+    "type": "x-mitre-analytic",
+    "spec_version": "2.1",
+    "name": "Analytic 0001",
+    "created": "2025-09-03T15:32:27Z",
+    "modified": "2025-09-03T15:32:27Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_version": "1.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "AN0001",
+        "url": "https://attack.mitre.org/detectionstrategies/DET0001#AN0001"
+      }
+    ],
+    "x_mitre_platforms": [
+      "Windows"
+    ],
+    "x_mitre_domains": [
+      "enterprise-attack"
+    ],
+    "description": "Processes accessing LSASS memory or SAM registry hives outside of trusted security tools, often followed by file creation or lateral movement. Detects unauthorized access to sensitive OS subsystems for credential extraction.",
+    "x_mitre_log_source_references": [
+      {
+        "x_mitre_data_component_ref": "x-mitre-data-component--1887a270-576a-4049-84de-ef746b2572d6",
+        "name": "sysmon",
+        "channel": "EventCode=10"
+      },
+      {
+        "x_mitre_data_component_ref": "x-mitre-data-component--3d20385b-24ef-40e1-9f56-f39750379077",
+        "name": "sysmon",
+        "channel": "EventCode=1"
+      },
+      {
+        "x_mitre_data_component_ref": "x-mitre-data-component--235b7491-2d2b-4617-9a52-3c0783680f71",
+        "name": "wineventlog:security",
+        "channel": "EventCode=4663"
+      },
+      {
+        "x_mitre_data_component_ref": "x-mitre-data-component--ed0dd8aa-1677-4551-bb7d-8da767617e1b",
+        "name": "wineventlog:security",
+        "channel": "EventCode=4662"
+      }
+    ],
+    "x_mitre_mutable_elements": [
+      {
+        "field": "AccessMask",
+        "description": "Set to detect full access rights (0x1F0FFF) or modify based on tool behavior."
+      },
+      {
+        "field": "TimeWindow",
+        "description": "Define how soon access to LSASS is followed by suspicious file or registry activity."
+      },
+      {
+        "field": "ParentProcessFilter",
+        "description": "Allowlist known security tools or system processes accessing LSASS."
+      }
+    ]
+  },
+  {
+    "id": "x-mitre-analytic--6693fadf-635a-4670-b139-df00c751aa44",
+    "type": "x-mitre-analytic",
+    "spec_version": "2.1",
+    "name": "Analytic 0002",
+    "created": "2025-09-03T15:32:27Z",
+    "modified": "2025-09-03T15:32:27Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_version": "1.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "AN0002",
+        "url": "https://attack.mitre.org/detectionstrategies/DET0001#AN0002"
+      }
+    ],
+    "x_mitre_platforms": [
+      "Linux"
+    ],
+    "x_mitre_domains": [
+      "enterprise-attack"
+    ],
+    "description": "Processes opening /proc/*/mem or /proc/*/maps targeting credential-storing services like sshd or login. Behavior often includes high privilege escalation and memory inspection tools such as gcore or gdb.",
+    "x_mitre_log_source_references": [
+      {
+        "x_mitre_data_component_refs": "x-mitre-data-component--1887a270-576a-4049-84de-ef746b2572d6",
+        "name": "auditd:SYSCALL",
+        "channel": "ptrace"
+      },
+      {
+        "x_mitre_data_component_refs": "x-mitre-data-component--3d20385b-24ef-40e1-9f56-f39750379077",
+        "name": "auditd:SYSCALL",
+        "channel": "execve"
+      },
+      {
+        "x_mitre_data_component_refs": "x-mitre-data-component--235b7491-2d2b-4617-9a52-3c0783680f71",
+        "name": "auditd:SYSCALL",
+        "channel": "open"
+      }
+    ],
+    "x_mitre_mutable_elements": [
+      {
+        "field": "TargetProcessName",
+        "description": "Define sensitive targets (e.g., sshd, login) being memory-read."
+      },
+      {
+        "field": "ToolProcessName",
+        "description": "Flag use of memory dump tools like gcore, gdb, pmap."
+      }
+    ]
+  },
+  {
+    "id": "x-mitre-analytic--9d59f2c4-b494-4898-a08d-98892ea4ba81",
+    "type": "x-mitre-analytic",
+    "spec_version": "2.1",
+    "name": "Analytic 0003",
+    "created": "2025-09-03T15:32:27Z",
+    "modified": "2025-09-03T15:32:27Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_version": "1.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "AN0003",
+        "url": "https://attack.mitre.org/detectionstrategies/DET0001#AN0003"
+      }
+    ],
+    "x_mitre_platforms": [
+      "macOS"
+    ],
+    "x_mitre_domains": [
+      "enterprise-attack"
+    ],
+    "description": "Unsigned processes accessing system memory or launching known credential scraping tools (e.g., osascript, dylib injections) to access the Keychain or sensitive memory regions.",
+    "x_mitre_log_source_references": [
+      {
+        "x_mitre_data_component_ref": "x-mitre-data-component--3d20385b-24ef-40e1-9f56-f39750379077",
+        "name": "osquery:process_events",
+        "channel": "Invocation of osascript or dylib injection"
+      },
+      {
+        "x_mitre_data_component_ref": "x-mitre-data-component--235b7491-2d2b-4617-9a52-3c0783680f71",
+        "name": "osquery:file_events",
+        "channel": "Access to Keychain DB or system.keychain"
+      },
+      {
+        "x_mitre_data_component_ref": "x-mitre-data-component--ee575f4a-2d4f-48f6-b18b-89067760adc1",
+        "name": "unifiedlog:process",
+        "channel": "Code Execution & Entitlement Access"
+      }
+    ],
+    "x_mitre_mutable_elements": [
+      {
+        "field": "KeychainAccessPath",
+        "description": "Path to watch for abnormal access, e.g., /Library/Keychains/"
+      },
+      {
+        "field": "SignedBinaryStatus",
+        "description": "Filter out signed/trusted binaries."
+      }
+    ]
+  },
+  {
+    "id": "x-mitre-detection-strategy--7c93fd1a-1e6b-4b4e-be42-0d843216a43d",
+    "type": "x-mitre-detection-strategy",
+    "spec_version": "2.1",
+    "created": "2025-09-03T15:32:27Z",
+    "modified": "2025-09-03T15:32:27Z",
+    "name": "Credential Dumping via Sensitive Memory and Registry Access Correlation",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_version": "1.0",
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "x_mitre_domains": [
+      "enterprise-attack"
+    ],
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "external_id": "DET0001",
+        "url": "https://attack.mitre.org/detectionstrategies/DET0001"
+      }
+    ],
+    "x_mitre_analytic_refs": [
+      "x-mitre-analytic--775302d5-327c-4121-9bc8-37112310f06d",
+      "x-mitre-analytic--6693fadf-635a-4670-b139-df00c751aa44",
+      "x-mitre-analytic--9d59f2c4-b494-4898-a08d-98892ea4ba81"
+    ]
+  },
+  {
+    "type": "relationship",
+    "id": "relationship--bae2dfef-79c0-4bba-8ca7-81fe2de71d5d",
+    "created": "2025-09-03T15:32:27Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "modified": "2025-09-03T15:32:27Z",
+    "description": "",
+    "relationship_type": "detects",
+    "source_ref": "x-mitre-detection-strategy--7c93fd1a-1e6b-4b4e-be42-0d843216a43d",
+    "target_ref": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_deprecated": false,
+    "x_mitre_attack_spec_version": "3.3.0"
+  },
+  {
+    "type": "attack-pattern",
+    "id": "attack-pattern--0a3ead4e-6d47-4ccb-854c-a6a4f9d96b22",
+    "created": "2017-05-31T21:30:19.735Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "revoked": false,
+    "external_references": [
+      {
+        "source_name": "mitre-attack",
+        "url": "https://attack.mitre.org/techniques/T1003",
+        "external_id": "T1003"
+      },
+      {
+        "source_name": "Medium Detecting Attempts to Steal Passwords from Memory",
+        "description": "French, D. (2018, October 2). Detecting Attempts to Steal Passwords from Memory. Retrieved October 11, 2019.",
+        "url": "https://medium.com/threatpunter/detecting-attempts-to-steal-passwords-from-memory-558f16dce4ea"
+      },
+      {
+        "source_name": "AdSecurity DCSync Sept 2015",
+        "description": "Metcalf, S. (2015, September 25). Mimikatz DCSync Usage, Exploitation, and Detection. Retrieved December 4, 2017.",
+        "url": "https://adsecurity.org/?p=1729"
+      },
+      {
+        "source_name": "Microsoft DRSR Dec 2017",
+        "description": "Microsoft. (2017, December 1). MS-DRSR Directory Replication Service (DRS) Remote Protocol. Retrieved December 4, 2017.",
+        "url": "https://msdn.microsoft.com/library/cc228086.aspx"
+      },
+      {
+        "source_name": "Microsoft NRPC Dec 2017",
+        "description": "Microsoft. (2017, December 1). MS-NRPC - Netlogon Remote Protocol. Retrieved December 6, 2017.",
+        "url": "https://msdn.microsoft.com/library/cc237008.aspx"
+      },
+      {
+        "source_name": "Microsoft GetNCCChanges",
+        "description": "Microsoft. (n.d.). IDL_DRSGetNCChanges (Opnum 3). Retrieved December 4, 2017.",
+        "url": "https://msdn.microsoft.com/library/dd207691.aspx"
+      },
+      {
+        "source_name": "Microsoft SAMR",
+        "description": "Microsoft. (n.d.). MS-SAMR Security Account Manager (SAM) Remote Protocol (Client-to-Server) - Transport. Retrieved December 4, 2017.",
+        "url": "https://msdn.microsoft.com/library/cc245496.aspx"
+      },
+      {
+        "source_name": "Powersploit",
+        "description": "PowerSploit. (n.d.). Retrieved December 4, 2014.",
+        "url": "https://github.com/mattifestation/PowerSploit"
+      },
+      {
+        "source_name": "Samba DRSUAPI",
+        "description": "SambaWiki. (n.d.). DRSUAPI. Retrieved December 4, 2017.",
+        "url": "https://wiki.samba.org/index.php/DRSUAPI"
+      },
+      {
+        "source_name": "Harmj0y DCSync Sept 2015",
+        "description": "Schroeder, W. (2015, September 22). Mimikatz and DCSync and ExtraSids, Oh My. Retrieved December 4, 2017.",
+        "url": "http://www.harmj0y.net/blog/redteaming/mimikatz-and-dcsync-and-extrasids-oh-my/"
+      },
+      {
+        "source_name": "Brining MimiKatz to Unix",
+        "description": "Tim Wadhwa-Brown. (2018, November). Where 2 worlds collide Bringing Mimikatz et al to UNIX. Retrieved October 13, 2021.",
+        "url": "https://labs.portcullis.co.uk/download/eu-18-Wadhwa-Brown-Where-2-worlds-collide-Bringing-Mimikatz-et-al-to-UNIX.pdf"
+      }
+    ],
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "modified": "2025-04-15T22:53:37.617Z",
+    "name": "OS Credential Dumping",
+    "description": "Adversaries may attempt to dump credentials to obtain account login and credential material, normally in the form of a hash or a clear text password. Credentials can be obtained from OS caches, memory, or structures.(Citation: Brining MimiKatz to Unix) Credentials can then be used to perform [Lateral Movement](https://attack.mitre.org/tactics/TA0008) and access restricted information.\n\nSeveral of the tools mentioned in associated sub-techniques may be used by both adversaries and professional security testers. Additional custom tools likely exist as well.\n",
+    "kill_chain_phases": [
+      {
+        "kill_chain_name": "mitre-attack",
+        "phase_name": "credential-access"
+      }
+    ],
+    "x_mitre_attack_spec_version": "3.3.0",
+    "x_mitre_contributors": [
+      "Vincent Le Toux",
+      "Ed Williams, Trustwave, SpiderLabs",
+      "Tim (Wadhwa-)Brown",
+      "Yves Yonan"
+    ],
+    "x_mitre_deprecated": false,
+    "x_mitre_domains": [
+      "enterprise-attack"
+    ],
+    "x_mitre_is_subtechnique": false,
+    "x_mitre_modified_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "x_mitre_platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "x_mitre_version": "2.2"
+  },
+  {
+    "modified": "2025-03-19T15:00:40.855Z",
+    "name": "The MITRE Corporation",
+    "description": "",
+    "identity_class": "organization",
+    "type": "identity",
+    "id": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "created": "2017-06-01T00:00:00.000Z",
+    "object_marking_refs": [
+      "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168"
+    ],
+    "x_mitre_attack_spec_version": "3.3.0"
+  },
+  {
+    "definition": {
+      "statement": "Copyright 2015-2025, The MITRE Corporation. MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation."
+    },
+    "id": "marking-definition--fa42a846-8d90-4e51-bc29-71d5b4802168",
+    "type": "marking-definition",
+    "created": "2017-06-01T00:00:00.000Z",
+    "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
+    "definition_type": "statement"
+  }
+]

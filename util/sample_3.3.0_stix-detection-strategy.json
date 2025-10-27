@@ -284,17 +284,17 @@
     "description": "Processes opening /proc/*/mem or /proc/*/maps targeting credential-storing services like sshd or login. Behavior often includes high privilege escalation and memory inspection tools such as gcore or gdb.",
     "x_mitre_log_source_references": [
       {
-        "x_mitre_data_component_refs": "x-mitre-data-component--1887a270-576a-4049-84de-ef746b2572d6",
+        "x_mitre_data_component_ref": "x-mitre-data-component--1887a270-576a-4049-84de-ef746b2572d6",
         "name": "auditd:SYSCALL",
         "channel": "ptrace"
       },
       {
-        "x_mitre_data_component_refs": "x-mitre-data-component--3d20385b-24ef-40e1-9f56-f39750379077",
+        "x_mitre_data_component_ref": "x-mitre-data-component--3d20385b-24ef-40e1-9f56-f39750379077",
         "name": "auditd:SYSCALL",
         "channel": "execve"
       },
       {
-        "x_mitre_data_component_refs": "x-mitre-data-component--235b7491-2d2b-4617-9a52-3c0783680f71",
+        "x_mitre_data_component_ref": "x-mitre-data-component--235b7491-2d2b-4617-9a52-3c0783680f71",
         "name": "auditd:SYSCALL",
         "channel": "open"
       }

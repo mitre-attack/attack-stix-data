@@ -58,7 +58,7 @@ The Usage document includes documentation of the ATT&CK data model as well as co
 
 ## Notice 
 
-Copyright 2020-2024 The MITRE Corporation. Approved for public release. Case number 19-3504.
+Copyright 2020-2025 The MITRE Corporation. Approved for public release. Case number 19-3504.
 
 This project makes use of ATT&CK®
 

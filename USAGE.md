@@ -89,7 +89,7 @@ You can see a full list of the classes which have versioned imports [here](https
 
 ### taxii2client
 
-Information on the TAXII 2.1/STIX2.1 server can be found in [the TAXII server repository](https://github.com/mitre-attack/attack-workbench-taxii-server/blob/main/docs/USAGE.md).
+Information on the TAXII 2.1/STIX2.1 server can be found in [the TAXII server repository](https://github.com/mitre-attack/attack-workbench-taxii-server).
 
 ## Access local content
 

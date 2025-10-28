@@ -136,7 +136,7 @@ Some users may instead prefer to access "live" ATT&CK content over the internet.
 
 ### Access from the ATT&CK TAXII server
 
-Information on the TAXII 2.1/STIX2.1 server can be found in [the TAXII server repository](https://github.com/mitre-attack/attack-workbench-taxii-server/blob/main/docs/USAGE.md).
+Information on the TAXII 2.1/STIX2.1 server can be found in [the TAXII server repository](https://github.com/mitre-attack/attack-workbench-taxii-server).
 
 ### Access the most recent version from GitHub via requests
 

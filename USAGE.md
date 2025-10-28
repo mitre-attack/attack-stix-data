@@ -89,7 +89,7 @@ You can see a full list of the classes which have versioned imports [here](https
 
 ### taxii2client
 
-At present there is no TAXII 2.1/STIX 2.1 server for the content of this repository. If you wish to access ATT&CK via TAXII you will need to use our TAXII 2.0/STIX 2.0 server instead. Please see our [MITRE/CTI GitHub repository](https://github.com/mitre/cti), and [the accompanying docs for our TAXII 2.0 server](https://github.com/mitre/cti/blob/master/USAGE.md#access-from-the-attck-taxii-server), for information about using that version of the dataset.
+Information on the TAXII 2.1/STIX2.1 server can be found in [the TAXII server repository](https://github.com/mitre-attack/attack-workbench-taxii-server).
 
 ## Access local content
 
@@ -124,7 +124,7 @@ def get_attack_version(domain, version):
     ms.load_from_file(os.path.join(domain, f"{domain}-{version}.json"))
     return ms
 
-src = get_attack_version("enterprise-attack", "6.2")
+src = get_attack_version("enterprise-attack", "18.0")
 ```
 
 ## Access live content
@@ -136,7 +136,7 @@ Some users may instead prefer to access "live" ATT&CK content over the internet.
 
 ### Access from the ATT&CK TAXII server
 
-At present there is no TAXII 2.1/STIX 2.1 server for the content of this repository. If you wish to access ATT&CK via TAXII you will need to use our TAXII 2.0/STIX 2.0 server instead. Please see our [MITRE/CTI GitHub repository](https://github.com/mitre/cti), and [the accompanying docs for our TAXII 2.0 server](https://github.com/mitre/cti/blob/master/USAGE.md#access-from-the-attck-taxii-server), for information about using that version of the dataset.
+Information on the TAXII 2.1/STIX2.1 server can be found in [the TAXII server repository](https://github.com/mitre-attack/attack-workbench-taxii-server).
 
 ### Access the most recent version from GitHub via requests
 
@@ -167,12 +167,12 @@ def get_data_from_version(domain, version):
     stix_json = requests.get(f"https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/{domain}/{domain}-{version}.json").json()
     return MemoryStore(stix_data=stix_json["objects"])
 
-src = get_data_from_version("enterprise-attack", "6.2")
+src = get_data_from_version("enterprise-attack", "18.0")
 ```
 
 ## Getting a list of versions
 
-The [collection index](/index.json) on this repository contains a full list of versions for each domain of ATT&CK. See our [collections document](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/master/docs/collections.md#collection-indexes) for more information about the format of collection indexes. You can also find a human-readable version of that file in [index.md](/index.md).
+The [collection index](/index.json) on this repository contains a full list of versions for each domain of ATT&CK. See our [collections document](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/blob/main/docs/collections.md#collection-indexes) for more information about the format of collection indexes. You can also find a human-readable version of that file in [index.md](/index.md).
 
 The collection index was added in the upgrade to STIX 2.1 and is not available for [the STIX 2.0 dataset](https://github.com/mitre/cti).
 
@@ -743,14 +743,14 @@ def parent_technique_of(thesrc):
     """return subtechnique_id => {technique, relationship} describing the parent technique of the subtechnique"""
     return get_related(thesrc, "attack-pattern", "subtechnique-of", "attack-pattern")[0]
 
-# technique:data-component
-def datacomponent_detects_techniques(thesrc):
-    """return datacomponent_id => {technique, relationship} describing the detections of each data component"""
-    return get_related(thesrc, "x-mitre-data-component", "detects", "attack-pattern")
+# detectionstrategy:technique
+def detectionstrategy_detects_techniques(thesrc):
+    """return detectionstrategy_id => {technique, relationship} describing the detections of each detection strategy"""
+    return get_related(thesrc, "x-mitre-detection-strategy", "detects", "attack-pattern")
 
-def technique_detected_by_datacomponents(thesrc):
-    """return technique_id => {datacomponent, relationship} describing the data components that can detect the technique"""
-    return get_related(thesrc, "x-mitre-data-component", "detects", "attack-pattern", reverse=True)
+def technique_detected_by_detectionstrategies(thesrc):
+    """return technique_id => {detectionstrategy, relationship} describing the detection strategies that can detect the technique"""
+    return get_related(thesrc, "x-mitre-detection-strategy", "detects", "attack-pattern", reverse=True)
 
 # Example usage:
 src = MemoryStore()

@@ -11,6 +11,7 @@ ATT&CK for Enterprise provides a knowledge base of real-world adversary behavior
 
 | version                                                                                                                                         | released         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| [Enterprise ATT&CK v18.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-18.1.json) | 13 November 2025 |
 | [Enterprise ATT&CK v18.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-18.0.json) | 28 October 2025  |
 | [Enterprise ATT&CK v17.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-17.1.json) | 06 May 2025      |
 | [Enterprise ATT&CK v17.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-17.0.json) | 22 April 2025    |
@@ -55,6 +56,7 @@ ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smar
 
 | version                                                                                                                                       | released         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| [Mobile ATT&CK v18.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-18.1.json)           | 13 November 2025 |
 | [Mobile ATT&CK v18.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-18.0.json)           | 28 October 2025  |
 | [Mobile ATT&CK v17.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-17.1.json)           | 06 May 2025      |
 | [Mobile ATT&CK v17.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-17.0.json)           | 22 April 2025    |
@@ -99,6 +101,7 @@ The ATT&CK for Industrial Control Systems (ICS) knowledge base categorizes the u
 
 | version                                                                                                                    | released         |
 |----------------------------------------------------------------------------------------------------------------------------|------------------|
+| [ICS ATT&CK v18.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-18.1.json) | 13 November 2025 |
 | [ICS ATT&CK v18.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-18.0.json) | 28 October 2025  |
 | [ICS ATT&CK v17.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-17.1.json) | 06 May 2025      |
 | [ICS ATT&CK v17.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-17.0.json) | 22 April 2025    |

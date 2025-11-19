@@ -1,5 +1,8 @@
 # ATT&CK® STIX Data
 
+### This is a Persian-translated derivative of MITRE ATT&CK® data. Original data © MITRE Corporation. Not officially endorsed by MITRE.
+
+
 [MITRE ATT&CK](https://attack.mitre.org) is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community. 
 
 This repository contains the MITRE ATT&CK dataset represented in STIX 2.1 JSON collections. If you are looking for STIX 2.0 JSON representing ATT&CK, please see our [MITRE/CTI](https://github.com/mitre/cti) GitHub repository which contains the same dataset but in STIX 2.0 and without the collections features provided on this repository.

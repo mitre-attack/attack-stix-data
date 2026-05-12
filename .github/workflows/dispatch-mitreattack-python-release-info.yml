@@ -1,0 +1,64 @@
+name: Dispatch mitreattack-python Release Info Update
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: ATT&CK version to send to mitreattack-python, for example 19.1
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    name: Dispatch mitreattack-python updater
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.ATTACK_AUTOBOT_CLIENT_ID }}
+          private-key: ${{ secrets.ATTACK_AUTOBOT_PRIVATE_KEY }}
+          owner: mitre-attack
+          repositories: mitreattack-python
+
+      - name: Resolve ATT&CK version
+        id: version
+        env:
+          RELEASE_TAG: ${{ github.event.release.tag_name || '' }}
+          INPUT_VERSION: ${{ github.event.inputs.version || '' }}
+        run: |
+          if [[ -n "${INPUT_VERSION}" ]]; then
+            version="${INPUT_VERSION}"
+          elif [[ -n "${RELEASE_TAG}" ]]; then
+            version="${RELEASE_TAG#v}"
+          else
+            echo "Pass version when running this workflow manually."
+            exit 1
+          fi
+
+          if [[ ! "${version}" =~ ^[0-9]+\.[0-9]+([-.][A-Za-z0-9]+)?$ ]]; then
+            echo "Could not parse ATT&CK version from '${version}'."
+            exit 1
+          fi
+
+          echo "version=${version}" >> "${GITHUB_OUTPUT}"
+
+      - name: Dispatch mitreattack-python workflow
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          VERSION: ${{ steps.version.outputs.version }}
+          SOURCE_RELEASE_URL: ${{ github.event.release.html_url || '' }}
+        run: |
+          gh workflow run update-release-info-pr.yml \
+            --repo mitre-attack/mitreattack-python \
+            --ref main \
+            -f attack_version="${VERSION}" \
+            -f source_repo="${GITHUB_REPOSITORY}" \
+            -f source_release_url="${SOURCE_RELEASE_URL}"

@@ -11,6 +11,7 @@ ATT&CK for Enterprise provides a knowledge base of real-world adversary behavior
 
 | version                                                                                                                                         | released         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| [Enterprise ATT&CK v20.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-20.0.json) | 13 October 2026  |
 | [Enterprise ATT&CK v19.2](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-19.2.json) | 05 August 2026   |
 | [Enterprise ATT&CK v19.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-19.1.json) | 12 May 2026      |
 | [Enterprise ATT&CK v19.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-19.0.json) | 28 April 2026    |
@@ -53,20 +54,13 @@ ATT&CK for Enterprise provides a knowledge base of real-world adversary behavior
 | [Enterprise ATT&CK v2.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-2.0.json)   | 18 April 2018    |
 | [Enterprise ATT&CK v1.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-1.0.json)   | 17 January 2018  |
 
-#### Enterprise ATT&CK
-
-ATT&CK for Enterprise provides a knowledge base of real-world adversary behavior targeting traditional enterprise networks. ATT&CK for Enterprise covers the following platforms: Windows, macOS, Linux, PRE, Office 365, Google Workspace, IaaS, Network Devices, and Containers.
-
-| version                                                                                                                                         | released        |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| [Enterprise ATT&CK v20.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/enterprise-attack/enterprise-attack-20.0.json) | 13 October 2026 |
-
 #### Mobile ATT&CK
 
 ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smartphones and tablets running the Android or iOS/iPadOS operating systems). ATT&CK for Mobile builds upon NIST's Mobile Threat Catalogue and also contains a separate matrix of network-based effects, which are techniques that an adversary can employ without access to the mobile device itself.
 
 | version                                                                                                                                       | released         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| [Mobile ATT&CK v20.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-20.0.json)           | 13 October 2026  |
 | [Mobile ATT&CK v19.2](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-19.2.json)           | 05 August 2026   |
 | [Mobile ATT&CK v19.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-19.1.json)           | 12 May 2026      |
 | [Mobile ATT&CK v19.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-19.0.json)           | 28 April 2026    |
@@ -109,28 +103,13 @@ ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smar
 | [Mobile ATT&CK v2.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-2.0.json)             | 18 April 2018    |
 | [Mobile ATT&CK v1.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-1.0.json)             | 17 January 2018  |
 
-#### Mobile ATT&CK
-
-ATT&CK for Mobile is a matrix of adversary behavior against mobile devices (smartphones and tablets running the Android or iOS/iPadOS operating systems). ATT&CK for Mobile builds upon NIST's Mobile Threat Catalogue and also contains a separate matrix of network-based effects, which are techniques that an adversary can employ without access to the mobile device itself.
-
-| version                                                                                                                             | released        |
-|-------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| [Mobile ATT&CK v20.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/mobile-attack/mobile-attack-20.0.json) | 13 October 2026 |
-
-#### ICS ATT&CK
-
-The ATT&CK for Industrial Control Systems (ICS) knowledge base categorizes the unique set of tactics, techniques, and procedures (TTPs) used by threat actors in the ICS technology domain. ATT&CK for ICS outlines the portions of an ICS attack that are out of scope of Enterprise and reflects the various phases of an adversary’s attack life cycle and the assets and systems they are known to target.
-
-| version                                                                                                                    | released        |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------|
-| [ICS ATT&CK v20.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-20.0.json) | 13 October 2026 |
-
 #### ICS ATT&CK
 
 The ATT&CK for Industrial Control Systems (ICS) knowledge base categorizes the unique set of tactics, techniques, and procedures (TTPs) used by threat actors in the ICS technology domain. ATT&CK for ICS outlines the portions of an ICS attack that are out of scope of Enterprise and reflects the various phases of an adversary’s attack life cycle and the assets and systems they are known to target.
 
 | version                                                                                                                    | released         |
 |----------------------------------------------------------------------------------------------------------------------------|------------------|
+| [ICS ATT&CK v20.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-20.0.json) | 13 October 2026  |
 | [ICS ATT&CK v19.2](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-19.2.json) | 05 August 2026   |
 | [ICS ATT&CK v19.1](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-19.1.json) | 12 May 2026      |
 | [ICS ATT&CK v19.0](https://raw.githubusercontent.com/mitre-attack/attack-stix-data/master/ics-attack/ics-attack-19.0.json) | 28 April 2026    |

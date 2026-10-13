@@ -4,7 +4,7 @@
     "objects": [
         {
             "type": "x-mitre-collection",
-            "id": "x-mitre-collection--9f444bea-15bf-4951-aaf6-9c6ac0d7f632",
+            "id": "x-mitre-collection--1f5f1533-f617-4ca8-9ab4-6a02367fa019",
             "x_mitre_attack_spec_version": "3.3.0",
             "name": "Enterprise ATT&CK",
             "x_mitre_version": "20.0",

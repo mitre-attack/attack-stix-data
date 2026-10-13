@@ -4,7 +4,7 @@
     "objects": [
         {
             "type": "x-mitre-collection",
-            "id": "x-mitre-collection--43b40ec6-5ab0-4a72-900b-68a57a2532c2",
+            "id": "x-mitre-collection--90c00720-636b-4485-b342-8751d232bf09",
             "x_mitre_attack_spec_version": "3.3.0",
             "name": "ICS ATT&CK",
             "x_mitre_version": "20.0",

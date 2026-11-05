@@ -10,7 +10,7 @@
             "x_mitre_version": "20.0",
             "description": "ATT&CK for Enterprise provides a knowledge base of real-world adversary behavior targeting traditional enterprise networks. ATT&CK for Enterprise covers the following platforms: Windows, macOS, Linux, PRE, Office 365, Google Workspace, IaaS, Network Devices, and Containers.",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2026-08-04T20:31:11.132Z",
+            "created": "2018-01-17T12:56:55.080Z",
             "modified": "2026-10-13T17:53:10.145Z",
             "x_mitre_contents": [
                 {

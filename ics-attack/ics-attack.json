@@ -10,7 +10,7 @@
             "x_mitre_version": "20.0",
             "description": "The ATT&CK for Industrial Control Systems (ICS) knowledge base categorizes the unique set of tactics, techniques, and procedures (TTPs) used by threat actors in the ICS technology domain. ATT&CK for ICS outlines the portions of an ICS attack that are out of scope of Enterprise and reflects the various phases of an adversary’s attack life cycle and the assets and systems they are known to target.",
             "created_by_ref": "identity--c78cb6e5-0c4b-4611-8297-d1b8b55e40b5",
-            "created": "2026-08-04T20:31:11.216Z",
+            "created": "2020-10-27T14:49:39.188Z",
             "modified": "2026-10-13T17:54:18.154Z",
             "x_mitre_contents": [
                 {
